@@ -1,8 +1,8 @@
 # Site
-name: "Blog of Dinakaran"
-title: "Blog of Dinakaran"
-description: "Confessions of Rambled Mind"
-meta_description: "Jekyll template, Medium styled, free for bloggers."
+name: "D Digitally"
+title: "D Digitally"
+description: "Hot takes on All Things Digital"
+meta_description: "Blog of Dinakaran Sankaranarayanan"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /blog
@@ -36,7 +36,7 @@ authors:
     email: dinakaranonline@gmail.com
     web: https://dinakaran.dev
     twitter: https://twitter.com/dks
-    description: "Howdy, This is Dinakaran. Hope you like my blog"
+    description: "Howdy, This is Dinakaran"
 
 
 # Plugins
