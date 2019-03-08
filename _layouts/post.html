@@ -3,6 +3,7 @@ layout: default
 disqus: false
 archive: false
 post_class: post-template
+published: true
 ---
 
 <!-- Begin Article
@@ -99,21 +100,7 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
-  
 
-<!-- Begin Comments
-================================================== -->
-{% if page.comments != false %}
-    <div class="container">
-        <div id="comments" class="row justify-content-center mb-5">
-            <div class="col-md-8">              
-                {% include disqus.html %}                
-            </div>
-        </div>
-    </div>
-{% endif %}
-<!--End Comments
-================================================== -->
 
 
 <!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
