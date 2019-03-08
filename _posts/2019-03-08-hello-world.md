@@ -7,7 +7,7 @@ published: true
 ---
 Well, I do not really remember when was the last time I blogged. I had my fair share of attempts at running a personal blog and tech-focused blog long back. With the advent of Facebook and Twitter, I stopped blogging and the interest to write anything is restricted to mostly Twitter threads.
 
-The genesis for this blog was triggered when I purchased a new .dev domain [dinakaran.dev](https://dinakaran.dev) a few days back. Even a couple of years back, I registered one more domain and set up a single page profile using some free hosting provider. But beyond that, I lost interest to do anything. I hope this time I do something with this domain. 
+The genesis for this blog was triggered when I purchased a new .dev domain [dinakaran.dev](https://dinakaran.dev) a few days back. Even a couple of years back, I registered one more domain and set up a single page profile using some free hosting provider. But beyond that, I lost interest to do anything. I hope that I do something with this domain this time. 
 
 I was looking for some blog hosting options which could help me to use my custom domain for the blog. Blogspot allowed it but the themes were limited. Wordpress and other providers had options but nothing was free. I wanted a very _Medium-ish_ design for a very minimal look and feel. I spent a really long time searching but could not zero in on any decent options.
 
