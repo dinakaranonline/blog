@@ -6,7 +6,7 @@ featured: true
 categories:
   - Jekyll
   - tutorial
-image: assets/images/16.jpg
+image: assets/images/emma-matthews-973230-unsplash.jpg
 published: true
 ---
 ![emma-matthews-973230-unsplash.jpg]({{site.baseurl}}/assets/images/emma-matthews-973230-unsplash.jpg)
