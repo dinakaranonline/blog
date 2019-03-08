@@ -19,4 +19,3 @@ I hurriedly did a bit of basic customization to remove some bits and pieces and 
 I do hope that this time around, I keep blogging without stopping after a couple of months. I have still not decided on what to blog so far.Let's see how it goes. Fingers crossed.
 
 Cheers
-D
