@@ -26,6 +26,26 @@ published: true
                 
                 <!-- Post Title -->
 				<h1 class="posttitle">{{ page.title }}</h1> 
+				
+		 <!-- Author Box -->	
+                {% if page.author %}					
+				<div class="row post-top-meta">	
+					<div>	
+						
+ 						 <!-- Post Date -->	
+						    <p>	
+						    <small>	
+							<span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           	
+							{% if page.last_modified_at %}	
+							(Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)	
+							{% endif %}	
+							</small>	
+						    </p>	
+						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>	
+						<span class="author-description">{{ author.description }}</span>							
+					</div>	
+				</div>					
+                {% endif %}		
                 
 			</div>
 
