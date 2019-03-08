@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hello World Blog"
-author: Dinakaran
+author: dinakaran
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
 ---
