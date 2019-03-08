@@ -2,14 +2,11 @@
 layout: post
 title: Hello World Blog
 author: dinakaran
-featured: true
-categories:
-  - Jekyll
-  - tutorial
 image: assets/images/emma-matthews-973230-unsplash.jpg
 published: true
 ---
 Well, I do not really remember when was the last time I blogged. I had my fair share of attempts at running a personal blog and tech focused blog long back. With the advent of Facebook and Twitter, I stopped blogging and the interest to write anything is restricted to mostly Twitter threads.
+
 ![emma-matthews-973230-unsplash.jpg]
 
 
