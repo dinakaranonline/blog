@@ -9,9 +9,9 @@ categories:
 image: assets/images/emma-matthews-973230-unsplash.jpg
 published: true
 ---
+Well, I do not really remember when was the last time I blogged. I had my fair share of attempts at running a personal blog and tech focused blog long back. With the advent of Facebook and Twitter, I stopped blogging and the interest to write anything is restricted to mostly Twitter threads.
 ![emma-matthews-973230-unsplash.jpg]
 
-Well, I do not really remember when was the last time I blogged. I had my fair share of attempts at running a personal blog and tech focused blog long back. With the advent of Facebook and Twitter, I stopped blogging and the interest to write anything is restricted to mostly Twitter threads.
 
 Genesis for this blog was triggered when I purchased a new .dev domain [Dinakaran](https://dinakaran.dev) a few days back. Even couple of years back, I registered one more domain and setup a single page profile using some free hosting provider. But beyond that, I lost interest to do anything.I hope this time I do something with this domain. 
 
