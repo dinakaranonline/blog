@@ -32,10 +32,12 @@ published: true
 				<div class="row post-top-meta">	
 					<div>	
 						
- 						 <!-- Post Date -->	
+ 						
 						   
-						<a target="_blank" class="link-dark" href="{{ author.web }}"> by {{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>	
+						by {{ author.display_name }}<a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>	
 						<span class="author-description">{{ author.description }}</span>
+						
+						 <!-- Post Date -->	
 						 <p>	
 						    <small>	
 							<span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           	
