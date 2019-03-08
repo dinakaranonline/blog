@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Never stopped worrying or loving the bomb"
+published: true
 author: sal
 categories: [ Jekyll ]
 image: assets/images/14.jpg
