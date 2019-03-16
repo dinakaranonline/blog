@@ -3,6 +3,9 @@ published: false
 ---
 ## Monkey Balancing Privacy vs Censorship in Social Media
 
+![camera-cctv-cyber-430208 (2).jpg]({{site.baseurl}}/_posts/camera-cctv-cyber-430208 (2).jpg)
+
+
 Ever since the dawn of social media , there are some kind of protest over how Social Media works. Initially it started with censorship policies and all of us were super criticial about any kind of censorship. 
 
 Governments all over the world would want to peep through what is discussed and tried to bring various sort of regulations unsucessfully about what is written about them etc. Some how the Freedom of Expression won that round to a great extent. 
