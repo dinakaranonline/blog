@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Monkey Balancing Privacy vs Censorship in Social Media
 
