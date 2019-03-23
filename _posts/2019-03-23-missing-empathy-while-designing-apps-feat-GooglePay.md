@@ -38,7 +38,7 @@ And this is where Google Pay's customer support is amazing.
 - There is no option to chat with customer support through the app as the option is disabled.
 - There is no way to instantly communicate in anyways with the customer support other than waiting for call-back.
 
-![]({{site.baseurl}}/assets/images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)![Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png]({{site.baseurl}}/_posts/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)
+![]({{site.baseurl}}/assets/images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)![Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png]({{site.baseurl}}/_assets/_images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)
 
 
 What the app informs is that , transactions may take 3 days to be processed. How would such a design make sense when making payments, especially during offline transactions at a local kirana shop.
