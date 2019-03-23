@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >-
-  Missing empathy while designing apps feat GooglePay
+title: Missing empathy while designing apps feat GooglePay
 author: dinakaran
 image: assets/images/og_image.jpg
 published: true
@@ -9,9 +8,9 @@ published: true
 Empathy in Design Thinking is one of the most important consideration while designing anything, especially while building mobile app.Empathy helps to understand how the user's pain point and how they can be addressed in best possible ways. It is putting ourselves in the shoes of the customers and provide User Experience that is refined, elegant and magical.
 
 
-UPI is the new set of API's that is provided by consortium of banks in India through which core banking services that can be built by fintech companies. Google Pay by Google is one such app that has jumped into the bandwagon of providing core banking services by using the API's provided by the bank.
+[UPI](https://www.npci.org.in/product-overview/upi-product-overview) is the new set of API's that is provided by consortium of banks in India through which core banking services that can be built by fintech companies. [Google Pay](https://pay.google.com/intl/en_in/about/) by Google is one such app that has jumped into the bandwagon of providing core banking services by using the UPI API's provided by the bank.
 
-For the most part , the app is a delight to use. It works flawlessly and I use it regularly for making fund transfers to friends and families. I also use it to make bill payment for a host of different services and experience has been smooth for most part , except when it is not.
+For the most part , the app is a delight to use. It works flawlessly and I use it regularly for making fund transfers to friends and families. I also use it to make bill payment for a host of different services and experience has been smooth for most part, except when it is not.
 
 ### A not-so-great User Experience 
 
@@ -75,6 +74,3 @@ This also made me realize how banks handle this much better. Banks while making 
 
 
 Till next time, Cheers
-
-
-
