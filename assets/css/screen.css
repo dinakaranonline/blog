@@ -555,7 +555,7 @@ License: https://www.wowthemes.net/freebies-license/
     margin-bottom:1rem;
 }
  img {
-    max-width:100%;
+    max-width:50%;
 }
  .bottompagination span.navigation {
      display:block;
@@ -660,7 +660,7 @@ License: https://www.wowthemes.net/freebies-license/
     }
 }
  .card .img-fluid {
-    width:100%;
+    width:50%;
 }
 .sticky-top-80 {
     top:80px;
