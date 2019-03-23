@@ -1,5 +1,6 @@
 ---
 published: false
+image: _posts/og_image.jpg
 ---
 Empathy in Design Thinking is one of the most important consideration while designing anything, especially while building mobile app.Empathy helps to understand how the user's pain point and how they can be addressed in best possible ways. It is putting ourselves in the shoes of the customers and provide User Experience that is refined, elegant and magical.
 
