@@ -3,7 +3,7 @@ published: false
 ---
 Empathy in Design Thinking is one of the most important consideration while designing anything, especially while building mobile app.Empathy helps to understand how the user's pain point and how they can be addressed in best possible ways. It is putting ourselves in the shoes of the customers and provide User Experience that is refined, elegant and magical.
 
-![Google Pay]({{site.baseurl}}/assets/images/https://pay.google.com/about/static/images/social/og_image.jpg)
+![Google Pay]({{site.baseurl}}/_assets/_images/https://pay.google.com/about/static/images/social/og_image.jpg)
 
 UPI is the new set of API's that is provided by consortium of banks in India through which core banking services that can be built by fintech companies. Google Pay by Google is one such app that has jumped into the bandwagon of providing core banking services by using the API's provided by the bank.
 
