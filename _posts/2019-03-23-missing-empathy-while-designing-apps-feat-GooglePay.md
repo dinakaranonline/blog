@@ -7,6 +7,8 @@ published: true
 ---
 Empathy in Design Thinking is one of the most important consideration while designing anything, especially while building mobile apps.Empathy helps to understand how the user's pain point and how they can be addressed in the best possible ways. It is putting ourselves in the shoes of the customers and help to provide User Experience that is refined, elegant and magical.
 
+> In Design Thinking, empathy is, “deep understanding of the problems and realities of the people you are designing for”. It involves learning about the difficulties people face, as well as uncovering their latent needs and desires in order to explain their behaviours. To do so, we need to have an understanding of the people’s environment, as well as their roles in and interactions with their environment.
+
 
 [UPI](https://www.npci.org.in/product-overview/upi-product-overview) is the new set of API's that are provided by a consortium of banks in India through which core banking services that can be built by fintech companies. [Google Pay](https://pay.google.com/intl/en_in/about/) by Google is one such app that has jumped into the bandwagon of providing core banking services by using the UPI API's provided by the bank.
 
@@ -55,22 +57,20 @@ As a user, I believed it to be an instantaneous real-time transfer because UPI i
 
 I left the shop informing the seller that I will come and collect the goods once the money is credited into his account. I kept waiting for 3 days but the status was still the same. I used the customer support option to give me a callback. I received no call-back.
 
-So I used Google Pay's customer support and they told me to wait for 3 days again, which has actually passed but the status of the transaction is still 'Payment Processing'. The transaction had an option of raising a dispute for any transactions post 3 days. I raised a Dispute Claim and processing time to settle claims was 2 weeks. In the meantime , the payment transaction status changed to Success. I had no clue when the status was changed. Should there not be various states for a transaction to clarify when was the payment processed actually? There is no such data.
+So I used Google Pay's customer support and they told me to wait for 3 days again, which has actually passed but the status of the transaction is still 'Payment Processing'. The transaction had an option of raising a dispute for any transactions post 3 days. I raised a Dispute Claim and processing time to settle claims was 2 weeks. In the meantime , the payment transaction status changed to Success. I had no clue when the status was changed. Should there not be various states for a transaction to clarify when was the payment processed actually? There is no such information made available to the users.
 
 ![IMG_20190323_095047.jpg]({{site.baseurl}}/assets/images/IMG_20190323_095047.jpg)
 
 
 ### Multiple visits to the shop to complete my shopping
 
-With a dispute claim in the process, I went to the shop again who confirmed the money is credited into his account and so I collected my purchase. But then, the disputed claim is also under process and am not sure if Google Pay will roll back the transaction thereby leading to a situation where I got the goods but transaction rolled back and I owe the seller again.
+With the dispute claim in  process, I went to the shop again who confirmed the money is credited into his account and so I collected my purchase. But then, the disputed claim is also under process and am not sure if Google Pay will roll back the transaction,thereby leading to a situation where I received the goods, but transaction rolled back and I owe the seller again.
 
-I got a call back from customer support and when was the issue was explained in detail, the customer care acknowledged that many customers face this problem and issue was escalated within Google Pay, but not sure what action would be taken.
+I requested for customer care call back and I got a call back during which the issue was explained in detail, the customer care acknowledged that many customers face this problem and issue was escalated within Google Pay, but not sure what action would be taken.
+> This whole user experience is bad, really bad. What should have been a basic Success or Failure type of transactions ended up me visiting the shop twice, couple of follow up with Google Pay via the app and Twitter leading to terrible user experience.
 
-This whole user experience is bad, really bad. What should have been a basic Success or Failure type of transactions ended up me visiting the shop twice, couple of follow up with Google Pay via the app and Twitter leading to terrible user experience.
+Empathy is one of the most important aspect during Design Thinking and somehow Google Pay has missed implementing this while designing their app and user journeys. 
 
-Empathy is one of the most important user journeys during Design Thinking and somehow Google Pay has missed implementing this while designing their app and user journeys. I am not sure mine was not an isolated situation. 
-
-This also made me realize how banks handle this much better. Banks while making transactions prompt and inform users upfront about availability and processing of service upfront, good customer support via phone or email that helps to handle these kinds of situation really well. Even other UPI apps like PayTM and PayPe has better customer support when compared to Google Pay.
-
+This also made me realize how banks handle this much better. Banks while making transactions prompt and inform users upfront about availability and processing of services upfront, good customer support via phone or email that helps to handle these kinds of situation really well. Even other UPI apps like PayTM and PayPe has better customer support when compared to Google Pay.I sincerely wish Google Pay listens.
 
 Till next time, Cheers
