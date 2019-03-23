@@ -26,7 +26,7 @@ But what happened with Google Pay is 4th option :
 
 - Payment processing - money debited from my account but not credited into seller's account.
 
-![IMG_20190323_100743.jpg]({{site.baseurl}}/_assets/_images/IMG_20190323_100743.jpg)
+![IMG_20190323_100743.jpg]({{site.baseurl}}/assets/images/IMG_20190323_100743.jpg)
 
 
 So I'm  at the shop with the status of '**Payment Processing**'. And the seller is unwilling to give the goods as money is not received in his account. I cannot make one more payment because am not sure if my first payment is success or failure.
