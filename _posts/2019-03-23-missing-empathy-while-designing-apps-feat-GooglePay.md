@@ -26,7 +26,7 @@ But what happened with Google Pay is 4th option :
 
 - Payment processing - money debited from my account but not credited into seller's account.
 
-![IMG_20190323_100743.jpg]({{site.baseurl}}/assets/images/IMG_20190323_100743.jpg)
+![IMG_20190323_100743.jpg]({{site.baseurl}}/_posts/IMG_20190323_100743.jpg)
 
 
 So I'm  at the shop with the status of '**Payment Processing**'. And the seller is unwilling to give the goods as money is not received in his account. I cannot make one more payment because am not sure if my first payment is success or failure.
@@ -38,7 +38,7 @@ And this is where Google Pay's customer support is amazing.
 - There is no option to chat with customer support through the app as the option is disabled.
 - There is no way to instantly communicate in anyways with the customer support other than waiting for call-back.
 
-![]({{site.baseurl}}/assets/images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)![Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png]({{site.baseurl}}/_assets/_images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)
+![]({{site.baseurl}}/posts/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)![Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png]({{site.baseurl}}/_posts/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)
 
 
 What the app informs is that , transactions may take 3 days to be processed. How would such a design make sense when making payments, especially during offline transactions at a local kirana shop.
@@ -47,14 +47,14 @@ What the app informs is that , transactions may take 3 days to be processed. How
 
 As an user , I believed it to be an instanteous real time transfer because UPI is based on IMPS where payments are real time, where the transaction is either success or failure - nothing in-between. If there was a warning message , then as a user , I would have made an informed decision whether to make the payment or not. The very reason that the message is displayed post the transaction makes me feel betrayed about the whole user experience as the app was more focussed on the happy-flow and encourage users to make payment and such messages that it make take 2-3 days to process would stop the user from making the transaction.
 
-![]({{site.baseurl}}/assets/images/IMG_20190323_095130.jpg)![IMG_20190323_095130.jpg]({{site.baseurl}}/_assets/_images/IMG_20190323_095130.jpg)
+![]({{site.baseurl}}/posts/IMG_20190323_095130.jpg)![IMG_20190323_095130.jpg]({{site.baseurl}}/_posts/IMG_20190323_095130.jpg)
 
 
 I left the shop informing the seller that I will come and collect the goods once the money is credited into his account.I kept waiting for 3 days but the status was still the same. I used the customer support option to give me a call back. I received no call-back.
 
 So I used Google Pay's customer support and they told me to wait for 3 days again, which has actually passed but status of transaction is still 'Payment Processing'. The transaction had an option of raising dispute for any transactions post 3 days. I raised a Dispute Claim and processing time to settle claims was 2 weeks. In the mean time , the payment transaction status changed to Success. I had no clue when the status was changed. Should there not be various states for a transaction to clarify when was the payment processed actually ? There is no such data.
 
-![]({{site.baseurl}}/assets/images/IMG_20190323_095047.jpg)![IMG_20190323_095047.jpg]({{site.baseurl}}/_assets/_images/IMG_20190323_095047.jpg)
+![]({{site.baseurl}}/posts/IMG_20190323_095047.jpg)![IMG_20190323_095047.jpg]({{site.baseurl}}/_posts/IMG_20190323_095047.jpg)
 
 
 ### Multiple visits to the shop to complete my shopping
