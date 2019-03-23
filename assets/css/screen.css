@@ -697,7 +697,14 @@ License: https://www.wowthemes.net/freebies-license/
     opacity:1;
 }
 
-@media (min-width: 1200px)
-.container {
-    max-width: 1400px;
+@media (max-width: 768px) {
+     .share {
+        margin-top:30px;
+    }
+}
+
+@media (min-width: 1200px) {
+     .container {
+       max-width: 1400px;
+   }
 }
