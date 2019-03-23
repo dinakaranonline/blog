@@ -46,9 +46,7 @@ And this is where Google Pay's customer support is amazing.
 ![Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png]({{site.baseurl}}/assets/images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)
 
 
-What the app informs you is that the transaction may take upto 7 days to be processed. How would such a design make sense while making a small purchase at a local store!
-
-> In cases where the app takes 3 days for a transaction to process, was this important message displayed when the user is trying to make a transaction in the first place?
+What the app informs you is that the transaction may take upto 7 days to be processed. How would such a design make sense while making a small purchase at a local store! In some cases where the app takes 3 days for a transaction to process , should this important message be displayed when the user is trying to make a transaction in the first place?
 
 As a user, I believed it to be an instantaneous real-time transfer because UPI is based on [IMPS](https://en.wikipedia.org/wiki/Immediate_Payment_Service) where payments are real time and the transactions are either success or failure - nothing in-between. If I was made aware with a warning message that payments are not real-time in Google Pay, then as a user, I would have made an informed decision whether to make the payment or not. 
 
