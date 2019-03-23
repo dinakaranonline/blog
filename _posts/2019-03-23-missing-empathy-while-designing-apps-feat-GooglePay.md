@@ -46,7 +46,7 @@ And this is where Google Pay's customer support is amazing.
 ![Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png]({{site.baseurl}}/assets/images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)
 
 
-What the app informs is that transactions may take 3 days to be processed. How would such a design make sense when making payments, especially during offline transactions at a local Kirana shop.
+What the app informs is that the transactions may take 7 days to be processed. How would such a design make sense when making payments, especially during offline transactions at a local Kirana shop.
 
 > In cases where the app takes 3 days for a transaction to process, was this important message displayed when the user is making a transaction in the first place?
 
