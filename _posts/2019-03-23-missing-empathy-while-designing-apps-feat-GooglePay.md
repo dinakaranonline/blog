@@ -50,14 +50,16 @@ What the app informs is that the transactions may take 7 days to be processed. H
 
 > In cases where the app takes 3 days for a transaction to process, was this important message displayed when the user is making a transaction in the first place?
 
-As a user, I believed it to be an instantaneous real-time transfer because UPI is based on IMPS where payments are real time, where the transaction is either success or failure - nothing in-between. If there was a warning message, then as a user, I would have made an informed decision whether to make the payment or not. The very reason that the message is displayed post the transaction makes me feel betrayed about the whole user experience as the app was more focussed on the happy-flow and encourage users to make payment and such messages that it makes take 2-3 days to process would stop the user from making the transaction.
+As a user, I believed it to be an instantaneous real-time transfer because UPI is based on [IMPS](https://en.wikipedia.org/wiki/Immediate_Payment_Service) where payments are real time and the transactions are either success or failure - nothing in-between. If there was a warning message that payments are not real-time in Google Pay, then as an user, I would have made an informed decision whether to make the payment or not. 
+
+> The very reason that the message is displayed post the transaction makes me feel betrayed about the whole user experience as the app was more focussed on the happy-flow and encourage users to make payment and such messages that it makes take 2-3 days to process would stop the user from making the transaction.
 
 ![IMG_20190323_095130.jpg]({{site.baseurl}}/assets/images/IMG_20190323_095130.jpg)
 
 
-I left the shop informing the seller that I will come and collect the goods once the money is credited into his account. I kept waiting for 3 days but the status was still the same. I used the customer support option to give me a callback. I received no call-back.
+I left the shop informing the seller that I will come and collect the goods once the money is credited into his account. I kept waiting for 3 days but the status was still the same. 
 
-So I used Google Pay's customer support and they told me to wait for 3 days again, which has actually passed but the status of the transaction is still 'Payment Processing'. The transaction had an option of raising a dispute for any transactions post 3 days. I raised a Dispute Claim and processing time to settle claims was 2 weeks. In the meantime , the payment transaction status changed to Success. I had no clue when the status was changed. Should there not be various states for a transaction to clarify when was the payment processed actually? There is no such information made available to the users.
+So I used Google Pay's Twitter customer support and they told me to wait for 3 days again, which has actually passed, but the status of the transaction is still **'Payment Processing'**. The transaction had an option of raising a dispute for any transactions post 3 days. I raised a **Dispute Claim** and processing time to settle claim was 2 weeks. In the meantime , the payment transaction status changed to **Success**. I had no clue when the status was changed. Should there not be various states for a transaction to clarify when was the payment processed and money credited at the seller's account ? There is no such information made available to the users.
 
 ![IMG_20190323_095047.jpg]({{site.baseurl}}/assets/images/IMG_20190323_095047.jpg)
 
