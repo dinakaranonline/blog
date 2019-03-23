@@ -77,6 +77,12 @@ License: https://www.wowthemes.net/freebies-license/
          column-count:2;
     }
 }
+
+@media (min-width: 1200px)
+.container {
+    max-width: 1400px;
+}
+
  @media (min-width:992px) {
      .navbar-expand-lg .navbar-nav .nav-link {
          padding-right:0.8rem;
