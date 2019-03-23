@@ -25,6 +25,31 @@ published: true
 			
 		       <!-- Post Title -->
 		       <h1 class="posttitle">{{ page.title }}</h1> 
+
+                <!-- Author Box -->
+                {% if page.author %}				
+				<div class="row post-top-meta">
+					<div class="col-md-2">
+						<img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
+						 <!-- Post Date -->
+						    <p>
+						    <small>
+							Posted <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+							{% if page.last_modified_at %}
+							 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+							{% endif %}
+							</small>
+						    </p>
+					</div>
+					<div class="col-md-10">
+						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+						<span class="author-description">{{ author.description }}</span>						
+					</div>
+				</div>				
+                {% endif %}
+                
+               
+                
 			</div>
 
 			<!-- Post Featured Image -->
