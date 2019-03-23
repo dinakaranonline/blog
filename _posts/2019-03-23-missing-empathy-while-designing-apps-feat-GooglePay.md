@@ -46,7 +46,7 @@ And this is where Google Pay's customer support is amazing.
 ![Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png]({{site.baseurl}}/assets/images/Screenshot_2019-03-23-08-58-56-595_com.google.android.gms.png)
 
 
-What the app informs you is that the transaction may take upto 7 days to be processed. How would such a design make sense while making payments especially making a small purchase at a local store!
+What the app informs you is that the transaction may take upto 7 days to be processed. How would such a design make sense while making a small purchase at a local store!
 
 > In cases where the app takes 3 days for a transaction to process, was this important message displayed when the user is trying to make a transaction in the first place?
 
