@@ -711,3 +711,11 @@ License: https://www.wowthemes.net/freebies-license/
        max-width: 1200px;
    }
 }
+
+@media (max-width:600px) {
+.mainheading h1.posttitle {
+font-weight:700;
+margin-bottom:1rem;
+font-size:1rem;
+}
+}
