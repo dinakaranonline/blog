@@ -28,17 +28,14 @@ I and my wife had a conversation with the daughter around planning for a new mov
 
 I thought of using the Google Photos search photos to locate the picture. I was aware that Google's AI can even read the text in the pictures as well. So here is how I went about it. 
 
-I tried the first search keyword because I thought the search could locate text within the photo: 
+I tried the first search keyword because I thought the search could locate text within the photo: "**Incredibles**" , no search results
 
-**Incredibles** , no search results
+Then I tried for the keyword "**The Incredibles**", but again no search results
 
-Then I tried **The Incredibles** , again no search results
+It is when remembered how the AI tags the photos using common object properties. For eg, it tags photos with cars, bicycle, landmarks, greenery etc. So I tried with with the keyword "**Poster**"
+and voila,I got a stream of search results and the photo that I wanted to locate was there as a second result. I was blown away by how quickly it was to locate the picture.
 
-Then I remembered how the AI tags the photos using common object properties. For eg, it tags photos with cars, bicycle, landmarks, greenery etc. So I tried the search as 
-
-**Poster** and voila I got a stream of search results and the photo that I wanted to locate was there as a second result. I was blown away by how quickly it was to locate the picture.
-
-And Ladies and Gentlemen, my daughter was indeed right. She was wearing the exact same dress
+And Ladies and Gentlemen, my daughter was indeed right. She was wearing the exact same dress and I can personally that kids have incredible memory.
 
 
 ### **Possibilities of AI in Image Recognition** 
