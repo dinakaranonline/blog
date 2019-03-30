@@ -4,6 +4,7 @@ title: When Google Photos' AI helped to confirm my daughter's photographic memor
 author: dinakaran
 image: assets/images/Google-Photos.jpeg
 published: true
+youtubeId: suRDUFpsHus
 ---
 When social media was at its peak , it became the norm to use check-in Facebook or Twitter to let the world know the cool places that we are going out or hanging out. It also became a customary tradition to take selfies or food photos with our family and friends and share it every where.
 
@@ -15,6 +16,8 @@ Speaking of Nostalgia , I cannot miss recommending this MadMen pitch of Carousel
 
 
 <iframe style="width:80%;" class="embed-responsive-item" src="https://www.youtube.com/embed/suRDUFpsHus?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+{% include youtubePlayer.html id=page.youtubeId %}
 
 
 **Google Photos AI powered Tagging Feature**
