@@ -18,13 +18,13 @@ Speaking of Nostalgia, I cannot miss recommending this MadMen pitch of The Carou
 {% include youtubePlayer.html id=page.youtubeId %}
 
 
-**Google Photos AI-powered Tagging Feature**
+### **Google Photos AI-powered Tagging Feature**
 
 Google Photos rolled out AI features in the app a couple of years back. The way it works is that all the photos that are stored on the app are analyzed and Google AI identifies them the objects, faces, landmarks in the photos and tags them accordingly. It is a wonderful feature and it helps to search for photos based on the object tags that are stored by AI. 
 
 I and my wife had a conversation with the daughter around planning for a new movie and the discussion went around what dress she is going to wear for the cinemas. And then she told us about that the last time when we went for ['Incredibles 2'](https://en.wikipedia.org/wiki/Incredibles_2) movie and that she wore a particular dress and she was able to even recollect the colour of the dress and who gifted it to her. I and my wife were awestruck by her memory but still wanted to confirm if whatever she says is true. I remember taking a picture of my daughter besides the movie poster in the cinemas. Since I had a huge stock of photos and it was a long time ago, it would have been very difficult to scroll these pictures and locate it.
 
-**Using AI to locate the pictures**
+### **Using AI to locate the pictures**
 
 I thought of using the Google Photos search photos to locate the picture. I was aware that Google's AI can even read the text in the pictures as well. So here is how I went about it. 
 
@@ -44,7 +44,7 @@ So I tried the search as
 
 And Ladies and Gentlemen, my daughter was indeed right. She was wearing the exact same dress.
 
-**Possibilities of AI in Image Recognition** 
+### **Possibilities of AI in Image Recognition** 
 
 It is amazing when technology works and the underlying Google API most probably used is the [Google Vision API](https://cloud.google.com/vision/). Try this feature by uploading images and witness how Google tags these pictures and other metadata.
 
