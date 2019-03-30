@@ -5,7 +5,11 @@ published: false
 
 When social media was at its peak , it became the norm to use check-in Facebook or Twitter to let the world know the cool places that we are going out or hanging out. It also became a customary tradition to take selfies or food photos with our family and friends and share it every where.
 
-Post the privacy awareness,  some of us stopped sharing photos. Dozens of selfies were clicked and saved for posterity, but stopped from sharing publicly, but in private WhatsApp group etc. I have been using Google Photos for few years now and is one of the best products rolled out by Google of-late. I have been using it for a quite some time and what makes this app awesome is the 'memories' feature . It displays previous photos as memories and as a young parent , it gushes out a multitude of emotions watching  new born daughter slowly transforming over the years. Nostalgia is awesome.Speaking of Nostalgia , I cannot miss this MadMen pitch of Carousel. It is one of amazing scenes that was ever written and directed. In some ways , Google Photos is not just an souless app but Carousel of our life. 
+Post the privacy awareness,  some of us stopped sharing photos. Dozens of selfies were clicked and saved for posterity, but stopped from sharing publicly, but in private WhatsApp group etc. I have been using Google Photos for few years now and is one of the best products rolled out by Google of-late. I have been using it for a quite some time and what makes this app awesome is the 'memories' feature . It displays previous photos as memories and as a young parent , it gushes out a multitude of emotions watching  new born daughter slowly transforming over the years. Nostalgia is awesome.
+
+Speaking of Nostalgia , I cannot miss recommending this MadMen pitch of Carousel. It is one of amazing scenes that was ever written and performed in my opinion. 
+
+> Google Photos is not just an  app,but Carousel of our life.
 
 
 <iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/suRDUFpsHus?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
