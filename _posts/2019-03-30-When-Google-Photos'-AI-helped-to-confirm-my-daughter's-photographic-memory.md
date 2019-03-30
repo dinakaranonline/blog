@@ -8,7 +8,7 @@ youtubeId: suRDUFpsHus
 ---
 When social media was at its peak, it became a norm to use check-in feature on Facebook or Twitter etc to let the world know the cool places that we are going or hanging out. It also became a customary tradition to take selfies or food photos with our family and friends and share them everywhere.
 
-Post privacy awareness, some of us stopped sharing photos. Dozens of selfies were still clicked and saved for posterity, but we stopped from sharing publicly, but in private WhatsApp group etc. I have been using Google Photos for a few years now and is one of the best products rolled out by Google of late.What makes this app awesome is the 'memories' feature. It displays photos taken long back as memories and as a young parent, it gushes out a multitude of emotions watching newborn daughter slowly transforming over the years. Nostalgia is awesome.
+Post privacy awareness, some of us stopped sharing photos. Dozens of selfies were still clicked and saved for posterity, but we stopped from sharing publicly, but in private WhatsApp group etc. I have been using Google Photos for a few years now and is one of the best products rolled out by Google of late. What makes this app awesome is the 'memories' feature. It displays photos taken long back as memories and as a young parent, it gushes out a multitude of emotions watching newborn daughter slowly transforming over the years. Nostalgia is awesome.
 
 Speaking of Nostalgia, I cannot miss recommending this MadMen pitch of The Carousel. It is one of the amazing scenes that was ever written and performed in my opinion. 
 
@@ -28,14 +28,14 @@ I and my wife had a conversation with the daughter around planning for a new mov
 
 I thought of using the Google Photos search photos to locate the picture. I was aware that Google's AI can even read the text in the pictures as well. So here is how I went about it. 
 
-I tried the first search keyword because I thought the search could locate text within the photo: "**Incredibles**" , no search results
+I tried the first search keyword because I thought the search could locate text within the photo: "**Incredibles**", no search results
 
 Then I tried for the keyword "**The Incredibles**", but again no search results
 
-It is when remembered how the AI tags the photos using common object properties. For eg, it tags photos with cars, bicycle, landmarks, greenery etc. So I tried with with the keyword "**Poster**"
-and voila,I got a stream of search results and the photo that I wanted to locate was there as a second result. I was blown away by how quickly it was to locate the picture.
+It is when remembered how the AI tags the photos using common object properties. For eg, it tags photos with cars, bicycle, landmarks, greenery etc. So I tried with the keyword "**Poster**"
+and voila, I got a stream of search results and the photo that I wanted to locate was there as a second result. I was blown away by how quickly it was to locate the picture.
 
-And Ladies and Gentlemen, my daughter was indeed right. She was wearing the exact same dress and I can personally that kids have incredible memory.
+And Ladies and Gentlemen, my daughter was indeed right. She was wearing the exact same dress and I can personally that kids have an incredible memory.
 
 
 ### **Possibilities of AI in Image Recognition** 
