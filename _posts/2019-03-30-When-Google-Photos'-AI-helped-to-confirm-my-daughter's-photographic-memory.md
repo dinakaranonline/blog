@@ -15,8 +15,6 @@ Speaking of Nostalgia , I cannot miss recommending this MadMen pitch of Carousel
 > Google Photos is not just an  app,but Carousel of our life.
 
 
-<iframe style="width:80%;" class="embed-responsive-item" src="https://www.youtube.com/embed/suRDUFpsHus?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
-
 {% include youtubePlayer.html id=page.youtubeId %}
 
 
