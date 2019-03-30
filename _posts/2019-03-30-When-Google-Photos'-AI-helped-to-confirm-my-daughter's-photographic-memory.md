@@ -30,9 +30,9 @@ I thought of using the Google Photos search photos to locate the picture. I was 
 
 I tried the first search keyword because I thought the search could locate text within the photo: 
 
-**Incredibles** - no search results
+**Incredibles** , no search results
 
-Then I tried **The Incredibles** - again no search results
+Then I tried **The Incredibles** , again no search results
 
 Then I remembered how the AI tags the photos using common object properties. For eg, it tags photos with cars, bicycle, landmarks, greenery etc. So I tried the search as 
 
