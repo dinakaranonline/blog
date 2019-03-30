@@ -5,8 +5,6 @@ author: dinakaran
 image: assets/images/Google-Photos.jpeg
 published: true
 ---
-# When Google Photos' AI helped to confirm my daughter's photographic memory
-
 When social media was at its peak , it became the norm to use check-in Facebook or Twitter to let the world know the cool places that we are going out or hanging out. It also became a customary tradition to take selfies or food photos with our family and friends and share it every where.
 
 Post the privacy awareness,  some of us stopped sharing photos. Dozens of selfies were clicked and saved for posterity, but stopped from sharing publicly, but in private WhatsApp group etc. I have been using Google Photos for few years now and is one of the best products rolled out by Google of-late. I have been using it for a quite some time and what makes this app awesome is the 'memories' feature . It displays previous photos as memories and as a young parent , it gushes out a multitude of emotions watching  new born daughter slowly transforming over the years. Nostalgia is awesome.
