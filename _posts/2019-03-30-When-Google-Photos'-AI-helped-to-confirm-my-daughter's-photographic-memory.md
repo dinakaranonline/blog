@@ -10,13 +10,14 @@ When social media was at its peak, it became a norm to use check-in feature on F
 
 Post privacy awareness, some of us stopped sharing photos. Dozens of selfies were still clicked and saved for posterity, but we stopped from sharing publicly, but in private WhatsApp group etc. I have been using Google Photos for a few years now and is one of the best products rolled out by Google of late. What makes this app awesome is the 'memories' feature. It displays photos taken long back as memories and as a young parent, it gushes out a multitude of emotions watching newborn daughter slowly transforming over the years. Nostalgia is awesome.
 
-Speaking of Nostalgia, I cannot miss recommending this MadMen pitch of The Carousel. It is one of the amazing scenes that was ever written and performed in my opinion. 
+Speaking of Nostalgia, I cannot miss recommending this MadMen pitch for a product which propose to be called **The Carousel**. It is one of the amazing scenes that was ever written and performed in my opinion. 
 
-> Google Photos is not just an app, but Carousel of our life.
+> “Nostalgia - its delicate, but potent. Teddy told me that in Greek nostalgia literally means “the pain from an old wound.” It’s a twinge in your heart far more powerful than memory alone. This device isn’t a spaceship, it’s a time machine. It goes backwards, and forwards… it takes us to a place where we ache to go again. It’s not called the wheel, it’s called the carousel. It let’s us travel the way a child travels - around and around, and back home again, to a place where we know are loved.” 
 
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
+In some ways, Google Photos trigger that sort of nostalgia.
 
 ### **Google Photos AI-powered Tagging Feature**
 
