@@ -14,7 +14,7 @@ Speaking of Nostalgia , I cannot miss recommending this MadMen pitch of Carousel
 > Google Photos is not just an  app,but Carousel of our life.
 
 
-<iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/suRDUFpsHus?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:100%;" class="embed-responsive-item" src="https://www.youtube.com/embed/suRDUFpsHus?rel=0&showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 **Google Photos AI powered Tagging Feature**
