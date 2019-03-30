@@ -30,17 +30,18 @@ I thought of using the Google Photos search photos to locate the picture. I was 
 
 I tried the first search keyword because I thought the search could locate text within the photo: 
 
-_**Incredibles** - no search results
- Then I tried 
+ - _**Incredibles** - no search results
+-  Then I tried 
+- 
+-  **The Incredibles** - again no search results
+- 
+-  Then I remembered how the AI tags the photos using common object properties. For eg, it tags photos with cars, bicycle, landmarks, greenery etc.
+- 
+-  So I tried the search as 
+- 
+-  **Poster** and voila I got a stream of search results and the photo that I wanted to locate was there as a second result. I was blown away by how quickly it was to locate the picture.
+- And Ladies and Gentlemen, my daughter was indeed right. She was wearing the exact same dress._
 
- **The Incredibles** - again no search results
-
- Then I remembered how the AI tags the photos using common object properties. For eg, it tags photos with cars, bicycle, landmarks, greenery etc.
-
- So I tried the search as 
-
- **Poster** and voila I got a stream of search results and the photo that I wanted to locate was there as a second result. I was blown away by how quickly it was to locate the picture.
-And Ladies and Gentlemen, my daughter was indeed right. She was wearing the exact same dress._
 
 ### **Possibilities of AI in Image Recognition** 
 
