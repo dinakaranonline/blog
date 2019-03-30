@@ -1,4 +1,8 @@
 ---
+layout: post
+title: When Google Photos' AI helped to confirm my daughter's photographic memory
+author: dinakaran
+image: assets/images/og_image.jpg
 published: false
 ---
 # When Google Photos' AI helped to confirm my daughter's photographic memory
