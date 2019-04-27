@@ -28,7 +28,7 @@ Digital Transformations are inherently hard. It is wild wild west to start with 
  
 - Digital Transformation is not just a shift to new technology or processes but also about a mind-shift change in terms of how technology can be leveraged to affect meaningful change to the way how business is run. Business Leaders, Analysts, Domain experts and everyone within the company need to be educated on the possibilities and how well they can help to improve the experience for customers.Learn- Unlearn-Relearn should be the focus.
 
-### Well defined success outcomes
+### Focus on well defined success outcomes
 
 
 - Go as detail-oriented as possible in terms of the indicators of successful outcomes. Drill down broad objectives into actual use cases so that the essence and bigger picture of the initiatives are reflected in the solution throughout.
