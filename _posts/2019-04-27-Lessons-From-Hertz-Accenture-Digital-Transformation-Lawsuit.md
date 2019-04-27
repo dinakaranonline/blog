@@ -3,7 +3,9 @@ published: false
 ---
 Digital Transformations are inherently hard. It is wild wild west to start with and if not planned well could become an uncontrollable monster that burns down finances of even large organization . Having first-hand experience of being part of such a program, the [news of Digital Transformation gone wrong with Hertz and Accenture law](https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/) suit made me reflect on how organizations can plan this better. Here are some of 25000 feet high scattered thoughts around this.
 
+
 ### Build Core products internally
+
 
 - As much as possible, always try to build the core product of the business internally. Do not outsource it. Core Products need vision and long term strategy and it would do immense good if a team can be built to deliver on this mission. With Digital Transformation, this gains even more significance.  
  
@@ -11,6 +13,7 @@ Digital Transformations are inherently hard. It is wild wild west to start with 
 
 
 ### Culture kills Strategy for Breakfast
+
 
 - Hire the best possible talent and inculcate a culture of openness and transparency. Best teams deliver no matter what. Create a sense of environment for people to complain, voice concerns, ambiguity and help them navigate.It is not always a competency issue but could be a lack of clarity or direction.
 
@@ -22,17 +25,20 @@ Digital Transformations are inherently hard. It is wild wild west to start with 
 
 ### Well defined success outcomes
 
+
 - Go as detail-oriented as possible in terms of the indicators of successful outcomes. Drill down broad objectives into actual use cases so that the essence and bigger picture of the initiatives are reflected in the solution throughout.
 
 - The objective of Digital Transformation involves not necessarily moving to a shiny new tech stack on the cloud, but rather how it helps the business to better serve the customers. This means doing due diligence on existing pain points need to be clearly understood and gating criteria need to be built on what can be an acceptable measurable successful solution.
 
 
 
-### Build actual application as POC
+### Build parts of application as POC
+
 
 Building parts of actual application as POC helps to evaluate tech and product stack better. It can help to uncover the challenges associated with building in terms of product maturity, hiring talents, documentation , support and what not.
 
 ### Don’t go Big Bang. Build small and refine iteratively
+
 
 - Going Big Bang does not work out with Digital Transformation programs. Build stuff small, refine and iterate gradually.
  
@@ -42,5 +48,6 @@ Building parts of actual application as POC helps to evaluate tech and product s
 
 
 ### Always take claims of consultants and product vendors with a pinch of salt
+
 
 Consultant and Product Vendors always paint a rosy picture of their product and competency. Always take it with a pinch of salt. Get ground level feedback from both outside and inside the organization and objectively validate the claims.
