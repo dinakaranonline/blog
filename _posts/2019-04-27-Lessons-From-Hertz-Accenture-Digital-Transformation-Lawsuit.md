@@ -17,7 +17,7 @@ Digital Transformations are inherently hard. It is wild wild west to start with 
 - Even if it not possible to build teams and need to outsource, at least have a slim crack core team that can be on top of anything and everything that is delivered, reviewed, validated and improved constantly. Missing out on this can be suicidal. Quality must be the focus on everything that is delivered.
 
 
-### Culture kills Strategy for Breakfast
+### Culture eats Strategy for Breakfast
 
 
 - Hire the best possible talent and inculcate a culture of openness and transparency. Best teams deliver no matter what. Create a sense of environment for people to complain, voice concerns, ambiguity and help them navigate.It is not always a competency issue but could be a lack of clarity or direction.
