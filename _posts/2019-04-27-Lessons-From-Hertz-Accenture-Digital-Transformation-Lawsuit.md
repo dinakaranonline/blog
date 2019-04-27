@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Digital Transformations are inherently hard. It is wild wild west to start with and if not planned well could become an uncontrollable monster that burns down finances of even large organization . Having first-hand experience of being part of such a program, the news of  Digital Transformation gone wrong with Hertz and Accenture made me reflect on how organizations can plan this better. Here are some of 25000 feet high scattered thoughts around this.
+Digital Transformations are inherently hard. It is wild wild west to start with and if not planned well could become an uncontrollable monster that burns down finances of even large organization . Having first-hand experience of being part of such a program, the [news of Digital Transformation gone wrong with Hertz and Accenture law](https://www.theregister.co.uk/2019/04/23/hertz_accenture_lawsuit/) suit made me reflect on how organizations can plan this better. Here are some of 25000 feet high scattered thoughts around this.
 
 ### Build Core products internally
 
