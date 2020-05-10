@@ -5,8 +5,6 @@ author: dinakaran
 image: assets/images/microservices.jpeg
 published: true
 ---
-## MicroServices Getting Started
-
 MicroServices is all the rage in the last few years.And there are some hot discussions on Microservices vs Monolith. One of the biggest challenge with micro services is with regard to when , what and how. It is very easy to get carried away by the hype and start trying to implement every thing with microservices. So a careful consideration is required on when to go for microservices.
 
 ![]({{site.baseurl}}/https://miro.medium.com/max/1400/1*1hBwhZ--xEVY35z5owT1Qw.jpeg)
@@ -23,8 +21,4 @@ Think Microservices , Think Containers. And with containers coming into the pict
 
 One of the biggest challenges is  taking a decision around going towards the Microservices route. Application Developers are traditionally well aware of building monolith applications and Infra Operation Team is well versed with deploying monolith using the well established industry best practices. But with microservices, there is an air of ambiguity - it is no longer a decision that cannot be taken either application developers or ops team in isolation. Only people who understands all the different aspects of building microservices - be it from application architecture , infrastructure and DevOps will be able to understand fully the intracices and nuances associated with building microservices.
 
-In my personal view , with the advent of cloud and provisiioning of new services and resources is becoming more and more easy. Application Developers crossing their bounded context and learning more about infrastrucutre and devops would be the most preferred way to understand and pick microservices. They will still need infra ops and devops team, but one person having end-to-end is extremely important for understanding scale , complexity and challenges associated with architecture , design , implementation and management of services. 
-
-
-
-
+In my personal view , with the advent of cloud and provisiioning of new services and resources is becoming more and more easy. Application Developers crossing their bounded context and learning more about infrastrucutre and devops would be the most preferred way to understand and pick microservices. They will still need infra ops and devops team, but one person having end-to-end is extremely important for understanding scale , complexity and challenges associated with architecture , design , implementation and management of services.
