@@ -2,7 +2,7 @@
 layout: post
 title: MicroServices Getting Started
 author: dinakaran
-image: assets/images/microservices.jpg
+image: assets/images/microservices.jpeg
 published: true
 ---
 ## MicroServices Getting Started
