@@ -11,5 +11,14 @@ When anyone starts reading about microservices , one of the first and foremost c
 
 ### Microservices From Infrastructure Point of View
 
-Think Microservices , Think Containers. And with containers coming into the picture , a PAAS solution seems to be mos obvious choice.  This is generally the view point. 
+Think Microservices , Think Containers. And with containers coming into the picture , a PAAS solution seems to be most obvious choice. So the moment microservices is being considered, it brings along with a fairly large number build , deployment and run time challenges that is normally associated with distributed application architectures 
+
+### Who takes the decision for Microservices 
+
+One of the biggest challenges is  taking a decision around going towards the Microservices route. Application Developers are traditionally well aware of building monolith applications and Infra Operation Team is well versed with deploying monolith using the well established industry best practices. But with microservices, there is an air of ambiguity - it is no longer a decision that cannot be taken either application developers or ops team in isolation. Only people who understands all the different aspects of building microservices - be it from application architecture , infrastructure and DevOps will be able to understand fully the intracices and nuances associated with building microservices.
+
+In my personal view , with the advent of cloud and provisiioning of new services and resources is becoming more and more easy. Application Developers crossing their bounded context and learning more about infrastrucutre and devops would be the most preferred way to understand and pick microservices. They will still need infra ops and devops team, but one person having end-to-end is extremely important for understanding scale , complexity and challenges associated with architecture , design , implementation and management of services. 
+
+
+
 
