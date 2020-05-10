@@ -15,7 +15,7 @@ So a careful consideration from application design and architecture standpoint w
 
 #### Microservices from Infrastructure Point of View
 
-Think Microservices, Think Containers. And with containers coming into the picture, a PAAS solution seems to be the most obvious choice. So the moment microservices is being considered, it brings along with it a fairly large number build, deployment and run-time architecture challenges that are normally associated with distributed application architectures.
+Think Microservices, Think Containers. And with containers coming into the picture, a PAAS solution seems to be the most obvious choice. So the moment microservices is being considered, it brings along with it a fairly large number of build, deployment and run-time architecture challenges that are normally associated with distributed application architectures.
 
 In the world of microservices, infrastructure cannot be an afterthought. All microservices should be designed with the infrastructure aspect of how the various systems need to be put in place and how each of them interacts with each other. 
 
