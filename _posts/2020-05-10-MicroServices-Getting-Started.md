@@ -5,7 +5,7 @@ author: dinakaran
 image: assets/images/microservices.jpeg
 published: true
 ---
-Microservices is all the rage in the last few years. And there are some hot discussions on Microservices vs Monolith. One of the biggest challenges with microservices is with regard to when what and how. It is very easy to get carried away by the hype and start trying to implement everything with microservices. So careful consideration is required on when to go for microservices.
+Microservices is all the rage in the last few years. And there are some hot discussions on Microservices vs Monolith. One of the biggest challenges with microservices is with regard to when, what and how. It is very easy to get carried away by the hype and start trying to implement everything with microservices. So careful consideration is required on when to go for microservices.
 ![]({{site.baseurl}}/https://miro.medium.com/max/1400/1*1hBwhZ--xEVY35z5owT1Qw.jpeg)
 #### Microservices from Application Architecture Point of View
 
@@ -21,6 +21,8 @@ In the world of microservices, infrastructure cannot be an afterthought. All mic
 
 #### Who takes the decision for Microservices 
 
-One of the biggest challenges is making a decision on going towards the Microservices route. Application Developers are traditionally well aware of building monolith applications and Infra Operation Team is well versed with deploying monolith using the well-established industry best practices. But with microservices, there is an air of ambiguity - it is no longer a decision that can be taken either by application developers or infrastructure or ops team in isolation. Only people who understand all the different aspects of building microservices - be it from application architecture, infrastructure and DevOps will be able to understand fully the intricacies and nuances associated with building microservices.
+One of the biggest challenges is making a decision on going towards the Microservices route. Application Developers are traditionally well aware of building monolith applications and Infra Operations Team is well versed with deploying monolith using the well-established industry best practices. But with microservices, there is an air of ambiguity - it is no longer a decision that can be taken either by application developers or infrastructure or ops team in isolation. Only people who understand all the different aspects of building microservices - be it from application architecture, infrastructure and DevOps will be able to understand fully the intricacies and nuances associated with building microservices.
 
-In my personal view, with the advent of cloud, provisioning of new services and resources is becoming easier. Application Developers crossing 'bounded' context and learning more about infrastructure and DevOps would be the most preferred way to understand and fully embrace microservices. We will still need infra ops and DevOps team, but one person having end-to-end is extremely important for understanding scale, complexity and challenges associated with architecture, design, implementation and management of services.
+In my personal view, with the advent of cloud, provisioning of new services and resources is becoming easier. Application Developers crossing 'bounded' context and learning more about infrastructure and DevOps would be the most preferred way to understand and fully embrace microservices. We will still need infra ops and DevOps team, but one person having end-to-end full 360 degree view is extremely important for understanding scale, complexity and challenges associated with architecture, design, implementation and management of services.
+
+In the upcoming posts , I will try to go deep and reflect more on some of the major topics that influences our decision towards microservices. 
