@@ -12,14 +12,13 @@ The decision of whether to go for microservices or stick to a monolith is a cons
 
 It is recommended to design with a [modular monolith](https://www.infoq.com/news/2020/05/monolith-decomposition-newman/) ( [explained here](https://medium.com/design-and-tech-co/modular-monoliths-a-gateway-to-microservices-946f2cbdf382) ) design pattern and then if required, branch off easily into separate microservices later if the situation demands. As part of building the modular monolith, set up  DevOps CI-CD pipeline stuff with Infra As Code automation so that the move to microservices will be slightly less painful.
 
+So in principle , if the need for microservices is not clearly understood and if the team building has no prior experience and there is no business case to do so , it is better to stick to a modular monolith. And then the situation would presents itselves in the future magically prompting us to think in the direction of microservices. 
 
 ### Case of Microservices for existing applications 
 
 **Prerequisite**: DevOps CI-CD pipeline is already available
 
-Use modular monolith design to re-architect existing applications as part of traditional development 
-
-Understand the pain points of having a monolith and what problem areas to solve when going microservices and how microservices will help to solve them. Outcome-based thoughtful consideration is required.
+Use modular monolith design to re-architect existing applications as part of  development. Understand the pain points of having a monolith and what problems can be exactly solved when going for microservices and how microservices will help to solve them. An outcome-based thoughtful consideration is required here.
 
 Some major points to consider
 
