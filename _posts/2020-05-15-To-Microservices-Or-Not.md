@@ -52,7 +52,7 @@ Some major points to consider
  
 - Need for an orchestration and aggregation layer which is essentially a light weight monolith for a few use cases , meaning monolith cannot be avoided completely.  
 
--Security across microservices is additional work and needs to be well thought through. 
+- Security across microservices is additional work and needs to be well thought through. 
  
 - De-normalizing data and creating siloed copies into multiple systems to avoid latency of calling other microservices to fetch required information. 
  
