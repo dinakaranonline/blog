@@ -21,7 +21,7 @@ Use modular monolith design to re-architect existing applications as part of tra
 
 Understand the pain points of having a monolith and what problem areas to solve when going microservices and how microservices will help to solve them. Outcome-based thoughtful consideration is required.
 
-Some major decisions point 
+Some major points to consider
 
 ### Factors favouring Microservices :
 
