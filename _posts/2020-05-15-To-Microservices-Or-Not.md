@@ -2,7 +2,7 @@
 layout: post
 title: To Micoservices or not
 author: dinakaran
-image: assets/images/microservices.jpeg
+image: assets/images/switch_to_microservices.jpeg
 published: true
 ---
 
