@@ -51,7 +51,7 @@ Some major points to consider
  
 - DevOps automation done for monolith is a good starting point. If there is no DevOps automation, stay away from microservices.
  
-- Need for an orchestration and aggregation layer is required for a few use cases.  Security across microservices is additional work and needs to be well thought of. 
+- Need for an orchestration and aggregation layer which is essentially a light weight monolith for a few use cases.  Security across microservices is additional work and needs to be well thought of. 
  
 - De-normalizing data into multiple systems to enforce accessing data from other systems only through well defined agreed services and added complexity of ensuring consistency between different systems. 
  
