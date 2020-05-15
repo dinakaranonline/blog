@@ -72,7 +72,7 @@ Some major points to consider
 
 - Buidling microservices without adopting PAAS or CAAS or FAAS solutions would lead to the full-fledged implementation of required components of microservices following the Netflix Spring Cloud architecture . All of these will result in more complexity.
 
-So to conclude , Microservices as an option should not be tried just because it is the new shiny toy in town. Generally speaking, case of microservices would present itself when trying address the challenges of managing a complex monolith application. Only and only when the business case presents itself, the decision to go towards micro services should even be considered. It will be a wise move to make changes incrementally to a monolith application by tearing away small features from monolith and building it as a microservices. This will help to un-cover the scenarios and challenges and ways to address them before jumping into the bandwagon in entirety. 
+So to conclude , Microservices as an option should not be tried just because it is the new shiny toy in town. Generally speaking, case for microservices would present itself when trying address the challenges of managing a complex monolith application. Only and only when the business case presents itself, the decision to go towards micro services should even be considered. It will be a wise move to make changes incrementally to a monolith application by tearing away small features from monolith and building it as a microservices. This will help to un-cover the scenarios and challenges and ways to address them before jumping into the bandwagon in entirety. 
 
 
 Following are some of the products, toolsets, approaches that be can be considered 
