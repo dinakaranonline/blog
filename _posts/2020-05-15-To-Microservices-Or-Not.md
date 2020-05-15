@@ -74,7 +74,21 @@ Some major points to consider
 
 Following are some of the products, toolsets, approaches that be should be considered 
 
-- Cloud -  IAAS ,  PAAS or FAAS   
-- DevOps  - CI/CD using Jenkins or equivalent . Terraform , Ansible 
-- Microservices Development - Bounded Context, Stateless vs Stateful, Aggregates, Data duplication, Transaction management, microservices design pattern
+- **Cloud** -  IAAS ,  PAAS or FAAS   
+- **DevOps**  - CI/CD using Jenkins or equivalent . Terraform , Ansible 
+- **Microservices** Development - Bounded Context, Stateless vs Stateful, Aggregates, Data duplication, Transaction management, microservices design pattern
+
+
+### For Additional Reading :
+
+-Domain Driven Design
+-Aggregates in context of Domain Driven Design 
+-Microservices Design Patterns
+-Microservices - IAAS , PAAS or FAAS
+-Microservices and Security
+-Microservices and Transactions
+-Microservices and Stateless vs Stateful Consideration
+
+
+I will try to cover some of the concepts listed above in the upcoming posts shortly. 
 
