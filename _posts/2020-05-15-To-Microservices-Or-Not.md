@@ -32,6 +32,7 @@ Some major decisions point
 - Risks are minimized and isolated. The blast radius is small when something goes wrong when compared with a monolith.
  
 - Not restricted to a tech stack. Teams can change tech stack based on their choice, preference and requirements. It should be easier to choose to move from MySQL to NoSQL if the situation demands. 
+
 - CI-CD process is faster as microservices will deploy a few components, runs tests for fewer components. In the case of large monoliths, this is not entirely true and in some cases, full deployment takes around 30-40 mins without running tests. 
   
 - Microservices can be independently and infinitely scaled if microservices are stateless and uses only externally managed services for data.  
