@@ -33,7 +33,7 @@ Some major points to consider
  
 - Not restricted to a tech stack. Teams can change tech stack based on their choice, preference and requirements. It should be easier to choose to move from MySQL to NoSQL if the situation demands. 
 
-- CI-CD process is faster as microservices will deploy a few components, runs tests for fewer components. In the case of large monoliths, this is not entirely true and in some cases, full deployment takes around 30-40 mins without running tests. 
+- CI-CD process is faster as microservices will deploy fewer components, runs tests for fewer components. In the case of large monoliths, this is not entirely true and in some cases, full deployment takes around 30-40 mins without running tests. 
   
 - Microservices can be independently and infinitely scaled if microservices are stateless and uses only externally managed services for data.  
 
