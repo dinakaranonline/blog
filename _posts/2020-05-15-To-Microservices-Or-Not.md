@@ -84,13 +84,14 @@ Following are some of the products, toolsets, approaches that be can be consider
 
 ### For Additional Reading :
 
-1. Domain Driven Design
-1. Aggregates in context of Domain Driven Design 
-1. Microservices Design Patterns
-1. Microservices - IAAS , PAAS or FAAS
-1. Microservices and Security
-1. Microservices and Transactions
-1. Microservices and Stateless vs Stateful Consideration
+- Domain Driven Design
+- Aggregates in context of Domain Driven Design 
+- Microservices Design Patterns
+- Microservices - IAAS , PAAS or FAAS
+- Microservices and Security
+- Microservices and Transactions
+- Microservices and Stateless vs Stateful Consideration
+
 
 
 
