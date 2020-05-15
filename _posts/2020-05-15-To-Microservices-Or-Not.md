@@ -10,7 +10,7 @@ The decision of whether to go for microservices or stick to a monolith is a cons
 
 ### For Green Field Applications
 
-It is recommended to design with a [modular monolith](https://www.infoq.com/news/2020/05/monolith-decomposition-newman/), [detailed write up](https://medium.com/design-and-tech-co/modular-monoliths-a-gateway-to-microservices-946f2cbdf382)  design pattern and then if required, branch off easily into separate microservices later if the situation demands. As part of building the modular monolith, set up  DevOps CI-CD pipeline stuff with Infra As Code automation so that the move to microservices will be slightly less painful.
+It is recommended to design with a [modular monolith](https://www.infoq.com/news/2020/05/monolith-decomposition-newman/), ([detailed write up]) (https://medium.com/design-and-tech-co/modular-monoliths-a-gateway-to-microservices-946f2cbdf382)  design pattern and then if required, branch off easily into separate microservices later if the situation demands. As part of building the modular monolith, set up  DevOps CI-CD pipeline stuff with Infra As Code automation so that the move to microservices will be slightly less painful.
 
 
 ### For existing applications / Building on top of a monolith
