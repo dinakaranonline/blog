@@ -23,7 +23,7 @@ Understand the pain points of having a monolith and what problem areas to solve 
 
 Some major decisions point 
 
-## For Microservices :
+### Factors favouring Microservices :
 
 - Microservices gives us Scaling and Elasticity consideration. But that is not only the main reason for going to microservices. Ability to deploy code independently is another main reason. 
 
@@ -43,7 +43,7 @@ Some major decisions point
 
   
 
-## Against Microservices : 
+### Factors Against Microservices : 
 
 
 - The added complexity in terms of infra and cost. Leads to the case of over-engineering. Need to think deeply and take balanced educated decisions.
@@ -69,13 +69,6 @@ Some major decisions point
 - Committing a transaction and rollbacks can be quite difficult. In the case of a monolith, it is easier to group related actions and data into a transaction and then roll back if one of them fails. But in case of microservices, roll back approaches need to thought of, in case if one of the services is failing temporarily. 
 
 - Microservices without adopting PAAS or CAAS or FAAS solutions would lead to the implementation of full-fledged of all required components of microservices following the Netflix Spring Cloud. All of these will result in more complexity.
-
-
-## To research : 
-
-Microservices without containers is possible 
-Microservices in on-prem without a cloud 
-Microservices in stateful applications
 
 
 Following are some of the products, toolsets, approaches that be should be considered 
