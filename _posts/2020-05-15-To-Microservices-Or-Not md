@@ -76,6 +76,4 @@ Following are some of the products, toolsets, approaches that be should be consi
 
 Cloud -  IAAS ,  PAAS or FAAS   
 DevOps  - CI/CD using Jenkins or equivalent . Terraform , Ansible 
-Microservices Development - Bounded Context, Stateless vs Stateful, Aggregates, Data duplication, Transaction management, microservices design pattern 
-
-
+Microservices Development - Bounded Context, Stateless vs Stateful, Aggregates, Data duplication, Transaction management, microservices design pattern
