@@ -8,12 +8,12 @@ published: true
 
 The decision of whether to go for microservices or stick to a monolith is a constantly recurring question. The simple answer is, it depends on the context. Having said that, it would be good to comprehend the major factors that would impact our decisions. 
 
-### For Green Field Applications
+### Case of Microservices for Green Field applications
 
 It is recommended to design with a [modular monolith](https://www.infoq.com/news/2020/05/monolith-decomposition-newman/) ( [explained here](https://medium.com/design-and-tech-co/modular-monoliths-a-gateway-to-microservices-946f2cbdf382) ) design pattern and then if required, branch off easily into separate microservices later if the situation demands. As part of building the modular monolith, set up  DevOps CI-CD pipeline stuff with Infra As Code automation so that the move to microservices will be slightly less painful.
 
 
-### For existing applications / Building on top of a monolith
+### Case of Microservices for existing applications 
 
 **Prerequisite**: DevOps CI-CD pipeline is already available
 
