@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TO Micoservices or not
+title: To Micoservices or not
 author: dinakaran
 image: assets/images/microservices.jpeg
 published: true
