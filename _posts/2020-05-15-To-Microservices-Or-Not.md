@@ -77,7 +77,7 @@ So to conclude , Microservices as an option should not be tried just because it 
 
 Following are some of the products, toolsets, approaches that be can be considered 
 
-- **Cloud** -  IAAS ,  CAAS or FAAS   
+- **Cloud** -  IAAS,CAAS or FAAS   
 - **DevOps**  - CI/CD using Jenkins or equivalent, Terraform , Ansible 
 - **Microservices** Development - Bounded Context, Stateless vs Stateful, Aggregates, Data duplication, Transaction management, microservices design pattern
 
