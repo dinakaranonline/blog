@@ -70,14 +70,14 @@ Some major points to consider
  
 - Committing a transaction and rollbacks can be quite difficult. In the case of a monolith, it is easier to group related actions and data into a transaction and then roll back if one of them fails. But in case of microservices, roll back approaches need to thought of, in case if one of the services is failing temporarily. 
 
-- Buidling microservices without adopting PAAS or CAAS or FAAS solutions would lead to the full-fledged implementation of required components of microservices following the Netflix Spring Cloud architecture . All of these will result in more complexity.
+- Buidling microservices without adopting [IAAS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service),[CAAS](https://www.docker.com/blog/containers-as-a-service-caas/) or [FAAS](https://en.wikipedia.org/wiki/Function_as_a_service) solutions from cloud provider would lead to the full-fledged implementation of required components of microservices following the Netflix Spring Cloud architecture . All of these will result in more complexity.
 
 So to conclude , Microservices as an option should not be tried just because it is the new shiny toy in town. Generally speaking, case for microservices would present itself when trying address the challenges of managing a complex monolith application. Only and only when the business case presents itself, the decision to go towards micro services should even be considered. It will be a wise move to make changes incrementally to a monolith application by tearing away small features from monolith and building it as a microservices. This will help to un-cover the scenarios and challenges and ways to address them before jumping into the bandwagon in entirety. 
 
 
 Following are some of the products, toolsets, approaches that be can be considered 
 
-- **Cloud** -  IAAS ,  PAAS or FAAS   
+- **Cloud** -  IAAS ,  CAAS or FAAS   
 - **DevOps**  - CI/CD using Jenkins or equivalent, Terraform , Ansible 
 - **Microservices** Development - Bounded Context, Stateless vs Stateful, Aggregates, Data duplication, Transaction management, microservices design pattern
 
@@ -95,5 +95,4 @@ Following are some of the products, toolsets, approaches that be can be consider
 
 
 
-I will try to cover some of the concepts listed above in the upcoming posts shortly. 
-
+I will try to cover some of the concepts listed above in the upcoming posts shortly.
