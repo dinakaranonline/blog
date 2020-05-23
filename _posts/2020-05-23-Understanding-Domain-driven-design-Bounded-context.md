@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: dinakaran
 image: assets/images/switch_to_microservices.jpg
