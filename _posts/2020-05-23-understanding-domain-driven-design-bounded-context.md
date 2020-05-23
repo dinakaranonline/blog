@@ -51,7 +51,7 @@ As a result of event storming, we get the main domain objects, corresponding eve
 - Sub-Domains
 - Business Process and Entities
 
-https://cdn.oreillystatic.com/en/assets/1/event/305/On%20microservices%2C%20bounded%20contexts%2C%20and%20everything%20in%20between%20Presentation.pdf
+More information [here](https://cdn.oreillystatic.com/en/assets/1/event/305/On%20microservices%2C%20bounded%20contexts%2C%20and%20everything%20in%20between%20Presentation.pdf) 
 
 To know more about this, I have linked more articles on the same topic 
 
