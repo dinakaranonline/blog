@@ -47,7 +47,7 @@ During Event Storming, another essential information that emerges are the busine
 
 As a result of event storming, we get the main domain objects, corresponding events as well. These events may represent a change of state within the domain system or to other systems as well. For example, once the appraisal process is completed only, the increase in pay for that year is computed and included as part of payroll for that employee. So in the context of microservices, it is very important to determine these business events and the corresponding change in state is propagated to other systems accordingly.   
 
-
+In the upcoming posts , we will look at how to use these domain driven design principles, objects and events to build a microservices architecture.  
 
 More information [here](https://cdn.oreillystatic.com/en/assets/1/event/305/On%20microservices%2C%20bounded%20contexts%2C%20and%20everything%20in%20between%20Presentation.pdf) 
 
