@@ -15,7 +15,7 @@ Domain Driven Design adopts the principle of designing software systems based by
 
 Bounded context is all about establishing the boundaries of business rules, processes and interactions between different domains. It helps to demarcate boundaries and ensure other systems respect these context. 
 
-##Thinking Domain in context of organisation's Employee - Appraisal - Payroll domain 
+## Thinking Domain in context of organisation's Employee - Appraisal - Payroll domain 
 
 To give an example, let us take the example of an organisation. Employee, Appraisal and Payroll can be 3 different domain objects. There may be 100 different attributes that pertain to an employee like personal information, education and experience etc. All this information will be managed and stored within the Employee Domain using applications and systems developed to manage this information.
 
