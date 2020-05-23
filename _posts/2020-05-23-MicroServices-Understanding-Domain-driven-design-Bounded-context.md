@@ -17,7 +17,7 @@ Bounded context is all about establishing the boundaries of business rules, proc
 
 ## Thinking of Organisations as Domains
 
-To give an example, let us take the example of an organisation. Employee, Appraisal and Payroll can be 3 different domain objects. There may be 100 different attributes that pertain to an employee like personal information, education and experience etc. All this information will be managed and stored within the Employee Domain using applications and systems developed to manage this information.
+Let us take the example of an organisation. Employee, Appraisal and Payroll can be 3 different domain objects. There may be 100 different attributes that pertain to an employee like personal information, education and experience etc. All this information will be managed and stored within the Employee Domain using applications and systems developed to manage this information.
 
 
 An Appraisal can be another domain for capturing and assessing the performance of an employee. Even though the name of the employee or employee id from Employee system may be used in the Appraisal system, other than the references, no other information about the employee like address and other non-relevant information for appraisal system will be viewed or updated through the Appraisal system. Similarly, in the employee system, no information about the employee's performance will be available.
