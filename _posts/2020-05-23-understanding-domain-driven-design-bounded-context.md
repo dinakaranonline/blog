@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 author: dinakaran
 image: assets/images/ddd.gif
@@ -9,7 +9,7 @@ Domain Driven Design is the foundational pillar for any of the micro-services im
 
 One of the challenges encountered with designing micro-services is identifying the main domains and sub-domains and forming boundaries around them. And this establishing of boundaries amongst microservices is usually referred to as Bounded Context.
 
-## What is Domain Driven Design and what Domain ?
+## What is Domain Driven Design ?
 
 Domain Driven Design adopts the principle of designing software systems based by keeping domain as being the main focus. It is not necessarily a new concept that came along with microservices, but a concept well suited for microservices. These are the core business components of a system. For instance, in the case of an organization,  employees, departments and projects may be the core domain components. Processes and structures are placed around them.  
 
