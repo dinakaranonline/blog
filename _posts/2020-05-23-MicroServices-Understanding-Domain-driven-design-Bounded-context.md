@@ -15,7 +15,10 @@ Domain Driven Design adopts the principle of designing software systems based by
 
 Bounded context is all about establishing the boundaries of business rules, processes and interactions between different domains. It helps to demarcate boundaries and ensure other systems respect these context. 
 
+##Thinking Domain in context of organisation's Employee - Appraisal - Payroll domain 
+
 To give an example, let us take the example of an organisation. Employee, Appraisal and Payroll can be 3 different domain objects. There may be 100 different attributes that pertain to an employee like personal information, education and experience etc. All this information will be managed and stored within the Employee Domain using applications and systems developed to manage this information.
+
 
 An Appraisal can be another domain for capturing and assessing the performance of an employee. Even though the name of the employee or employee id from Employee system may be used in the Appraisal system, other than the references, no other information about the employee like address and other non-relevant information for appraisal system will be viewed or updated through the Appraisal system. Similarly, in the employee system, no information about the employee's performance will be available.
 
@@ -57,10 +60,3 @@ To know more about this, I have linked more articles on the same topic
 [https://www.slideshare.net/Pivotal/ddd-and-microservices-like-peanut-butter-and-jelly-matt-stine](https://www.slideshare.net/Pivotal/ddd-and-microservices-like-peanut-butter-and-jelly-matt-stine)
 
 [https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/](https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/)
-
-
-
-
-
-
-
