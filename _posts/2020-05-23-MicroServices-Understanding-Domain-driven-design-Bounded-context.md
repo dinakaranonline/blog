@@ -9,13 +9,13 @@ Domain Driven Design is the foundational pillar for any of the micro-services im
 
 One of the challenges encountered with designing micro-services is identifying the main domains and sub-domains and forming boundaries around them. And this establishing of boundaries amongst microservices is usually referred to as Bounded Context.
 
-## What is Domain Driven Design ?
+### What is Domain Driven Design ?
 
 Domain Driven Design adopts the principle of designing software systems based by keeping domain as being the main focus. It is not necessarily a new concept that came along with microservices, but a concept well suited for microservices. These are the core business components of a system. For instance, in the case of an organization,  employees, departments and projects may be the core domain components. Processes and structures are placed around them.  
 
 Bounded context is all about establishing the boundaries of business rules, processes and interactions between different domains. It helps to demarcate boundaries and ensure other systems respect these context. 
 
-## Thinking of Organisations as Domains
+### Thinking of Organisations as Domains
 
 Let us take the example of an organisation. Employee, Appraisal and Payroll can be 3 different domain objects. There may be 100 different attributes that pertain to an employee like personal information, education and experience etc. All this information will be managed and stored within the Employee Domain using applications and systems developed to manage this information.
 
@@ -26,13 +26,13 @@ The Payroll domain and supporting systems too would use the employee id or emplo
 
  In essence, why domain driven design and bounded context required? It helps to form a ubiquitous language through which people within and outside their teams and organization can communicate easily. All of them will mean and refer to the same thing.  Employee System, Payroll System and Appraisal System help us to easily identify what each of the systems does and helps to easily understand the boundaries. 
 
-## How to identity Domains and Bounded Contexts?
+### How to identity Domains and Bounded Contexts?
 
 Let us say, we are in the process of building microservices and need to come up with the main domain objects and bounded contexts. How to go about it? 
 
 There are some established processes that can be followed to identify domains and bounded contexts. As application developers or architects, even though we may have the requirements and are aware of the innate working of various systems and dependencies, it would always be prudent to bring along a set of domain experts. These are generally the business people with good knowledge of the core business, process and contexts. 
 
-## Event Storming
+### Event Storming
 
 Event Storming is one of the techniques followed to come up with the Domain Objects, Bounded context and how they interact with each other. It is essentially a brainstorming session. More detailed information regarding this is available [here](https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab) and [here](https://www.capitalone.com/tech/software-engineering/event-storming-for-microservice-architecture/) :  
 
@@ -47,7 +47,7 @@ During Event Storming, another essential information that emerges are the busine
 
 As a result of event storming, we get the main domain objects, corresponding events as well. These events may represent a change of state within the domain system or to other systems as well. For example, once the appraisal process is completed only, the increase in pay for that year is computed and included as part of payroll for that employee. So in the context of microservices, it is very important to determine these business events and the corresponding change in state is propagated to other systems accordingly.   
 
-## Decomposition Strategies
+### Decomposition Strategies
 
 - Bounded Context
 - Sub-Domains
