@@ -46,7 +46,8 @@ Here is a brief overview of the various patterns.
 - **Performance Metrics** - Monitor the application performance
 	-	Push - New Relic, App Dynamics
 	-	Pull - Prometheus
-    
+
+
 - **Distributed Tracing** - Trace request between microservices Eg. X-Ray. Spring Cloud Sleuth
 
 - **Health Check** - Check the status of each server or container by sending heart beats
