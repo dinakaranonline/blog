@@ -20,7 +20,7 @@ Here is a brief overview of the various patterns.
 
 ### Integration Patterns
 
-- **API Gateway pattern**
+- **API Gateway pattern** -
 	Can be used by different clients. Backend For Front End ( BFF),
  	Useful for aggregation /data  manipulation
  	Handle different type of protocol. XML/ JSON transformation etc
