@@ -5,7 +5,7 @@ published: false
 
 One look at the various microservices patterns and the sheer amount of patterns would look daunting for anyone starting new. Design patterns for microservices can be broadly classified around 4-5 categories and with each category having 3- 5 patterns. A more detailed look at each of the patterns is available here. 
 
-**References**: https://dzone.com/articles/design-patterns-for-microservices
+**References**: [https://dzone.com/articles/design-patterns-for-microservice](https://dzone.com/articles/design-patterns-for-microservice)s
 
 Here is a brief overview of the various patterns.
 
@@ -69,7 +69,7 @@ Publisher - Subscriber Pattern is widely used in the event-driven asynchronous a
 
 Few more: Sidecar, Chained Microservice, Branch Microservice, Event Sourcing Pattern, Continuous Delivery Patterns
 Another write up of similar and few more patterns identified here. 
-https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a
+[https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 
 ## How products/services address these design patterns?
 
