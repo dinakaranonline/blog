@@ -44,8 +44,8 @@ Here is a brief overview of the various patterns.
 - **Log Aggregation** - Eg. Cloud Watch
 
 - **Performance Metrics** - how well the application is performing
--	 	 Push - New Relic, App Dynamics
--		 Pull - Prometheus
+	-	Push - New Relic, App Dynamics
+	-	Pull - Prometheus
 
 - **Distributed Tracing** - trace request between microservices Eg. X-Ray. Spring Cloud Sleuth
 
