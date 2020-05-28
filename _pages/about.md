@@ -7,7 +7,7 @@ published: true
 ---
 Hello There , 
 
-I'm Dinakaran,from Chennai, India. I have been for the last 12 years working in IT Industry in a gamut of technologies. 
+I'm Dinakaran,from Chennai, India. I have been for the last 14+ years working in IT Industry in a gamut of technologies. 
 
 ## Profile
 
@@ -20,7 +20,7 @@ I'm Dinakaran,from Chennai, India. I have been for the last 12 years working in 
 
 - In-depth working knowledge of Portal / Web Content Management products like WebSphere Portal/ Web Content Management/ Portlet Factory/ Enterprise Search, WebSphere Application Server.
 
-- Hands-on experience in modern web technologies like Angular , Ember, React, Bootstrap , Responsive Web Design, Ajax, JQuery-JSON
+- Hands-on experience in modern web technologies like Angular, Bootstrap , Responsive Web Design, Ajax, JQuery-JSON
 
 - Architecting solutions on top of Google Firebase / Azure Mobile Apps and integration with cross platform applications using Xamarin and React Native and API Gateways like Mulesoft / Apigee
  
