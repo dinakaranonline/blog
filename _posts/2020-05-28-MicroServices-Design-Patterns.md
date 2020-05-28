@@ -56,24 +56,5 @@ https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns
 
 Many of the patterns listed here are now being offered as a feature or product by cloud providers and other vendors. Depending on what type of technology stack that is being considered, some of the features may come out of the box and reinventing the wheel is not required. 
 
-Netflix in their initial days of moving to microservices built many of these components from scratch. Nowadays these components are available as managed services. Instead of getting overwhelmed with the multitude of design patterns and implementation, if the use case and context matches, pick one of existing products or services.
-
-
-**Pattern**                      **Products/Services  available in the market**
-
-API Gateway                     AWS API Gateway , GCP Apigee 
-
-Log Aggregation                 AWS Cloud Watch, GCP StackDriver , ELK stack     
-
-Performance / Monitoring        AWS Cloud Watch, Prometheus , New Relic , App Dynamics 
-
-Distributed Tracing             AWS X-Ray
-
-External Configuration          AWS System Manager , Firebase Remote Config
-
-Pub-Sub                         AWS SNS/SQS , GCP Pub-Sub 
-
-
-
-Some of the patterns and equivalent products available in the AWS/GCP ecosystem. The list is not exhaustive but gives a leading indicator on how to approach the various design patterns. It is not required to build everything from scratch.
+Netflix in their initial days of moving to microservices built many of these components from scratch. Nowadays these components are available as managed services. Instead of getting overwhelmed with the multitude of design patterns and implementation, if the use case and context matches, pick one of existing products or services. It is not required to build everything from scratch.
 
