@@ -19,7 +19,7 @@ Here is a brief overview of the various patterns.
 	 can be used by different clients. Backend For Front End ( BFF),
  	Useful for aggregation /data  manipulation
  	handle different type of protocol. XML/ JSON transformation etc
-- **Aggregator Pattern **- fetch, aggregate and transform data from different back end services endpoints. Can be done via API Gateway pattern or Composite Microservice pattern
+- **Aggregator Pattern**- fetch, aggregate and transform data from different back end services endpoints. Can be done via API Gateway pattern or Composite Microservice pattern
 - **Client-Side UI Composition Pattern** - each section in a page of the front end application will call separate back end services to consume data
 
 ### Database Patterns
