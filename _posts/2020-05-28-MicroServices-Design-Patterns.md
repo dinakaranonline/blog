@@ -15,7 +15,7 @@ Here is a brief overview of the various patterns.
 - **Strangler Patterns** - a section of the monolith pointing to a new microservice while rest being served by a monolith. And the giant monolith will be decomposed into smaller microservices,  one functionality or component at a time
 
 ### Integration Patterns
-- **API Gateway pattern **
+- **API Gateway pattern**
 	 can be used by different clients. Backend For Front End ( BFF),
  	Useful for aggregation /data  manipulation
  	handle different type of protocol. XML/ JSON transformation etc
