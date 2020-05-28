@@ -38,8 +38,6 @@ Here is a brief overview of the various patterns.
 - **Command Query Responsibility Segregation Pattern ( CQRS)** - Create/Update / Delete done using commands and fetching of data using queries. Query fetches data from multiple microservices using materialized views
 
 - **SAGA patterns** - a business process defined with compensating actions for failed transactions
-- 		Choreography
-- 		Orchestration
 
 ### Observability Patterns
 
@@ -77,4 +75,3 @@ Another write up of similar and few more patterns identified here.
 Many of the patterns listed here are now being offered as a feature or product by cloud providers and other vendors. Depending on what type of technology stack that is being considered, some of the features may come out of the box and reinventing the wheel is not required. 
 
 Netflix in their initial days of moving to microservices built many of these components from scratch. Nowadays these components are available as managed services. Instead of getting overwhelmed with the multitude of design patterns and implementation, if the use case and context matches, pick one of existing products or services. It is not required to build everything from scratch.
-
