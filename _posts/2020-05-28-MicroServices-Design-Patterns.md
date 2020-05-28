@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+author: dinakaran
+image: assets/images/ddd.gif
 ---
 ## Microservices Design Patterns
 
