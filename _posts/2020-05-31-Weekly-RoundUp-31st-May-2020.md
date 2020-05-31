@@ -16,11 +16,11 @@ Security vulnerability with Apple Sign-In authentication flow was reported by Bh
 
 ### 2.Static First Using Serverless Front End 
 
-Link : [[https://www.serverlesschats.com/50](https://www.serverlesschats.com/50))
+Link : [https://www.serverlesschats.com/50](https://www.serverlesschats.com/50)
 
 While Serverless has been gaining momentum in the last 5+ years, most of the discussion centred around the backend implementation. In this podcast run by Jeremy Daly ( [@jeremy_daly](https://twitter.com/jeremy_daly))  conversation with NextJS ([https://nextjs.org/](https://nextjs.org/))  co-founder Guillermo Rauch ([@rauchg](https://twitter.com/rauchg)), who is also the founder of Vercel ([https://vercel.com/](https://vercel.com/))  about the serverless implementation for front-end applications. While the use-case for server-side static websites is limited, the possibilities of what can be achieved in terms of latency, less computation and super-fast rendering on the browser is certainly an important trend to keep track of.  
 
-### 3.How to compete with AWS 
+### 3.How to compete with AWS?
 
 Link: [https://www.lastweekinaws.com/blog/how-to-compete-with-aws/](https://www.lastweekinaws.com/blog/how-to-compete-with-aws/)
 
