@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/Design-Patterns.jpg
+image: assets/images/weekly-roundup.jpg
 ---
 Starting this week, to make my habit of blogging more regularly, I have tried to come up with Weekly Round-Up posts that are a compilation of all interesting blogs or news that I have read in the last week. Most of these are already shared through my Twitter  ([@dinquistively](https://twitter.com/dinquisitively)), this is an attempt to document the same.
 
