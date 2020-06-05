@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup.jpg
 ---
 When it comes to microservices, the thinking around databases has to be radical and very different. Following are the essential considerations : 
 
