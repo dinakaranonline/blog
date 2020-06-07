@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weekly-roundup.jpg
+image: assets/images/weeklyroundup-1.png
 ---
 Interesting reads for the week of 7th June 2020
 
