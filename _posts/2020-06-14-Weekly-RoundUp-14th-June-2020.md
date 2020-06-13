@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weeklyroundup-1.png
+image: assets/images/weekly-roundup-2.jpeg
 ---
 
 Interesting reads for this week. 
@@ -28,4 +28,3 @@ Thanks to Google's Knowledge Graph, most of the information that we search for t
 But Google does the same to 3rd party websites too which are built on page visits and ad model. Instead of users clicking their site to view the answer if Google scrapes the answer and provides zero clicks to the 3rd party site, it is going to kill the revenue for the site.  It will be interesting to see how this evolves over the next few years. 
 
 https://hackernoon.com/how-wikipedia-lost-3-billion-organic-search-visits-to-google-in-2019-qz6630u6
-
