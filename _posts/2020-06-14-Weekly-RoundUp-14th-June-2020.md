@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weekly-roundup-2.jpeg
+image: assets/images/weekly-roundup-2.jpg
 ---
 
 Interesting reads for this week. 
