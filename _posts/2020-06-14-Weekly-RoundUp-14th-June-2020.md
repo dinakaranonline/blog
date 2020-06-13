@@ -1,6 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weeklyroundup-1.png
 ---
+
 Interesting reads for this week. 
 
 ### 1. Amazon removing product data from email notifications to thwart competition from email harvesters?
