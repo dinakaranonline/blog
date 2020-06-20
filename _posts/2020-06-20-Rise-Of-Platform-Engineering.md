@@ -46,9 +46,9 @@ So what does the Platform Team should do essentially? A Platform team provide ne
 There should never be a situation where product teams request for features from platform teams and end up waiting for the same. Teams should be autonomous and fully independent. So does Platform team own infrastructure then? Not really. The ownership still rests with Product Teams. Platform Teams just provides a tool kit to make the life of product teams managing software less cumbersome. 
 
 
-### So when does having the Platform team makes sense?
+### So when does having a Platform team makes sense?
 
-Well, there is no right answer to this. But generally speaking, larger the number of product teams and engineers, the kind of problems and patterns listed above starts to emerge. It comes to a point where it becomes very difficult to manage infrastructure, process and tools used by various teams. It is all over the place and there is a feeling of not being in control. This is probably a good point in time when the platform team can start to make sense. How many platform teams should a company have? Starting with a single platform team with a defined set of target customers in teams of product teams would be a good starting point. Learnings from running the platform team could help to refine and move further and if necessary.
+Well, there is no right answer to this. But generally speaking, larger the number of product teams and engineers, the kind of problems and patterns listed above starts to emerge. It comes to a point where it becomes very difficult to manage infrastructure, process and tools used by various teams. It is all over the place and there is a feeling of not being in control. This is probably a good point in time when the platform team can start to make sense. How many platform teams should a company have? Starting with a single platform team with a defined set of target customers, who are essentially the product teams would be a good starting point. Learnings from running the platform team could help to refine and move further and if necessary.
 
 ### Find building and managing platform too complex, go the PAAS way?
 
