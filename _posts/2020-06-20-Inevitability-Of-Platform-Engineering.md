@@ -2,6 +2,7 @@
 published: true
 layout: post
 author: dinakaran
+featured: true
 image: assets/images/platforms.jpg
 ---
 
