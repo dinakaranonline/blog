@@ -4,6 +4,7 @@ title: When Google Photos' AI helped to confirm my daughter's photographic memor
 author: dinakaran
 image: assets/images/google-ai.jpg
 published: true
+featured: true
 youtubeId: suRDUFpsHus
 ---
 When social media was at its peak, it became a norm to use check-in feature on Facebook or Twitter etc to let the world know the cool places that we are going or hanging out. It also became a customary tradition to take selfies or food photos with our family and friends and share them everywhere.
