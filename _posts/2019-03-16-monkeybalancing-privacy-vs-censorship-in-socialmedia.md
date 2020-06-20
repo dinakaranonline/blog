@@ -4,6 +4,7 @@ title: >-
   Monkey Balancing Free Speech, Privacy , Moderation and Regulation in Social
   Media
 author: dinakaran
+featured: true
 image: assets/images/privacy.jpg
 published: true
 ---
