@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-4.jpg
 ---
 Interesting reads from this week
 
