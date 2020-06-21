@@ -3,7 +3,6 @@ published: false
 ---
 Blinkist
 
-Start time: 12:32 pm
 
 Have you ever felt that reading books is generally a good habit and wanting to pursue,  but trying to read books or persisting with reading books on a regular basis is really tough. With fiction books , reading feels therpeuatic because of the world upon which the story revolves around making the reading super interesting and  fun. But with non-fiction books where the reading is aimed at getting something out of the book , it becomes really challengeing.
 
@@ -50,13 +49,4 @@ On whether I would want to use the service on a regular basis , only time can te
 
 End : 13: 12. 
 
-Total time: 40 minutes. 
-
-
- 
-
-
-
-
-
-  
+Total time: 40 minutes.
