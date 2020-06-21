@@ -23,6 +23,3 @@ Interesting podcasts with CEO of Twilio about Building Platforms and how Twilio 
 
 http://investorfieldguide.com/lawson/
 
- 
-
-
