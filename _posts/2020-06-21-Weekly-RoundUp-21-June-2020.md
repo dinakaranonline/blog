@@ -22,7 +22,7 @@ Over the last few weeks, there has been significant news coming from the tech in
 
 ### 3. Podcast with CEO of Twilio on Building platforms.
 
-Interesting podcasts with CEO of Twilio about Building Platforms and how Twilio have gone about building the world's communication system. He all talks about the importance of Developers and the kind of culture that has helped Twilio innovate faster than the incumbents. 'Draw the Owl', 'Ask Your Developer' are the very interesting and curious way of creating awareness and culture of the brand. 
+Interesting podcast discussion with CEO of Twilio about Building Platforms and how Twilio have gone about building the world's communication system. He talks about the importance of Developers and the kind of culture that has helped Twilio innovate faster than the incumbents. 'Draw the Owl', 'Ask Your Developer' are the very interesting and curious way of creating awareness and culture of the brand. 
 
 http://investorfieldguide.com/lawson/
 
