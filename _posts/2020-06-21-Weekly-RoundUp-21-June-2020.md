@@ -6,7 +6,7 @@ image: assets/images/weekly-roundup-4.jpg
 ---
 Interesting reads from this week
 
-### 1. Apple disallowing Hey new email mobile app in iOS and what it means to AppStore and antitrust investigations being opened on them? 
+### 1. Apple disallowing Hey, a new email mobile app in iOS App Store.What it means to AppStore and antitrust investigations being opened on them elsewhere ? 
 
 Over the last week, there is every chance you may have not missed this news about the outrage over Apple's inconsistent policies when it comes to the application of rules in the iOS App Store. And this has resulted in widespread discussion for and against Apple. There is also an anti-trust case opened in EU as well. It should be interesting how this pans out in the next few weeks considering that Apple's Developer conference WWDC is just around the corner.  
 
@@ -26,4 +26,4 @@ Interesting podcasts with CEO of Twilio about Building Platforms and how Twilio 
 
 http://investorfieldguide.com/lawson/
 
-That's all for this week. 
+That's all for this week.
