@@ -1,6 +1,10 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-4.jpg
 ---
+
 In case of the traditional setup of cloud infrastructure, logging and monitoring is quite a huge architecture decision - be it deciding on the logging and monitoring stack of ELK vs EFK and setting up all required infrastructure to collect logs and tools and dashboard to be set up. For anyone starting in the Cloud, it could be a daunting task. There needs close interaction between Application and Infrastructure teams to get all of this coordinated and setup. When it comes to Observability, there are a lot of 3rd party tools widely marketed and recommended.
 
 But in my experience, we were able to take up most of the observability requirements with the Native AWS services itself. In this article, I will share my experiences on how we set up and implemented observability for various use-cases and the various AWS services to manage each of the different requirement.
