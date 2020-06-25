@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weekly-roundup-4.jpg
+image: assets/images/observability.jpg
 ---
 
 In case of the traditional setup of cloud infrastructure, logging and monitoring is quite a huge architecture decision - be it deciding on the logging and monitoring stack of ELK vs EFK and setting up all required infrastructure to collect logs and tools and dashboard to be set up. For anyone starting in the Cloud, it could be a daunting task. There needs close interaction between Application and Infrastructure teams to get all of this coordinated and setup. When it comes to Observability, there are a lot of 3rd party tools widely marketed and recommended.
