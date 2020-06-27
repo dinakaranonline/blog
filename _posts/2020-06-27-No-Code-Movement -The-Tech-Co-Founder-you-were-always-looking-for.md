@@ -31,13 +31,13 @@ In some ways, the low code tools are a more evolved version of [Wix](https://www
 Having said that, we must not be carried away with the hype of no-code/low-code movement being the silver bullet for all the problems. The tools are targetting a repeatable set of use-cases and are in no way a replacement for building incredible user-experiences of high quality.
 
 
-###  What is the Database / Data Store?
+###  Spread sheet as the Database / Datastore
 
 One of the most interesting aspects in this movement is that most of the data is stored in MS-Excel Spreadsheet kind of tools, which has a very familiar interface and functionalities are well understood by almost anyone well versed with using desktops.
 
-There are interesting use-cases that can be built with Spread sheets as a database. Airtable is also taking a similar evolved approach of using spreadsheets as databases. 
+There are interesting use-cases that can be built with Spread sheets as a database. [Airtable](https://airtable.com) is also taking a similar evolved approach of using spreadsheets as databases. 
 
-### But what are the comprises ? 
+### What are the compromises then ? 
 
 Pricing is one aspect that needs to be properly considered. Most of the no-code tools have a free tier and once there is traction, a slightly higher subscription cost on a monthly basis could become challenging. Also, there is little flexibility in terms of branding and the level of customizations here are extremely limiting.
 
