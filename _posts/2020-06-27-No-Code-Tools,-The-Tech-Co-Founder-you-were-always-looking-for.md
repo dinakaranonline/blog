@@ -41,7 +41,7 @@ There are interesting use-cases that can be built with Spread sheets as a databa
 
 Pricing is one aspect that needs to be properly considered. Most of the no-code tools have a free tier and once there is traction, a slightly higher subscription cost on a monthly basis could become challenging. Also, there is little flexibility in terms of branding and the level of customizations here are extremely limiting.
 
-So moving from a no-code tool is going to be a complete re-write and hence the migration and associated cost of re-write need to be carefully considered. There is also the vendor lock-in that needs to be carefully considered.
+So moving from a no-code tool is going to be a complete re-write and hence the migration and associated cost of re-write need to be carefully considered. There is also the vendor lock-in that needs to be thought through.
 
 Having said of all of this, there is an absolute market need that makes big cloud providers like GCP and AWS invest in the no-code tools and it should be interesting to how the no-code tool movement progresses in the next few years.
 
