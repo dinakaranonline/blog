@@ -7,6 +7,8 @@ image: assets/images/observability.jpg
 
 There is always a running joke in the start-up world - whenever there is an after-event party or socialising event, there are always one or two enterprising founders trying to find a TECH co-founder for their new idea/start-up.  The whole world is swiftly gravitating to a new normal where any and every industry is getting impacted by the application of tech in some way or the other. Software is eating the world.
 
+### The Case of No-Code Tools 
+
 There are entrepreneurs outside of tech who have interesting problems in their industry and have no clue on how to use the technology to address the problem. And in the other side, some techies have a good grasp of tech and are in search of an interesting problem to solve with the use of technology but find it very difficult because they do not understand what are the challenges faced by different business and what kind of solution would help.
 
 There is a huge demand for developers who can collaborate with entrepreneurs to build interesting applications and at the supply side, there is a constraint on the limited availability of developers and the cost of hiring them is a very expensive proposition especially if it is a new product and not yet achieved the product-market fit. To bridge this demand, there has been a mushrooming of coding boot camps that help people from other industries enrol in a booting camp to learn code. There are these 100 Days Of Code, Lambda School that helped to fix the supply side demand to some extent.
@@ -16,7 +18,7 @@ The No-Code Movement is a way to address this problem. It is all about empowerin
 
 There are other tools in the market like Glide Apps. There is also Makerpad, an online platform that helps to learn and build apps using low-code tools. Indie Hackers is a good community portal to listen to various non-tech founders using an existing tool or suite of tools to build and run their start-up.
 
-What are good use-cases where no-code tools would make sense?
+### What are good use-cases where no-code tools would make sense?
 
 1. Building prototypes or initial version of the product as MVP Minimum Viable Product to test the product in the market before going big.
 2. Common use-cases like Dashboard, Inventory Management, Basic Create-Read-Update-Delete type of use-cases where the information can be just updated and viewed,  displaying the data in the form of Report from the backend. 
@@ -27,21 +29,18 @@ In some ways, the low code tools are a more evolved version of Wix, but for a wi
 Having said that, we must not be carried away with the hype of no-code/low-code movement being the silver bullet for all the problems. The tools are targetting a repeatable set of use-cases and are in no way a replacement for building incredible user-experiences of high quality.
 
 
-But what is the database or Data Store?
+### But what is the Database / Data Store?
 
 One of the most interesting aspects is that most of the data is stored in MS-Excel Spreadsheet kind of tools, which has a very familiar interface and functionalities are well understood by almost anyone well versed with using desktops.
 
-Pricing is one aspect that needs to be properly considered. Most of the no-code tools have a free tier and once there is traction,  a slightly higher subscription cost on a monthly basis could become challenging. Also, there is little flexibility in terms of branding and the level of customizations here are extremely limiting.
+There are interesting use-cases that can be built with Spread sheets as a database. Airtable is also taking a similar evolved approach of using spreadsheets as databases. 
 
-So moving from a no-code tool is going to be a complete re-write and hence the migration and associated cost of re-write need to be carefully considered. There is also the vendor lock-in and the start-ups building these no-code tools may suddenly shut shop or increase the pricing thereby making it unaffordable.
+### But what are the comprises ? 
+
+Pricing is one aspect that needs to be properly considered. Most of the no-code tools have a free tier and once there is traction, a slightly higher subscription cost on a monthly basis could become challenging. Also, there is little flexibility in terms of branding and the level of customizations here are extremely limiting.
+
+So moving from a no-code tool is going to be a complete re-write and hence the migration and associated cost of re-write need to be carefully considered. There is also the vendor lock-in that needs to be carefully considered.
 
 Having said of all of this, there is an absolute market need that makes big cloud providers like GCP and AWS invest in the no-code tools and it should be interesting to how the no-code tool movement progresses in the next few years.
 
-Software is eating the world, whether the No-Code Tools movement is going to eat software and developers lunch? Only time can tell. 
-
- 
-
-
-
-   
-           
+Software is eating the world, whether the No-Code Tools movement is going to eat software and developers lunch? Only time can tell.
