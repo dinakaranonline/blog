@@ -6,7 +6,9 @@ image: assets/images/weekly-roundup-2.jpg
 ---
 Weekly Round-up of interesting articles that I read in the web in the last one week. 
 
-1. Google squandering its 10-year lead? Full-fledged Chrome OS should have been a no-brainer had Sundar Pichai was not elevated to C-suite? Desktop OS choices between Windows 10 with low cost - poor performance n Mac OS with high-cost n good performance could have had 3rd alternative. Google struggling even after innovating with Chromecast. Amazon started late but nailed execution with Fire TV Stick, content ecosystem bundling it with Prime. PlayStore Music, Movies, Chromecast Audio, Youtube Music/Red and Youtube Original content. Strategy all over the place. It feels like, my personal perception, Google is doing most of the content, devices, messaging, cloud parts of it without a clear strategy, half-heartedly and is all over the place. Did something shift fundamentally within the company in a discrete, opaque way?
+### 1.Google squandering its 10-year lead?
+
+Google squandering its 10-year lead? Full-fledged Chrome OS should have been a no-brainer had Sundar Pichai was not elevated to C-suite? Desktop OS choices between Windows 10 with low cost - poor performance n Mac OS with high-cost n good performance could have had 3rd alternative. Google struggling even after innovating with Chromecast. Amazon started late but nailed execution with Fire TV Stick, content ecosystem bundling it with Prime. PlayStore Music, Movies, Chromecast Audio, Youtube Music/Red and Youtube Original content. Strategy all over the place. It feels like, my personal perception, Google is doing most of the content, devices, messaging, cloud parts of it without a clear strategy, half-heartedly and is all over the place. Did something shift fundamentally within the company in a discrete, opaque way?
 
    [https://secondbreakfast.co/google-blew-a-ten-year-lead](https://secondbreakfast.co/google-blew-a-ten-year-lead)
 
