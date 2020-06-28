@@ -11,7 +11,7 @@ https://secondbreakfast.co/google-blew-a-ten-year-lead
 
 http://investorfieldguide.com/thompson/
 
-3. Organization exerting pressure on Facebook with the boycott, including Verizon and Coco-Cola. And Facebook shares tanking down by 8% and Zuckerberg seems to be caving down and the only way to regin over Facebook is to hit them financially. Nothing else stops them I guess ?  
+3. Organization exerting pressure on Facebook with the boycott of buying advts on Facebook, including Verizon and Coco-Cola. U.S. civil rights groups are urging brands to support the Stop Hate for Profit campaign, which protests the world’s biggest social network’s lax approach to hate speech, harassment and misinformation.  And Facebook shares tanking down by 8% and Zuckerberg seems to be caving down and the only way to regin over Facebook is to hit them financially. Nothing else stops them I guess.  
 
 https://www.cnbc.com/2020/06/27/the-facebook-ad-boycotts-have-entered-the-big-leagues-now-what.html
 
@@ -25,29 +25,25 @@ Whenever a third-party app accesses the clipboard of a device with iOS 14, a not
 https://www.theverge.com/2020/6/26/21304228/tiktok-security-ios-clipboard-access-ios14-beta-feature
 
 
-5. Facial Recognition incorrectly jailed a person and he talks about his experiences of the ordeal?
-
-Wrongfully Accused by an Algorithm. In what may be the first known case of its kind, a faulty facial recognition match led to a Michigan man’s arrest for a crime he did not commit. This is a follow-up to last week update where major tech companies are permanently or temporarily stopping providing facial recognition software to the police due to the recent backlash.  
+5. Wrongfully Accused by an Algorithm. In what may be the first known case of its kind, a faulty facial recognition match led to a Michigan man’s arrest for a crime he did not commit. This is a follow-up to last week update where major tech companies announced that they are permanently or temporarily stopping the supply of facial recognition software to the police due to the recent backlash over Black Lives Matter.  
 
 https://www.nytimes.com/2020/06/24/technology/facial-recognition-arrest.html
 
 
 
-8. Apple iOS opens the platform to allow users to set default apps for mail and browser.  
+6. Apple iOS opens the platform to allow users to set default apps for mail and browser.  
 
-The new version of iOS is slightly opening up and will allow a user to set default apps for mail and browser. I have mocked Apple and iOS for being super restrictive and Android giving users a lot of power to decide. But of late really warmed me up to Apple's insistence of keeping lids tight to protect users. And why not every other browser will be allowed to be set up as default option and there will be scrutiny to ensure random apps claiming to be browser are not stealing user data. Very interesting take and perspective on user privacy. 
-
-But requesting for Apple's web rendering engine to be used in the browser is an unnecessary constraint? 
+The new version of iOS is slightly opening up and will allow a user to set default apps for mail and browser. I have mocked Apple and iOS for being super restrictive and Android giving users a lot of power to decide. But of late really warmed me up to Apple's insistence of keeping lids tight to protect users. The stance on why not every other browser will be allowed to be set up as default option and that there will be scrutiny to ensure random apps claiming to be browser are not stealing user data. Very interesting take and perspective on user privacy. But insistence for using Safari's web rendering engine to be used in the browser is an unnecessary constraint? 
 
 https://www.theverge.com/2020/6/22/21299342/apple-ipados14-default-apps-email-browser-choice-features-wwdc-2020
 
-9. Update on the tussle between BaseCamp's Hey email app and App-Store guidelines. Apple sort-of caved in for sure, but the fight is not over.
+7. Update on the tussle between BaseCamp's Hey email app and App-Store guidelines. Apple sort-of caved in for sure, but the fight is not over.
 
 And this the update from Hey's co-founder and CEO https://hey.com/apple/path/ 
 
 https://www.theverge.com/2020/6/22/21298552/apple-hey-email-app-approval-rules-basecamp-launch
 
-10. One of India's biggest FMGC company has removed the word 'Fair' from its best selling product 'Fair and Lovely', a fairness cream for women. But honestly, is this enough? But then stopping beauty products may become a pretty difficult business decision. So small baby steps, I would assume? 
+8. One of India's biggest FMGC company has removed the word 'Fair' from its best selling product 'Fair and Lovely', a fairness cream primarily targetted for women. But honestly, is this enough? But then stopping beauty line of products may become a pretty difficult business decision. So small baby steps, I would assume? 
  
 
 https://indianexpress.com/article/explained/fair-and-lovely-rebranding-hindustan-lever-racism-protests-6476480/
