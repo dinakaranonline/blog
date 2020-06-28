@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-2.jpg
 ---
 Weekly Round-up of interesting articles that I read in the web in the last one week. 
 
