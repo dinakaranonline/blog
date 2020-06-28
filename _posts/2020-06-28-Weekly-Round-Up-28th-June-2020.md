@@ -8,19 +8,19 @@ Weekly Round-up of interesting articles that I read in the web in the last one w
 
 ### 1.Google squandering its 10-year lead?
 
-Google squandering its 10-year lead? Full-fledged Chrome OS should have been a no-brainer had Sundar Pichai was not elevated to C-suite? Desktop OS choices between Windows 10 with low cost - poor performance n Mac OS with high-cost n good performance could have had 3rd alternative. Google struggling even after innovating with Chromecast. Amazon started late but nailed execution with Fire TV Stick, content ecosystem bundling it with Prime. PlayStore Music, Movies, Chromecast Audio, Youtube Music/Red and Youtube Original content. Strategy all over the place. It feels like, my personal perception, Google is doing most of the content, devices, messaging, cloud parts of it without a clear strategy, half-heartedly and is all over the place. Did something shift fundamentally within the company in a discrete, opaque way?
+Full-fledged Chrome OS should have been a no-brainer had Sundar Pichai was not elevated to C-suite? Desktop OS choices between Windows 10 with low cost - poor performance and Mac OS with high-cost and good performance, Chrome OS could have been easily a better 3rd alternative. Google struggling even after innovating with Chromecast. Amazon started late but nailed execution with Fire TV Stick, content ecosystem bundling it with Prime. PlayStore Music, Movies, Chromecast Audio, Youtube Music/Red and Youtube Original content. Strategy all over the place. It feels like, Google is doing most of the content, devices, messaging, cloud parts of it without a clear strategy, half-heartedly and is all over the place. Did something shift fundamentally within the company in a discrete, opaque way?
 
    [https://secondbreakfast.co/google-blew-a-ten-year-lead](https://secondbreakfast.co/google-blew-a-ten-year-lead)
 
 ### 2. Podcast with Ben Thompson on Platforms , Aggregrators and Smiling Curve
 
-Ben Thompson is one of the best business analyst and kick-started independent newsletter subscription model in this podcast talks about the platform, aggregators on Platforms, Ecosystems, and Aggregators. Engrossing conversation and interesting observations by him on FAANG especially on Netflix, Uber, Amazon, Shopify and other tech companies. Can Spotify by getting Joe Rogan podcast to be a Spotify Exclusive crack Podcasting and then monetizing ads through its platform? It was an interesting proposition. And his Smiling Curve hypothesis is well thought in my opinion!
+Ben Thompson is one of the best business analyst and kick-started independent newsletter subscription model, in this podcast talks about the Platforms, Ecosystems, and Aggregators. Engrossing conversation and interesting observations by him on FAANG companies especially on Netflix, Uber, Amazon, Shopify etc . Can Spotify by getting Joe Rogan podcast to be a Spotify Exclusive crack Podcasting and then monetizing ads through its platform? It was an interesting proposition. And his Smiling Curve hypothesis is well thought in my opinion!
 
    [http://investorfieldguide.com/thompson/](http://investorfieldguide.com/thompson/)
 
 ### 3. Facebook getting squeezed from multiple fronts? This time 'Stop Hate for Profit' campaign
 
-Organization exerting pressure on Facebook with the boycott of buying advts on Facebook, including Verizon and Coco-Cola. U.S. civil rights groups are urging brands to support the Stop Hate for Profit campaign, which protests the world’s biggest social network’s lax approach to hate speech, harassment and misinformation.  And Facebook shares tanking down by 8% and Zuckerberg seems to be caving down and the only way to regin over Facebook is to hit them financially. Nothing else stops them I guess.  
+Organizations exerting pressure on Facebook with the boycott of buying advts on Facebook, including Verizon and Coco-Cola. U.S. civil rights groups are urging brands to support the Stop Hate for Profit campaign, which protests the world’s biggest social network’s lax approach to hate speech, harassment and misinformation.  And Facebook shares tanking down by 8% and Zuckerberg seems to be caving down and the only way to regin over Facebook is to hit them financially. Nothing else stops them I guess.  
 
   [https://www.cnbc.com/2020/06/27/the-facebook-ad-boycotts-have-entered-the-big-leagues-now-what.html](https://www.cnbc.com/2020/06/27/the-facebook-ad-boycotts-have-entered-the-big-leagues-now-what.html)
 
@@ -48,7 +48,7 @@ The new version of iOS is slightly opening up and will allow a user to set defau
 
 ### 7. BaseCamp's Hey email app and Apple calling it a truce ?
 
-Update on the tussle between BaseCamp's Hey email app and App-Store guidelines. Apple sort-of caved in for sure, but the fight is not over.
+Update on the tussle between BaseCamp's Hey email app and App-Store guidelines. Apple sort-of caved in for sure, but the fight may not be over yet.
 
 And this the update from Hey's co-founder and CEO [https://hey.com/apple/path/](https://hey.com/apple/path/) 
 
