@@ -11,7 +11,7 @@ What I realized is that, even though there was interesting content on the web, s
 
 Over the last one year, I kind of getting a hang on finding and refining on a reading routine. There are 2 parts to it. Finding interesting content on a regular basis without too much effort and other is to build a reading routine.
 
-## My Sources of Content Discovery
+## Finding Interesting Content to Read
 
 ### 1. Twitter
 
