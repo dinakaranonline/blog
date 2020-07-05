@@ -4,6 +4,7 @@ title: Missing empathy while designing apps feat GooglePay
 author: dinakaran
 image: assets/images/og_image.jpg
 published: true
+categories: [ General, Technology ]
 ---
 Empathy in Design Thinking is one of the most important considerations while designing anything, especially building mobile apps.Empathy helps to understand the user's pain points and how they can be addressed in the best possible ways. It is putting ourselves in the shoes of the customers and help to provide User Experience that is refined, elegant and magical.
 
