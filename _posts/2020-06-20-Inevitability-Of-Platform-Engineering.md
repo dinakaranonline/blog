@@ -4,6 +4,7 @@ layout: post
 author: dinakaran
 featured: false
 image: assets/images/platforms.jpg
+categories: [ Programming ]
 ---
 
 With the advent of Cloud Computing and Microservices, it solved a lot of challenges that are usually associated with the on-prem setup and monolith applications. And the whole industry tried to leverage the benefits provided by Cloud and Microservices and CI-CD DevOps automation movement. While this has generally been good, it came with its own set of challenges, in terms of too much plumbing that each team needs to take it upon themselves.
