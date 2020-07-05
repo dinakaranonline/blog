@@ -3,6 +3,7 @@ published: true
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-2.jpg
+categories: [ Technology ]
 ---
 
 Interesting reads for this week. 
