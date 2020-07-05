@@ -44,7 +44,7 @@ Netflix re-inventing the film production process end to end with software tools 
 
 [https://netflixtechblog.com/netflix-studio-engineering-overview-ed60afcfa0ce](https://netflixtechblog.com/netflix-studio-engineering-overview-ed60afcfa0ce)
 
-6. Neo Banking at this point of time seems to be shiny UX on top of Banking apps 
+### 6. Neo Banking at this point of time seems to be shiny UX on top of Banking apps 
 
 Neo banking would seem like the perfect platform to take advantage of the advancements in our banking infrastructure. However, from, what we have seen so far it appears that Neo banks are nothing but superior UX layers that sit on top of incumbent banks
 
