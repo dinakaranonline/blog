@@ -4,6 +4,7 @@ layout: post
 author: dinakaran
 featured: false
 image: assets/images/Blinkist.png
+categories: [ General ]
 ---
 
 Have you ever felt that reading books is generally a good habit and you wanting to pursue,  but trying to read books or persisting with reading books regularly is tough? With fiction books, reading feels therapeutic because of the world upon which the story revolves around making the reading super interesting and fun. But with non-fiction books where the reading is aimed at getting something out of the book, it becomes challenging.
