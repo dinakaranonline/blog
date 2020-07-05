@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/reading.jpg
+image: assets/images/weekly-roundup-5.png
 ---
 Interesting reads for the week
 
@@ -50,7 +50,4 @@ Neo banking would seem like the perfect platform to take advantage of the advanc
 
 [https://lightbox.vc/new-thinking/neo-banking](https://lightbox.vc/new-thinking/neo-banking)
 
-That's all for this week. 
-
-
-
+That's all for this week.
