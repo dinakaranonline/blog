@@ -30,7 +30,7 @@ As my Gmail was messed up with too much spam and transactional content, all thes
 
 ### 3. Podcasts
 
- I have been ON and OFF with the podcasting world in the last 5- 10 years, first with Anchor FM, then with The American Life show. I did not find it very compelling before. But now listening to the podcast for last one+ year. Of all the content consumption habits, listening to the podcast is one habit that I never miss out, thanks to other morning routines of Daily Walking. There is nothing you can do while walking and the combination of podcasts makes the habit of walking less strenuous. There are so many interesting tech and other interesting podcasts that I listen to daily. I primarily use Google Podcasts app for this purpose, even though the app is not that great. It has been better in the last few months, but still the experience can be so much better.  
+ I have been ON and OFF with the podcasting world in the last 5- 10 years, first with Anchor FM, then with The American Life show. I did not find it very compelling before. But now listening to the podcast for last one+ year. Of all the content consumption habits, listening to the podcast is one habit that I never miss out, thanks to other morning routine of Daily Walking. There is nothing you can do while walking and the combination of podcasts makes the habit of walking less strenuous. There are so many interesting tech and other interesting podcasts that I listen to daily. I primarily use Google Podcasts app for this purpose, even though the app is not that great. It has been better in the last few months, but still the experience can be so much better.  
 
 ### 4. Youtube
 
