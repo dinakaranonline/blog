@@ -54,7 +54,7 @@ Also, the daily or weekly recommendation in Blinkist helps to find new interesti
 I use Notion and created a few lists for bookmarking. I use these lists to tag any content that I read already, but need to bookmark for later reference. Some times, I add an article under certain lists for reading it later. I have installed the Notion plugin in the browser and a single click to tag the article under certain lists is immensely useful.
 
 
-### Building a Daily Routine to Read
+##  Building a Daily Routine to Read
 
 Having a daily routine is a very critical aspect of the reading. Even though I have a pre-defined routine of reading every day in the morning and evening, many times I miss this due to other priorities or slacking off the habit. One thing I do is to use the weekend to catch up on reading. As I have combined my habit of listening to a podcast during my working walking routine and since I rarely miss my walking routine, the podcast habit kind of become an everyday affair.
 
