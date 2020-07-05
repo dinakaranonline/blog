@@ -19,7 +19,7 @@ Twitter is my only and ideal gateway to reading anything and everything. It is a
 
 ### 2. Newsletters
 
-These days I subscribe to a lot of newsletters that get delivered to me daily. With Twitter, I follow way too many people that some times it becomes overwhelming. I started with signing up for Medium and followed a dozen of interesting topics in the site. Medium then delivers personalized curated content based on my interest areas and this is mostly spot-on. I get a daily auto-generated newsletter delivered to me at 8 am and I always find one or two interesting articles. But Medium subscription is too costly for my budget and hence I read till the free limit and then use InCognito to keep reading other articles :) I wish for the subscription cost to be slightly lower for India users atleast ;-) 
+These days I subscribe to a lot of newsletters that get delivered to me daily. With Twitter, I follow way too many people that some times it becomes overwhelming. I started with signing up for Medium and followed a dozen of interesting topics in the site. Medium then delivers personalized curated content based on my interest areas and this is mostly spot-on. I get a daily auto-generated newsletter delivered to me at 8 am and I always find one or two interesting articles. But Medium subscription is too costly for my budget and hence I read till the free limit and then use InCognito to keep reading other articles :) I wish for the subscription cost to be slightly lower for India users atleast.
 
 These days, I have also subscribed to a lot of independent newsletters by developers and publications, substack ( relatively new ) that deliver content to my mailbox on a daily / weekly basis.
 
