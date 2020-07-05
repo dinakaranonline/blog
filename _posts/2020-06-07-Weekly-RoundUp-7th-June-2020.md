@@ -3,6 +3,7 @@ published: true
 layout: post
 author: dinakaran
 image: assets/images/weeklyroundup-1.png
+categories: [ General, Technology, Programming ]
 ---
 Interesting reads for the week of 7th June 2020
 
