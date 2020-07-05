@@ -60,7 +60,7 @@ Having a daily routine is a very critical aspect of reading. Even though I have 
 
 And since I have to start walking, I wake up one hour before to get ready. I have made it a habit not to pick the smartphone the first thing in the morning and this saves a lot of time.   Between the time I wake up, have tea and prepare for walking, I have 20 to 40 minutes in which I open the subscribed newsletters for the day in my mailbox and start reading. Unless I wake up late, this habit is a knock-off effect from the morning walking routine. One habit and routine feeding to few more is a good thing.  But I also have a routine planned between 7 to 8 pm, but I hardly manage to follow because of work or something else coming up down the day. So having minimal distractions, the same kind of setting, environment, routine and timing helps to build the habit of reading.  
 
-### Motivation that helps me keep going ? 
+## Habits feeding each other
 
 Without much thought, I started with the habit of Weekly Round-Up blog post where I do a small write up of interesting articles that I have come across and read in the week.  Little did I know that this new little habit would force me to read more. I did regular posts for two weeks and by the end of 3 rd week, I found very few articles to share, essentially meaning that I have been slacking on my reading for some reason. So every day reading or the lack of it will mean a challenge to my Weekly Round-Up blogging habit. Every habit feeds in to others. So what started as a Weekly Round-Up blogging activity is now motivating me to read more so that I have some content to blog.  
 
