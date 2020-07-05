@@ -4,6 +4,7 @@ title: Microservices Getting Started
 author: dinakaran
 image: assets/images/microservices.jpeg
 published: true
+categories: [ Programming ]
 ---
 Microservices is all the rage in the last few years. And there are some hot discussions on Microservices vs Monolith. One of the biggest challenges with microservices is with regard to when, what and how. It is very easy to get carried away by the hype and start trying to implement everything with microservices. So careful consideration is required on when to go for microservices.
 ![]({{site.baseurl}}/https://miro.medium.com/max/1400/1*1hBwhZ--xEVY35z5owT1Qw.jpeg)
