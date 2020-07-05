@@ -23,7 +23,7 @@ These days I subscribe to a lot of newsletters that get delivered to me daily. W
 
 These days, I have also subscribed to a lot of independent newsletters by developers and publications, substack ( relatively new ) that deliver content to my mailbox on a daily / weekly basis.
 
-I also subscribed to Hacker News Newsletter that gets delivered along with Pocket that provides a list of trending articles for the day/ week. Interesting ways to consume content.
+I also subscribed to Hacker News Newsletter and Pocket that provides a list of trending articles for the day/ week delivered to mailbox. Interesting ways to consume content.
 
 As my Gmail was messed up with too much spam and transactional content, all these newsletters get buried deep within the mailbox. So I use a different email to subscribe to the newsletter. It helps to easily get with reading from the UnRead folder that has always 5-6 unread mails and it is easier to read them and bring it to zero. I un-subscribed from Gmail and slowly moved to a different email id for this purpose. 
 
