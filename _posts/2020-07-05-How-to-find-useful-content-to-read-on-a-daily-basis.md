@@ -9,7 +9,9 @@ On the internet, I always had this struggle to find and read content daily. Read
 
 What I realized is that, even though there was interesting content on the web, somehow I always had a challenge with consuming content on a daily basis. Either there is so much content that I skip reading them or I have a lot of time, but nothing interesting to read. 
 
-Over the last one year , I kind of finding and refining on a reading routine and this is how it looks.
+Over the last one year, I kind of getting a hang on finding and refining on a reading routine. There are 2 parts to it. Finding interesting content on a regular basis without too much effort and other is to build a reading routine.
+
+## My Sources of Content Discovery
 
 ### 1. Twitter
 
