@@ -5,7 +5,7 @@ author: dinakaran
 image: assets/images/reading.jpg
 ---
 
-On the internet, I always had this struggle to find and read content daily. Read meaning not reading a book, but interesting content in the form of news articles, blogs, podcast or video content etc. Over the last decade, I tried a lot of different options but nothing seemed to work, partly because I did not have a lot of motivation to read, but the 'find interesting content and form reading routine' workflow too was not ideal. I come across different interesting articles in the timeline. I bookmark or like them but then forget about it. Other times, I use Google Keep to bookmark and read later. But then, I forget about it totally.
+On the internet, I always had this struggle to find and read content daily. Read meaning not reading a book, but interesting content in the form of news articles, blogs, podcast or video content etc. Over the last decade, I tried a lot of different options but nothing seemed to work, partly because I did not have a lot of motivation to read, but the 'find interesting content and form reading routine' workflow too was not ideal. I come across  interesting articles in the timeline of various social media. I bookmark or like them but then forget about it. Other times, I use Google Keep to bookmark and read later. But then, I forget about it totally.
 
 What I realized is that, even though there was interesting content on the web, somehow I always had a challenge with consuming content on a daily basis. Either there is so much content that I skip reading them or I have a lot of time, but nothing interesting to read. 
 
