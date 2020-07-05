@@ -7,6 +7,7 @@ author: dinakaran
 featured: true
 image: assets/images/privacy.jpg
 published: true
+categories: [ General, Technology ]
 ---
 Ever since the dawn of social media, we have seen quite a few protests over how social media tech companies moderate content. Initially, it started with moderation policies and all of us were super critical about any kind of moderation. 
 
