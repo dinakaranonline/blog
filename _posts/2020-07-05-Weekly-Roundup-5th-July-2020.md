@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/reading.jpg
 ---
 Interesting reads for the week
 
