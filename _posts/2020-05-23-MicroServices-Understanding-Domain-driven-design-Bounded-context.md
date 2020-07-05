@@ -3,6 +3,7 @@ published: true
 layout: post
 author: dinakaran
 image: assets/images/ddd.gif
+categories: [ Programming ]
 ---
 
 Domain Driven Design is the foundational pillar for any of the micro-services implementation. It helps to broadly classify the microservices. So think microservices, think domain driven design. Both gel well with each other. 
