@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-5.png
+categories: [ General, Technology, Programming ]
 ---
 
 Interesting news articles that I read in the past week.
