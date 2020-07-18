@@ -15,7 +15,7 @@ This cannot be stressed enough. Finding amazing boss or leaders to work leapfrog
 
 ### 2. You are responsible for your life, do not claim victimhood
 
-Irrespective of whatever happens to you at work, learn to manage the situation. It is always difficult, but navigating the choppy waters of the professional work environment is part of the necessary growing up. You may end up in a hostile environment, un-supportive workers or a bad boss. But do not claim victimhood. Finding a way out or turning around the situation is part of the unwritten job description. Nothing can come in our way of moving ahead if we are determined. 
+Irrespective of whatever happens to you at work, learn to manage the situation. It is always difficult, but navigating the choppy waters of the professional work environment is part of the necessary growing up. You may end up in a hostile environment, un-supportive workers or a bad boss. But do not claim victimhood. Finding a way out or turning around the situation is part of the unwritten job description. Nothing can come in your way of moving ahead if we are determined. 
 
 Luck favours the prepared and determined mind.  Put in 100% genuine efforts thereby chances of lucking out on something is more. Make serendipity happen. Luck or Being at the right place at the right time cannot alone is not enough most of the time. 
 
