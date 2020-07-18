@@ -29,7 +29,7 @@ But stay out of hype of Resume Driven Development. Stop chasing fancier stuff. B
 
 Whether you love your job or company or the great environment, from time to time it is important to keep a tab on the job market to measure worthiness. Forget the money part for a moment. If you can find another job easily, then you are on the right track. But if you are struggling to get a job or even a job interview, it is time to take notice of the situation and introspect. If the job market is not valuing your skills, at some point in time, the company where you work too may end up feeling the same. 
 
-Every time you feel comfortable with work and you seem to make no mistakes, it essentially means the work is not challenging and offer no space to grow. Never get comfortable and get into complacency. Throw yourself into uncomfortable zones and develop the skill of coming out unscathed.
+Every time you feel comfortable with work and you seem to make no mistakes, it essentially means the work is not challenging and offer no space to grow. Never get comfortable and dread into the rabbit hole of complacency. Throw yourself into uncomfortable zones and develop the skill of coming out unscathed.
 
 
 ### 5. Walk to the other side to know more
