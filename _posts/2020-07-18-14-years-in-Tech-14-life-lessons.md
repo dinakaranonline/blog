@@ -25,14 +25,14 @@ There is always this notion of everyone around me being so smart and talented. D
 
 But stay out of hype of Resume Driven Development. Stop chasing fancier stuff. Build one skill really well, gain absolute mastery.  It is fine to be Jack of all trades, but Master Of One is mandatory. And then hope that one skill never goes out of fashion or till the time you pick something else. 
  
-### 4. Keep checking yourself on the job market. Follow the money gravy train.
+### 4. Keep checking yourself on the job market. Follow the money gravy train
 
 Whether you love your job or company or the great environment, from time to time it is important to keep a tab on the job market to measure worthiness. Forget the money part for a moment. If you can find another job easily, then you are on the right track. But if you are struggling to get a job or even a job interview, it is time to take notice of the situation and introspect. If the job market is not valuing your skills, at some point in time, the company where you work too may end up feeling the same. 
 
 Every time you feel comfortable with work and you seem to make no mistakes, it essentially means the work is too little to chew and no space to grow. Never get comfortable and get into complacency. Throw yourself into uncomfortable zones and develop the skill of coming out unscathed.
 
 
-### 5. Walk to the other side to know more.
+### 5. Walk to the other side to know more
 
 One common issue with working in tech is boxing yourself to specialization and not trying to learn anything more, even with the same team or company. Getting to know the in and out of work stuff that is happening around us feels like a chore, but many times it helps to do the work better because of the unique perspective that you may end up having. And this can surprisingly help your career. You can only connect the dots backwards. 
 
@@ -50,7 +50,7 @@ Embrace imperfection, live with it.
 
 Do not skip the me-me or family time at any cost. Priotize health and family to a higher level. Any single day of missing a walk or planned health routine must be equated to taking a day-off at work for no reason. Time to put the already-learnt but never-followed wisdom into action.
 
-### 8. Build a morning routine. 
+### 8. Build a morning routine
 
 I cannot stress this enough. Having a routine in life can help to streamline the daily grind better. Building a morning and learning routine, diligently following it can do wonders to your life at many levels. Practising gratitude and journaling can help. Small atomic improvements over a sustained period of time would lead to terrific results in the long term. Atomic Habits by James Clear helped me get some really interesting perspective on this. 
 
