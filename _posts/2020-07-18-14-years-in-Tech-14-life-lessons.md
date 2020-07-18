@@ -78,7 +78,7 @@ Digital Minimalism by Cal Newport has so much of wisdom in it.
 
 Do not fight for appraisal, performance rating and promotion. It does not matter in the long run. Have regular connect with the boss. Doing work is important, but making your boss realize you are doing good work is equally important. A little bit of marketing, self-promotion is needed. 
 
-Learning to go or workaround gatekeepers. Crash them from time to time if required. It feels awkward, but there is no other option at times. 
+Learn to go around or work-around gatekeepers. Crash them from time to time if required. It may feel awkward, but there is no other option at times. 
 
 Titles are not important in some sense, but titles are at times essential to have a seat in the right meeting room to make the right kind of conversations.  It is quite contrary to the first statement, but there is no one universal truth either. Everything changes based on the context. 
 
