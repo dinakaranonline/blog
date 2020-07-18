@@ -21,7 +21,7 @@ Luck favours the prepared and determined mind.  Put in 100% genuine efforts ther
 
 ### 3. Overcome impostor syndrome 
 
-There is always this notion of everyone around me being so smart and talented. Despite putting our best effort , one cannot avoid feeling like shit every now and then. One way to overcome is to document the progress from time to time, journaling helps to a great extent. Focus on the fears and make attempts to address one step at a time. Learn, unlearn and relearn, rinse and repeat.
+There is always this notion of everyone around me being so smart and talented. Despite putting our best effort , one cannot avoid feeling like shit every now and then. One way to overcome is to calibrate focus and document the progress from time to time, journaling helps to a great extent. Focus on the fears and make honest and geniune attempts to address one step at a time. Learn, unlearn and relearn, rinse and repeat.
 
 But stay out of hype of Resume Driven Development. Stop chasing fancier stuff. Build one skill really well, gain absolute mastery.  It is fine to be Jack of all trades, but Master Of One is mandatory. And then hope that one skill never goes out of fashion or till the time you pick something else. 
  
