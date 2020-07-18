@@ -1,6 +1,12 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-6.png
+categories:
+  - General
 ---
+
 This 17th of July, I completed 14 years in the Tech Industry. It has been a whirlwind ride. What is life when one cannot take the time to reflect? I wish someone told me this when I started my career.
 
 ### 1. Find / Follow a great boss, instead of a company. 
