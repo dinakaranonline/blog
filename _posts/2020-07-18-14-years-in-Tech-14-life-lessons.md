@@ -34,7 +34,7 @@ Every time you feel comfortable with work and you seem to make no mistakes, it e
 
 ### 5. Walk to the other side to know more
 
-One common issue with working in tech is boxing yourself to specialization and not trying to learn anything more, even with the same team or company. Getting to know the in and out of work stuff that is happening around us feels like a chore, but many times it helps to do the work better because of the unique perspective that you may end up having. And this can surprisingly help your career. You can only connect the dots backwards. 
+One common issue with working in tech is boxing yourself to specialization and not trying to learn anything extra on what is happening around, even within the same team or company. Getting to know the in and out of work stuff that is happening around us feels like a chore, but many times it helps to do the work better because of the unique perspective that you may end up having. And this can surprisingly help your career. You can only connect the dots backwards. 
 
 ### 6. Learn to live comfortably with regrets and failures
 
