@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weekly-roundup-6.png
+image: assets/images/keepcalm.png
 categories:
   - General
 ---
