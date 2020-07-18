@@ -76,7 +76,7 @@ Digital Minimalism by Cal Newport has so much of wisdom in it.
 
 ### 13. On dealing with boss and appraisal 
 
-Do not fight for appraisal, good performance rating and promotion. It does not matter in the long run. Have regular connect with the boss. Doing work is important, but making your boss realize you are doing good work is equally important. A little bit of marketing, self-promotion is needed. 
+Do not fight for appraisal, performance rating and promotion. It does not matter in the long run. Have regular connect with the boss. Doing work is important, but making your boss realize you are doing good work is equally important. A little bit of marketing, self-promotion is needed. 
 
 Learning to go or workaround gatekeepers. Crash them from time to time if required. It feels awkward, but there is no other option at times. 
 
