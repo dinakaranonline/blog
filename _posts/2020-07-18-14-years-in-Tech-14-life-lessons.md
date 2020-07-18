@@ -9,7 +9,7 @@ categories:
 
 This 17th of July, I completed 14 years in the Tech Industry. It has been a whirlwind ride. What is life when one cannot take the time to reflect? I wish someone told me this when I started my career.
 
-### 1. Find / Follow a great boss, instead of a company. 
+### 1. Find / Follow a great boss, instead of a company
 
 This cannot be stressed enough. Finding amazing boss or leaders to work leapfrogs your career by a few years easily. Their culture, ethic and energy can be infectious. In my  14 years of experience, I had one or two people who have shown me what it means to lead. There is a sense of aura when they are around. They shown immense trust, respect and mentor you in remarkable ways and make you realize all the hidden potential. They make you in believe in yourself and get the work done magically. Between working in great companies vs a good boss, always choose the latter. 
 
