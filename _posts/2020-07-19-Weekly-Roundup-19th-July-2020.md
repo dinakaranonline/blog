@@ -29,7 +29,7 @@ But a good 4.5 billion $ goes to investment on Jio's platform.
 
 [https://blog.google/around-the-globe/google-asia/bringing-internet-access-millions-more-indians-jio](https://blog.google/around-the-globe/google-asia/bringing-internet-access-millions-more-indians-jio)
 
-When a big company that has to answer investors every quarter wants to invest for the benefit of poor, it is a given there is more to it. First with Facebook and now Google , it is becoming fairly obvious that this investment is for more for getting access to the Indian market and the gatekeepers being Ambani and Jio. This is nothing but a high way toll to do business in India. And in the process both Amazon and Walmart - Flipkart has every reason to be worried. 
+When a big company that has to answer investors every quarter wants to invest for the benefit of poor, it is a given there is more to it. First with Facebook and now Google , it is becoming fairly obvious that this investment for getting access to the Indian market and easy regulation and the gatekeepers being Ambani and Jio. This is nothing but a high way toll to do business in India. And in the process both Amazon and Walmart - Flipkart has every reason to be worried. 
 
 [https://scroll.in/article/967618/explainer-why-google-and-facebook-are-investing-in-mukesh-ambanis-reliance-jio](https://scroll.in/article/967618/explainer-why-google-and-facebook-are-investing-in-mukesh-ambanis-reliance-jio)
 
