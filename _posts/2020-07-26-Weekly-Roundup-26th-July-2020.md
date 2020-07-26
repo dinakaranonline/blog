@@ -1,6 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup.jpg
+categories:
+  - Programming
+  - Technology
 ---
+
 Interesting reads for the last one week.
 
 ### 1. Nandan launches Open Credit Protocol Network
