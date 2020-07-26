@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weekly-roundup.jpg
+image: assets/images/weekly-roundup-4.jpg
 categories:
   - Programming
   - Technology
