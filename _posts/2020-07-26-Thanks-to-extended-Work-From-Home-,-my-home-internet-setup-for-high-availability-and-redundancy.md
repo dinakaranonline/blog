@@ -54,7 +54,7 @@ My home has a back-up power but it is not instantaneous. It takes anywhere betwe
 
 ## Other random musings of Work From Home
 
-It has been almost 5+ months of Work From Home and life has never been the same. From the common joke about **Work From Home** is essentially **Work For Home** before Corona, things have never been the same. There is work,more work and then some more work. Some random musings on the Work From Home aspects
+It has been almost 5+ months of Work From Home and life has never been the same. From the common joke about **Work From Home** is essentially **Work For Home** before Corona, things have never been the same. There is work, more work and then some more work. Some random musings on the Work From Home aspects
 
 **Switching from earphones to blue tooth speakers**
 
