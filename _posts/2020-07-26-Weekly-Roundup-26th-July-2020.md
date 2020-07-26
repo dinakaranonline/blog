@@ -8,7 +8,7 @@ categories:
   - Technology
 ---
 
-Interesting reads for the last one week.
+Interesting reads for the last week.
 
 ### 1. Nandan launches Open Credit Protocol Network
 
@@ -64,4 +64,4 @@ First with Twilio, now with Stripe, developers are increasingly the prime driver
 
 [https://subvert.substack.com/p/stripe-building-a-developer-cult](https://subvert.substack.com/p/stripe-building-a-developer-cult)
 
-And that's all for this week. 
+And that's all for this week.
