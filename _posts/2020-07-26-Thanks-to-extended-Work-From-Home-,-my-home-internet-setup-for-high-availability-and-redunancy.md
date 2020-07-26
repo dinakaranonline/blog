@@ -36,7 +36,7 @@ The router that I had bought some 8 years ago did not support the dual-band and 
 
 When I used to connect to my home wifi, the near-by wifi-networks would have something like 'WifiName_5G'. I always wondered what it was and was thinking it may be a 5G compatible device. But it looks like it represents the dual-band setup.
 
-**2.4 GHz** : Good coverage and can travel through walls etc but speed is just about okay
+**2.4 GHz** : Good coverage and can travel through walls etc but speed is just about okay <br>
 
 **5 GHz** : Coverage is less and cannot travel through walls etc but speed is really good
 
