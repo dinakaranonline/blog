@@ -26,7 +26,7 @@ I'm planning to keep BSNL for next few months and then surrender it later when I
 1. Neigbhour's Broadband - Backup 4
 
 
-## Tips for better internet connectivity at home.
+**Tips for better internet connectivity at home.**
 
 ### 1. Check if your router has compatibility for dual-band or triple-band 
 
