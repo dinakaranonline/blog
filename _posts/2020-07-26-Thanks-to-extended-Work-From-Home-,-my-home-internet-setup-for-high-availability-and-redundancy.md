@@ -56,15 +56,15 @@ My home has a back-up power but it is not instantaneous. It takes anywhere betwe
 
 It has been almost 5+ months of Work From Home and life has never been the same. From the common joke about **Work From Home** is essentially **Work For Home** before Corona, things have never been the same. There is work,more work and then some more work. Some random musings on the Work From Home aspects
 
-### Switching from earphones to blue tooth speakers
+**Switching from earphones to blue tooth speakers**
 
 My ears were constantly hurting due to prolonged office calls with earphones. So I have invested in a blue tooth speaker. There are a few days where the office calls last anywhere between 4 - 6 hours. And in some instances when doing pair programming with the team for diagnosing issues, I need to be in calls for hours. And earphone was hurting my ears big time. So I have invested in a small blue tooth speaker and connect my calls both from laptop or mobile to the blue tooth speaker. Though the setup is not ideal and my voice may not be that audible, I prefer this these days especially for those calls where am just listening most of the times and not speaking that much.  
 
-### Microsoft Teams killing the collaboration space with amazing integration with Microsoft ecosystem.
+**Microsoft Teams killing the collaboration space with amazing integration with Microsoft ecosystem**
 
 My company has switched to Teams from Skype for Business and the experience has been amazing. The integration of MS ecosystem of products like Outlook+ One Drive + Sharepoint makes collaboration across large enterprises such an amazing experience. And the option to call people directly within Teams is such a blessing. Previously when we used to chat in Skype, to call them we either need to ask their mobile or desk number or lookup in the Outlook or office directory for their contact details. And using desktop means the experience is mostly miserable. But now with Teams , it is just one click away. And a group chat can be made as a conference call again with a single click. It looks like Teams is killing many different types of products like Zoom, Slack in a single stone. No wonder Slack which has been telling everyone that Teams is not a competitor is now filing a lawsuit against Teams.  
 
-### Should companies reimburse for home office setup?
+**Should companies reimburse for home office setup?**
 
 Right now most companies only reimburse for broadband connectivity. But I think this needs to change. I have invested around 13K for a comfortable chair and table setup because it was way too difficult to work in a temporary make-shift arrangement for long that resulted in body pain around the neck and shoulder areas for days at a stretch. The UPS cost another 5K and the Bluetooth speaker set me back by another 2K. So essentially I'm looking at 20K+ of investment done for 'Work from Home' setup. 
 
