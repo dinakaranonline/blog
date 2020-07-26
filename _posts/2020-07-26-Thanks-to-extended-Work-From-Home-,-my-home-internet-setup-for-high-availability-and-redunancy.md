@@ -19,8 +19,6 @@ And the present situation of Work From Home, Learn From Home has made broadband 
 
 I'm planning to keep BSNL for next few months and then surrender it later when I start going back to the office. So right now my home internet has high availability and setup for redundancy and fail over. So this is how it looks like.
 
-**My Home Internet is now setup for high availability, fail over and redundancy**
-
 1. Airtel Broadband - Primary 
 1. BSNL Broadband - Backup 1 
 1. Vodafone Data Card Wireless - Backup 2
