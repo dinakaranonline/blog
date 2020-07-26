@@ -9,7 +9,7 @@ categories:
 ---
 Thanks to extended work from home inflicted by Corona,  my home internet has high availability and set up for redundancy, similar to Cloud Providers who have multiple availability zones. 
 
-### My 5 year tryst with BSNL Fibre broadband
+### My 6 year tryst with BSNL Fibre broadband
 
 Even since the work from home started since March, the internet has become a hugely scarce commodity. When I moved to my current home 5 years back, the only option was  BSNL. BSNL broadband had fibre option along with decent speed and service was mostly available. But the customer service was non-existent. Imagine the scenario a few years back where I had to visit their office that is around 10 km away to request for a change in plan with a requisition letter.  They are stuck in the stone age. Having said that, the speed was fine, my requirement was just around 20 MBPS and the streaming on 40-inch tv seemed fine without any issues. It is only during the times of disruption, things go haywire. There is no clear SLA and response would be pathetic. But since the home internet was just for leisure activities, I managed to live with this setup. Also, our neighbours have graciously shared their internet and I use it responsibly for basic internet stuff and avoid streaming etc. Also, I never wanted the internet to become so important in my life. If it is not available, that's fine is what I always had in my mind. I have lived for over a week without broadband and managed with Tata Sky and mobile internet. 
 
@@ -69,9 +69,4 @@ Right now most companies only reimburse for broadband connectivity. But I think 
 
 So I for one think that companies must provide a one-time allowance to employees with no-strings-attached to invest in stuff that can make work from home less painful. And yeah, dear organizations , do not ask for bills, proof to be submitted :P 
 
-Personally, this home office setup is something that I always had in mind in the last few years for doing side-projects over the weekends and hence I took the plunge after trying to avoid it for 4 months. With the work from home resulting in the savings of office commute in the last 5+ months, it should in some way pay for itself because I may most probably not be going to the office for the rest of the year too. Also am not talking about the sky-rocketing electricity bills due to continuous use of AC's at home. But then am super glad that I do have a job and my company pays me salary on the last working day of the month. Touch Wood. Honestly speaking, how many are that lucky ?  
-
-
-
-
-  
+Personally, this home office setup is something that I always had in mind in the last few years for doing side-projects over the weekends and hence I took the plunge after trying to avoid it for 4 months. With the work from home resulting in the savings of office commute in the last 5+ months, it should in some way pay for itself because I may most probably not be going to the office for the rest of the year too. Also am not talking about the sky-rocketing electricity bills due to continuous use of AC's at home. But then am super glad that I do have a job and my company pays me salary on the last working day of the month. Touch Wood. Honestly speaking, how many are that lucky ?
