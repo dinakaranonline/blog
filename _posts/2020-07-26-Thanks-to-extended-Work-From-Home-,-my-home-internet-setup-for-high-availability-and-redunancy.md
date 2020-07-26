@@ -44,7 +44,7 @@ One of the best practices suggested for getting better connectivity is to use 5 
 
 ### 3. Device compatibility 
 
-Another thing to factor is device compatibility. Some devices support high-speed broadband while others do not. For instance, my smartphone when connected to the Airtel 5G band was able to clock speeds of 100+ Mbps while my new laptop was able to clock max of 50 Mbps. Also, Firetv sticks even though in close proximity could not detect 5G wifi network. So this is another factor to consider.
+Another thing to factor is device compatibility. Some devices support high-speed broadband while others do not. For instance, my smartphone when connected to the Airtel 5GHz band was able to clock speeds of 100+ Mbps while my new laptop was able to clock max of 50 Mbps. Also, Firetv sticks even though in close proximity could not detect 5GHz wifi network. So this is another factor to consider.
 
 These days I use fast.com, the service from Netflix to check internet speed. SpeedTest has way too many adverts that it has practically become unusable. Fast.com has a clean interface and has no adverts, but Netflix may be using this service for data analytics to understand the prevalent internet speed across the world and it may be a valuable source of data to them to refine their service in a more optimized way. 
 
