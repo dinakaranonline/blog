@@ -32,7 +32,7 @@ I'm planning to keep BSNL for next few months and then surrender it later when I
 
 The router that I had bought some 8 years ago did not support the dual-band and only support 2.4 GHz and the maximum speed I get mostly is around 30 Mbps. So before complaining about the service provider, just check if the router has any such issues. Connect your modem to the laptop with a LAN cable and check the speed. If the LAN cable offers good speed, then it is most probably the router. These days there are triple band routers too available. Invest in a good router.
 
-**2. The 2.4 Ghz vs 5 Ghz Condorum**
+**2. The 2.4 Ghz vs 5 Ghz Conundrum**
 
 When I used to connect to my home wifi, the near-by wifi-networks would have something like 'WifiName_5G'. I always wondered what it was and was thinking it may be a 5G compatible device. But it looks like it represents the dual-band setup.
 
