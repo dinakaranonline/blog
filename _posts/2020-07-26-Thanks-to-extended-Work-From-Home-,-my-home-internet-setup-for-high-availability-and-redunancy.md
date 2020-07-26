@@ -54,6 +54,8 @@ My home has a back-up power but it is not instantaneous. It takes anywhere betwe
 
 ## Other random musings of Work From Home
 
+It has been almost 5+ months of Work From Home and life has never been the same. From the common joke about **Work From Home** is essentially **Work For Home** before Corona, things have never been the same. There is work,more work and then some more work. Some random musings on the Work From Home aspects
+
 ### Switching from earphones to blue tooth speakers
 
 My ears were constantly hurting due to prolonged office calls with earphones. So I have invested in a blue tooth speaker. There are a few days where the office calls last anywhere between 4 - 6 hours. And in some instances when doing pair programming with the team for diagnosing issues, I need to be in calls for hours. And earphone was hurting my ears big time. So I have invested in a small blue tooth speaker and connect my calls both from laptop or mobile to the blue tooth speaker. Though the setup is not ideal and my voice may not be that audible, I prefer this these days especially for those calls where am just listening most of the times and not speaking that much.  
