@@ -42,13 +42,13 @@ When I used to connect to my home wifi, the near-by wifi-networks would have som
 
 One of the best practices suggested for getting better connectivity is to use 5 GHz for most critical work and use 2.4 GHz for non-critical work. Since dual-band modem offers both choices, connect leisure devices like mobile, home laptop etc to 2.4 Ghz, while office and school stuff to 5 GHz provided you are well within the range. This will offer lesser network congestion too. More the devices connected to the same wifi network, the performance degrades. So splitting up devices amongst these can help to some extent.
 
-**3. Device compatibility **
+**3. Device compatibility**
 
 Another thing to factor is device compatibility. Some devices support high-speed broadband while others do not. For instance, my smartphone when connected to the Airtel 5GHz band was able to clock speeds of 100+ Mbps while my new laptop was able to clock max of 50 Mbps. Also, Firetv sticks even though in close proximity could not detect 5GHz wifi network. So this is another factor to consider.
 
 These days I use fast.com, the service from Netflix to check internet speed. SpeedTest has way too many adverts that it has practically become unusable. Fast.com has a clean interface and has no adverts, but Netflix may be using this service for data analytics to understand the prevalent internet speed across the world and it may be a valuable source of data to them to refine their service in a more optimized way. 
 
-**4.Backup power and UPS **
+**4.Backup power and UPS**
 
 My home has a back-up power but it is not instantaneous. It takes anywhere between 3 seconds to 30 seconds to switch to backup power. And in the meantime, the broadband connectivity would be lost and it would take time to connect back. And this becomes a challenge during office calls and it is very frustrating. So I have invested in a UPS and now the broadband is connected to the UPS and during any temporary disruption for a few seconds or minutes too can be taken care of.
 
