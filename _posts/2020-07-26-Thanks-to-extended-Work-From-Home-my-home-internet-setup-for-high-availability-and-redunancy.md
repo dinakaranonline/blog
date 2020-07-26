@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/slowinternet.jpg
+categories:
+  - General
+  - Technology
 ---
 Thanks to extended work from home inflicted by Corona,  my home internet has high availability and set up for redundancy, similar to Cloud Providers who have multiple availability zones. 
 
