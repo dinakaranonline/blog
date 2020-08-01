@@ -51,7 +51,7 @@ One distinct new concept one may learn here is the Infrastructure-As-Code ( IAC)
 
 **5. Microservices using AWS Elastic Container Services ECS & Fargate**
 
-Most of the general recommendation for Developers would be to start with microservices on the cloud and this should have been the first suggestion. But what I found is that the serverless stack of API Gateway and Lambda offer a lot of a better abstraction and easier to begin with. With Microservices, you probably need containers which would mean knowledge of Docker and container orchestration services like ECS or Fargate.
+Most of the general recommendation for Developers would be to start with microservices on the cloud and this should have been the first suggestion. But what I found is that the serverless stack of API Gateway and Lambda offer better abstraction and easier to begin with. With Microservices, you probably need containers which would mean knowledge of Docker and container orchestration services like ECS or Fargate.
 
 Stay away from Kubernetes unless otherwise, your project needs it. Read the fundamentals maybe, but I found it to be way too complex. I personally feel that Kubernetes is not for Developers and mostly for Infrastructure and Operations. 
 
