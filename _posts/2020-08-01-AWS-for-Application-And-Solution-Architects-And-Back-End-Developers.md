@@ -19,7 +19,7 @@ When I started to explore AWS in 2018, this is exactly how I felt. The whole wor
 
 **AWS DevOps** - Setting up of CI-CD pipeline using AWS CI-CD tools like AWS Code Commit, AWS Code Build, AWS Code Deploy and Infrastructure As Code ( IAC) using Cloud Formation, SAM and CDK     
 
-**AWS Developers** - Primarily for Developers looking to build services and cloud-native applications
+**AWS Developers** - Primarily for Developers looking to build cloud-native applications
 
 **AWS Big Data/IOT** - As the name implies, this has tools for people looking to build solutions on top of Big Data/IoT. The reason I club both Big Data and IoT is that for most of the Big Data use-cases, the data ingestion happens through IoT devices pre-dominantly. So both Big Data and IoT could go hand-in-hand with each other.
 
