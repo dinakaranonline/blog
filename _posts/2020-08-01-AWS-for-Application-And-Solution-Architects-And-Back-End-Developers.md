@@ -13,7 +13,7 @@ When I started to explore AWS in 2018, this is exactly how I felt. The whole wor
  
 **AWS Practitioner** - For professionals not necessary from the tech-heavy roles, but wanting to get a hold on what AWS is all about.  
 
-**AWS Solution Architect** - Infrastructure Heavy. Typically centred around the migration of existing solutions from On-Premises to the Cloud, managing infrastructure in AWS. Essentially the Infrastructure-As-A-Service paradigm. 
+**AWS Solution Architect** - Infrastructure Heavy. Typically centred around the migration of existing applications and workloads from On-Premises to the Cloud, managing infrastructure in AWS. Essentially the Infrastructure-As-A-Service paradigm. 
 
 **AWS System Administrators** - Infrastructure and Operations heavy. Management and monitoring of Servers, Services, backups etc.
 
