@@ -29,7 +29,7 @@ Now with this classification out of the way, for Application Solution Architects
 
 **1. AWS Basics**
 
-A real high-level explainer on what AWS and Cloud Computing is all about. Gives a good overview of various services etc. This will give AWS Practitioner level knowledge of AWS. I would suggest not to spend more than a couple of hours on this.
+A real high-level explainer on what AWS and Cloud Computing is all about. This will give a good overview of various services etc, a AWS Practitioner level knowledge. I would suggest not to spend more than a couple of hours on this.
 
 **2. AWS Serverless Stack of Lambda, API Gateway, DynamoDB and S3**
 
