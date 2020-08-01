@@ -33,13 +33,13 @@ A real high-level explainer on what AWS and Cloud Computing is all about. This w
 
 **2. AWS Serverless Stack of Lambda, API Gateway, DynamoDB and S3**
 
-With the basics out of the way, the starting point for Developers and Application Architects would be the paradigm of Functions As A Service ( FAAS). AWS Lambda is a good starting point. One can easily write lambda functions and test it easily directly in browser console for a few languages like Node and Python. So to get started quickly with some dirtying of code, AWS Lambda is the best way to start.
+With the basics out of the way, the starting point for Developers and Application Architects would be the paradigm of Functions As A Service ( FAAS). AWS Lambda is a good starting point. One can easily write lambda functions and test it  directly in browser console for a few languages like Node and Python. So to get started quickly with some dirtying of code, AWS Lambda is the best way to start.
 
 Next step is to try researching more on the different use-cases that AWS Lambda can solve and with that, the idea of Serverless should begin to emerge. Lambda in combination with API Gateway, DynamoDB, S3 and other loosely grouped services are referred to as the Serverless stack. Most of these services come under the free tier with some limits and hence can be used for self-learning
 
 **3. AWS Managed Services of Queues, Pub-Sub mechanisms, cron jobs and relational databases RDS**
 
-Once the basic use-cases provide a good insight into the capabilities of Serverless stacks, the next pit stop could be trying to understand the different kind of orchestrations that are possible. AWS Simple Notification Service( SNS ), AWS Simple Queue Service ( SQS ) and AWS Simple Email Service ( SES) can help with a wide variety of use-cases and help you to better appreciate event-driven architectures. Cloud Watch Events provide cron job kind of capabilities as well. All of these services are pay-as-you-use and most of them come within the free tier.
+Once the basic use-cases provide a good insight into the capabilities of Serverless stack, the next pit stop could be trying to understand the different kind of orchestrations that are possible. AWS Simple Notification Service( SNS ), AWS Simple Queue Service ( SQS ) and AWS Simple Email Service ( SES) can help with a wide variety of use-cases and help you to better appreciate event-driven architectures. Cloud Watch Events provide cron job kind of capabilities as well. All of these services are pay-as-you-use and most of them come within the free tier.
 
 AWS also provides Relational Database Service like MySql, Postgresql etc. But all of these are not free and they run 24*7. To get a taste of RDS, I would suggest to try out Aurora MySQL/Postgresql Serverless which has pay based on usage level. There are limitations on the service, but good for exploring the relational database use-cases. 
 
