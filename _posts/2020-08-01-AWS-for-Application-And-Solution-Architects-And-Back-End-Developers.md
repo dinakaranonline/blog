@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/slowinternet.jpg
+image: assets/images/buildonaws.jpg
 categories:
   - Programming
 ---
