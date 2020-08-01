@@ -7,7 +7,9 @@ categories:
   - Programming
 ---
 
-AWS and Cloud is all the rage these days and almost everyone is jumping into the bandwagon. But to get started in AWS may feel very daunting because AWS has so many different services and offerings. Depending on your current skill set, it may be very difficult to understand where to get started, especially when one wants to self-learn. When I started to explore AWS in 2018, this is exactly how I felt. The whole world of AWS felt very vague and confusing to me coming from an application development background. AWS and their services are currently targetted around 4-5 different kind of skillset. To build solutions in AWS, one may have to end up knowing many of these services at least at a  high level. AWS certification path gives good insights on how we can approach AWS.
+AWS and Cloud is all the rage these days and almost everyone is jumping into the bandwagon. But to get started in AWS may feel very daunting because AWS has so many different services and offerings. Depending on your current skill set, it may be very difficult to understand where to get started, especially when one wants to self-learn. 
+
+When I started to explore AWS in 2018, this is exactly how I felt. The whole world of AWS felt very vague and confusing to me coming from an application development background. AWS and their services are currently targetted around 4-5 different kind of skillset. To build solutions in AWS, one may have to end up knowing many of these services at least at a  high level. AWS certification path gives good insights on how we can approach AWS.
  
 **AWS Practitioner** - For professionals not necessary from the tech-heavy roles, but wanting to get a hold on what AWS is all about.  
 
