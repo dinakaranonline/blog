@@ -25,7 +25,7 @@ When I started to explore AWS in 2018, this is exactly how I felt. The whole wor
 
 **AWS Machine Learning** - For Machine Learning use-cases using Sage Maker.
 
-Depending on where you stand currently, pick your path accordingly. Now with this classification out of the way, for Application,Solution Architects and Back End Developers wanting to start with AWS, following are the sequence of topics from AWS I would suggest to start with.
+Depending on where you stand currently, pick your path accordingly. Now with this classification out of the way, for Application,Solution Architects and Back End Developers wanting to start with AWS, following are the sequence of components/services from AWS I would suggest to start with.
 
 **1. AWS Basics**
 
