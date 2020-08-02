@@ -5,7 +5,7 @@ Interesting reads for this week.
 
 ### 1.The Big Tech's Anti-trust hearing case 
 
-This week is when the big tech companies reported record earnings and then were also grilled by the US congress on the Anti-trust hearing. CEO of Apple, Tim Cook, Google, Sundar Pichai, Amazon, Jeff Bezos and Facebook, Mark Zuckerberg were grilled big time on their anti-trust behaviour that tries to either neutralize or destroy competition. Though people are divided on the obvious end game of the hearing, the documentary evidence is showing us what we have always believed, but now with proof. The idea of free market, market share and monopoly need to be re-visited for the digital world. Every single tech company is getting implicated one way or the other. 
+This week is when the big tech companies reported record earnings and then were also grilled by the US congress on the Anti-trust hearing. CEO of Apple, Tim Cook, Google's Sundar Pichai, Amazon's Jeff Bezos and Facebook's Mark Zuckerberg were grilled big time on their anti-trust behaviour that tries to either neutralize or destroy competition. Though people are divided on the obvious end game of the hearing, the documentary evidence is showing us what we have always believed, but now with proof. The idea of free market, market share and monopoly need to be re-visited for the digital world. Every single tech company is getting implicated one way or the other. 
 Verge has excellent coverage with around 17+ articles on this issue. 
 
 [https://www.theverge.com/2020/7/30/21348239/tech-antitrust-hearing-congress-documents-news-facebook-amazon-apple-google](https://www.theverge.com/2020/7/30/21348239/tech-antitrust-hearing-congress-documents-news-facebook-amazon-apple-google)
