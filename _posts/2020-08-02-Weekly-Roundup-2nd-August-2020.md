@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup.jpg
+categories:
+  - Programming
+  - Technology
 ---
 Interesting reads for this week.
 
