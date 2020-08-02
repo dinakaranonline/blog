@@ -11,7 +11,7 @@ Interesting reads for this week.
 
 ### 1.The Big Tech's Anti-trust hearing case 
 
-This week is when the big tech companies reported record earnings and then were also grilled by the US congress on the Anti-trust hearing. CEO of Apple, Tim Cook, Google's Sundar Pichai, Amazon's Jeff Bezos and Facebook's Mark Zuckerberg were grilled big time on their anti-trust behaviour that tries to either neutralize or destroy competition. Though people are divided on the obvious end game of the hearing, the documentary evidence is showing us what we have always believed, but now with proof. The idea of free market, market share and monopoly need to be re-visited for the digital world. Every single tech company is getting implicated one way or the other. 
+This week is when the big tech companies reported record earnings and then were also grilled by the US congress on the Anti-trust hearing. CEO of Apple, Tim Cook, Google's Sundar Pichai, Amazon's Jeff Bezos and Facebook's Mark Zuckerberg were grilled big time on their anti-trust behaviour and these companies tries to either neutralize or destroy competition. Though people are divided on the obvious end game of the hearing, the documentary evidence is showing us what we have always believed, but now with proof. The idea of free market, market share and monopoly need to be re-visited for the digital world. Every single tech company is getting implicated one way or the other. 
 Verge has excellent coverage with around 17+ articles on this issue. 
 
 [https://www.theverge.com/2020/7/30/21348239/tech-antitrust-hearing-congress-documents-news-facebook-amazon-apple-google](https://www.theverge.com/2020/7/30/21348239/tech-antitrust-hearing-congress-documents-news-facebook-amazon-apple-google)
@@ -22,7 +22,7 @@ If you do not have time to read through all of this, below 9 min video summaries
 
 ### 2. What the heck is GPT-3? Is AI coming out to take our job for real?
 
-AI taking our job has been the theme for the last few years. We are still not there. But with GPT-3, the possibilities are becoming more and more real.  GPT stands for Generative Pretrained Transformer and the "3" means the third generation. You can think of it as a tool that, given an initial sample of text, tries to predict what should come next.
+AI out there to take our job has been the theme for the last few years. We are still not there. But with GPT-3, the possibilities are becoming more and more real.  GPT stands for Generative Pretrained Transformer and the "3" means the third generation. You can think of it as a tool that, given an initial sample of text, tries to predict what should come next.
 
 [https://dev.to/vtrpldn/what-the-heck-is-gpt-3-anyway-45pc](https://dev.to/vtrpldn/what-the-heck-is-gpt-3-anyway-45pc)
 
@@ -32,7 +32,7 @@ This 30-minute podcast about GPT3 provides a good insight into GPT3 and lays out
 
 ### 3. Amazon now launching satellites into the space to relay broadband.
 
-Amazon now launching "Project Kuiper", a broadband service by launching a satellite into space and directly competing with Space-X and Google Loon? Amazon getting into this space means there may be chances of tangible action in the near future.
+Amazon now launching "Project Kuiper", a broadband service that consists of launching a large number of satellites into space and directly competing with Space-X and Google Loon? Amazon getting into this space means there may be chances of tangible action in the near future.
 
 [https://arstechnica.com/information-technology/2020/07/amazon-gets-fcc-approval-to-launch-3236-low-earth-broadband-satellites/](https://arstechnica.com/information-technology/2020/07/amazon-gets-fcc-approval-to-launch-3236-low-earth-broadband-satellites/)
 
@@ -42,7 +42,7 @@ Like a million others, I too started my programming career with Java. And Java n
 
 [https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html](https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html)
 
-This podcast talks about the humble beginning of Java and how it is initially used in setup boxes. And then slowly moved to the Web world with Java applet for dynamic content and then moving to build applications for multiple platforms with the idea of 'Write Once, Run Anywhere'. 
+This podcast talks about the humble beginnings of Java in mid 90's and how it was initially used in setup boxes. And then slowly moved to the Web world with Java applet for dynamic content and then moving to build applications for multiple platforms with the idea of 'Write Once, Run Anywhere'. 
 
 [https://stackoverflow.blog/2020/07/29/podcast-sponsored-25-years-of-java-oracle/](https://stackoverflow.blog/2020/07/29/podcast-sponsored-25-years-of-java-oracle/)
 
