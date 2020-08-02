@@ -34,7 +34,7 @@ Amazon now launching "Project Kuiper", a broadband service by launching a satell
 
 Like a million others, I too started my programming career with Java. And Java now celebrates 25 years. A lot has changed. The world has moved on from Java to new things, thanks to the shitty behaviour of Oracle trying to make money from Java by launching a legal case against Android thereby antagonizing the entire open source community. And Java and its JVM are not that suited for the cloud-native container world that needs lightweight and super-fast boot-up and processing times. It should be interesting to see where Java goes from here. 
 
-[https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html#:~:text=As%20the%20groundbreaking%20platform%20reaches,a%20Supreme%20Court%20decision%20looms&text=The%20Java%20programming%20language%20celebrates,introduced%20Java%20to%20the%20world.](https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html#:~:text=As%20the%20groundbreaking%20platform%20reaches,a%20Supreme%20Court%20decision%20looms&text=The%20Java%20programming%20language%20celebrates,introduced%20Java%20to%20the%20world.)
+[https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html](https://www.infoworld.com/article/3544229/java-programming-language-celebrates-25-years.html)
 
 This podcast talks about the humble beginning of Java and how it is initially used in setup boxes. And then slowly moved to the Web world with Java applet for dynamic content and then moving to build applications for multiple platforms with the idea of 'Write Once, Run Anywhere'. 
 
