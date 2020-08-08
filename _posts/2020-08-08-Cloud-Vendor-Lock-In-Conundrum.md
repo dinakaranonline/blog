@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/vendor-lockin.png
+categories:
+  - Programming
+  - Technology
 ---
 The whole world and its infrastructure are moving into Cloud at a rapid pace in the last decade. Speed and frenzy of this transformation have caught everyone by surprise. From small start-ups to large organizations and government institutions, all of them are migrating their existing on-prem infrastructure into the cloud and building new-age solutions purely in cloud. 
 
