@@ -42,7 +42,7 @@ Building solutions that can be easily run on multiple cloud providers. For reall
 Even though Cloud has been there for a decade now, companies are only now adopting at a really large scale. Resiliency, Availability and Recovery are being thought and designed mostly at a region level amongst multiple availability zones and cross-region availability and management of resources are already proving to be challenging in terms of cost and associated overheads. With so many complexities in a single cloud setup, thinking about a multi-cloud approach unless otherwise there is a strong business case to move multi-cloud may not be recommended for all.
 
 
-### So how to think about Vendor Lock-In and ways to minimize it
+## So how to think about Vendor Lock-In and ways to minimize it
 
 **1. Design applications with a hexagonal architecture** 
 
