@@ -39,7 +39,7 @@ As we stand in 2020, here are the major pros and cons that are there with Cloud 
 3. There is no easier way to migrate unless there was a conscious smart decision taken during the initial architecture and design phase to reduce the impact of the lock-in. Migrate to a new cloud in worst cases could very well be a re-write.
 
 
-### What does it mean to avoid vendor lock-in? Multi-cloud , but  
+### What does it mean to avoid vendor lock-in? Multi-cloud. But.... 
 
 Building solutions that can be easily run on multiple cloud providers. For really large companies at the scale of Google, Microsoft, Uber, Netflix etc, the multi-cloud makes absolute business sense. It looks like a no-brainer that multi-cloud must be the default mind-set. But then the challenge of building solutions already in the cloud is pretty complex and the multi-cloud approach would take up significant time and resources in terms of managing such a complex setup. 
 
@@ -56,7 +56,7 @@ For example, if we are to use Amazon DynamoDB, do not introduce DynamoDB and its
 
 So a conscious approach of clever design and architecture could help us deal with this problem better.
 
-**2. Choose services from other cloud vendors when they deem fit.**
+**2. Choose services from other cloud vendors when they deem fit**
 
 Depending on the use-case, if there are few services from other cloud vendors that are good, choose them. For example, Google Cloud may offer better services in terms of Machine Learning / AI etc and even though an organization may be currently all in AWS, it would make sense to choose Google Cloud for the use-case and make the best use of it. Even though the resulting overhead and complexities may be extra, it would still make absolute business sense.
 
