@@ -7,7 +7,6 @@ categories:
   - Programming
   - Technology
 ---
-
 Interesting reads for this week of 9th August 2020.
 
 ### 1. Bjyu's have  acquired White Hat Junior for a whopping 200 million
@@ -48,6 +47,18 @@ Disney has done an excellent catch-up on their  Transformation to Digital with t
 
 [https://www.protocol.com/google-smart-speaker-alarm-adt](https://www.protocol.com/google-smart-speaker-alarm-adt)
 
+### 6. A mis-configured AWS S3 bucket can set you back by 90 million dollars.Ask Capital One.
+
+Importance of Cloud Security cannot be stressed enough. 
+
+[https://www.theverge.com/2020/8/8/21359761/capital-one-80-million-fine-2019-data-breach](https://www.theverge.com/2020/8/8/21359761/capital-one-80-million-fine-2019-data-breach)
+
+Incase any one wants to get a technical understanding on what might have happened. 
+
+[https://www.fugue.co/blog/a-technical-analysis-of-the-capital-one-cloud-misconfiguration-breach](https://www.fugue.co/blog/a-technical-analysis-of-the-capital-one-cloud-misconfiguration-breach)
+
 That's all for this week 
 
-https://www.protocol.com/google-smart-speaker-alarm-adt
+
+
+
