@@ -1,6 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-7.png
+categories:
+  - Programming
+  - Technology
 ---
+
 Interesting reads for this week of 9th August 2020.
 
 ### 1. Bjyu's have  acquired White Hat Junior for a whopping 200 million
