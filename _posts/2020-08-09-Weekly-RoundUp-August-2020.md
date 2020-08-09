@@ -35,7 +35,7 @@ This saga of a Google Engineer stealing self-driving car secrets and then joinin
 
 ### 4. Covid, Mulan and Disney++ 
 
-Disney has done an excellent catch-up on their  Transformation to Digital with their streaming services on fire. I have subscribed to it and my daughter loves it big time. Now Disney is trying to push the button further. The much-awaited big-budget kid's movie, Mulan is set to be directly going to the Disney stream. The only catch, it is going to cost 29$ to watch the movie even if you have Disney+. Well, that is quite some business model out there that Disney is testing its water.
+Disney has done an excellent catch-up on their  Transformation to Digital with their streaming services on fire. I have subscribed to it and my daughter loves it big time. Now Disney is trying to push the button further. The much-awaited big-budget kid's movie, Mulan is set to be going to the Disney stream. The only catch, it is going to cost 29$ to watch the movie even if you have Disney+. Well, that is quite some business model out there that Disney is testing its water.
 
 [https://500ish.com/disney-6e453e65f471](https://500ish.com/disney-6e453e65f471)
 
