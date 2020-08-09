@@ -1,5 +1,6 @@
 ---
 published: true
+title: AWS for Application And Solution Architects And BackEnd Developers
 layout: post
 author: dinakaran
 image: assets/images/buildonaws.jpg
