@@ -49,7 +49,7 @@ I work in technology and I can confirm with absolute honesty that I do not under
 
 ### 6. A mis-configured AWS S3 bucket can set you back by 90 million dollars.Ask Capital One.
 
-Importance of Cloud Security cannot be stressed enough. 
+Importance of Cloud Security cannot be stressed enough. The idea of Shared Responsibility Model , Principle of Least Privilege are not just empty words. If not understood properly, the ramifications are at a scale unprecedented.  
 
 [https://www.theverge.com/2020/8/8/21359761/capital-one-80-million-fine-2019-data-breach](https://www.theverge.com/2020/8/8/21359761/capital-one-80-million-fine-2019-data-breach)
 
