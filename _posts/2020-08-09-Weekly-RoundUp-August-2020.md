@@ -35,13 +35,13 @@ This saga of a Google Engineer stealing self-driving car secrets and then joinin
 
 ### 4. Covid, Mulan and Disney++ 
 
-Disney has done an excellent catch-up on their  Transformation to Digital with their streaming services on fire. I have subscribed to it and my daughter loves it big time. Now Disney is trying to push the button further. The much-awaited big-budget kid's movie, Mulan is set to be going to the Disney stream. The only catch, it is going to cost 29$ to watch the movie even if you have Disney+. Well, that is quite some business model out there that Disney is testing its water.
+Disney has done an excellent catch-up on their  Transformation to Digital with their streaming services on fire. I have subscribed to it and my daughter loves it big time. Now Disney is trying to push the button further. The much-awaited big-budget kid's movie, Mulan is set to be going to the Disney stream. The only catch, it is going to cost 29$ to watch the movie even if you have Disney+. Well, that is quite some business model out there that Disney is testing the waters.
 
 [https://500ish.com/disney-6e453e65f471](https://500ish.com/disney-6e453e65f471)
 
 ### 5. Are the smartphone and smart speakers mic always ON? Well, no one can confirm at the moment.
 
- I work in technology and I can confirm with absolute honesty that I do not understand the limits the big techs are pushing here day-in, day-out. 
+I work in technology and I can confirm with absolute honesty that I do not understand the limits the big techs are pushing here day-in, day-out. 
 
 "Last week, Reddit user Brazedowl received a curious notification on his phone: Google was telling him that a smoke detector in his home had gone off. Brazedowl, a teacher from North Carolina who goes by Drew in real life, knew about the smoke alarm — he was at home himself and had just fried some sausages in his kitchen. But up until that moment, he had no idea that his smart speaker was able to detect such events. "Google just made my dumb smoke detectors smart," he wrote on Reddit. "Pretty rad."
 
