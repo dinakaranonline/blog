@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To Micoservices or not
+title: To Microservices or not
 author: dinakaran
 image: assets/images/switch_to_microservices.jpg
 featured: true
