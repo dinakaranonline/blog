@@ -12,7 +12,7 @@ Some time back I wrote a [post](https://dinakaran.dev/blog/How-to-find-useful-co
 
 Most of us wanting to venture into AWS will probably start with enrolling in online courses in sites like Udemy, Pluralsight etc and may be running a few code samples, personal project and then complete certification. While it may be a good start, most of the time the learning may stop there if there is no clear path on what next. So this post is an attempt to address this.  The following are the AWS resources that I usually follow to get regular updates on all things AWS. 
 
- ### 1. AWS This is My Architecture video series 
+### 1. AWS This is My Architecture video series 
 
 A short 5 video youtube video series that talks about the various different type of architecture that is built by different companies on top of AWS.  Subscribe to this youtube channel
 
