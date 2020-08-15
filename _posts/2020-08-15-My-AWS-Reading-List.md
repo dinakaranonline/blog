@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Some time back I wrote a [post](https://dinakaran.dev/blog/How-to-find-useful-content-to-read-on-a-daily-basis/) about how I find useful content to read on a daily basis. In this post, I would want to dive deep on how I read content on things about AWS. 
+Some time back I wrote a [post](https://dinakaran.dev/blog/How-to-find-useful-content-to-read-on-a-daily-basis/) about how I find useful content to read on a daily basis. In this post, I would want to dive deep on how I read content about all things AWS. 
 
 Most of us wanting to venture into AWS will probably start with enrolling in online courses in sites like Udemy, Pluralsight etc and may be running a few code samples, personal project and then complete certification. While it may be a good start, most of the time the learning may stop there if there is no clear path on what next. So this post is an attempt to address this.  The following are the AWS resources that I usually follow to get regular updates on all things AWS. 
 
