@@ -46,26 +46,26 @@ AWS has the  Hero Program that showcases people who are doing a lot of work in t
 
 There are a number of podcasts that one can find on AWS. The ones I follow are the official AWS  Podcasts. In addition to it, the ones that I regularly follow are Screaming In The Cloud, Serverless Chats, Burning Monk, Mobycast, Cloudanaut etc. Podcasts are a good way to follow things around AWS and when combined with a work out routine will make it easier to follow and keep track of it.
 
-AWS Tech Chat Podcast: [https://aws.amazon.com/podcasts/aws-techchat/](https://aws.amazon.com/podcasts/aws-techchat/)
+1. AWS Tech Chat Podcast: [https://aws.amazon.com/podcasts/aws-techchat/](https://aws.amazon.com/podcasts/aws-techchat/)
 
-AWS Conversations with Leaders: [https://aws.amazon.com/executive-insights/podcast/](https://aws.amazon.com/executive-insights/podcast/)
+2. AWS Conversations with Leaders: [https://aws.amazon.com/executive-insights/podcast/](https://aws.amazon.com/executive-insights/podcast/)
 
-Screaming In The Cloud by Corey Quinn: 
+3. Screaming In The Cloud by Corey Quinn: 
 [https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
 
-AWS Serverless Chat hosted by Jeremy Daly 
+4. AWS Serverless Chat hosted by Jeremy Daly 
 
 [https://www.serverlesschats.com/#:~:text=Serverless%20Chats%20is%20a%20podcast,topics%20in%20the%20serverless%20space](https://www.serverlesschats.com/#:~:text=Serverless%20Chats%20is%20a%20podcast,topics%20in%20the%20serverless%20space)
 
-Real World Serverless hosted by Burning Monk 
+5. Real World Serverless hosted by Burning Monk 
 
 [https://realworldserverless.com/](https://realworldserverless.com/)
 
-Cloudonaut hosted by Andreas & Michael Wittig
+6. Cloudonaut hosted by Andreas & Michael Wittig
 
 [https://cloudonaut.io/](https://cloudonaut.io/)
 
-Mobycast hosted by Jon and Chirs 
+7. Mobycast hosted by Jon and Chirs 
 
 [https://mobycast.fm/](https://mobycast.fm/)  
 
