@@ -39,7 +39,7 @@ AWS Serverless Youtube channel:
 
 ### 4. AWS Developer Advocates 
 
-For almost every service of AWS, there are Developer Advocates and their prime responsibility is to spread the word around regarding the service through documentation, videos, webinars, blogs videos etc. They are also quite active on social media. I have interacted with few of them and most of them respond promptly when asked for any queries. 
+For almost every service of AWS, there are Developer Advocates and their prime responsibility is to spread the word around regarding the service through documentation, videos, webinars, blogs videos etc. They are also quite active on social media. I have interacted with few of them and most of them respond promptly when asked for any queries.Following them on Twitter would help us to keep ourselves updated easily.
 
 [https://aws.amazon.com/developer/community/evangelists/#:~:text=Developer%20Advocates%20help%20users%20understand,a%20developer%20advocate%20near%20you](https://aws.amazon.com/developer/community/evangelists/#:~:text=Developer%20Advocates%20help%20users%20understand,a%20developer%20advocate%20near%20you)
 
