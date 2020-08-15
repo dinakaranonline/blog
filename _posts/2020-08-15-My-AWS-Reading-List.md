@@ -53,21 +53,13 @@ There are a number of podcasts that one can find on AWS. The ones I follow are t
 3. Screaming In The Cloud by Corey Quinn: 
 [https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
 
-4. AWS Serverless Chat hosted by Jeremy Daly 
+4. AWS Serverless Chat hosted by Jeremy Daly [https://www.serverlesschats.com/#:~:text=Serverless%20Chats%20is%20a%20podcast,topics%20in%20the%20serverless%20space](https://www.serverlesschats.com/#:~:text=Serverless%20Chats%20is%20a%20podcast,topics%20in%20the%20serverless%20space)
 
-[https://www.serverlesschats.com/#:~:text=Serverless%20Chats%20is%20a%20podcast,topics%20in%20the%20serverless%20space](https://www.serverlesschats.com/#:~:text=Serverless%20Chats%20is%20a%20podcast,topics%20in%20the%20serverless%20space)
+5. Real World Serverless hosted by Burning Monk [https://realworldserverless.com/](https://realworldserverless.com/)
 
-5. Real World Serverless hosted by Burning Monk 
+6. Cloudonaut hosted by Andreas & Michael Wittig [https://cloudonaut.io/](https://cloudonaut.io/)
 
-[https://realworldserverless.com/](https://realworldserverless.com/)
-
-6. Cloudonaut hosted by Andreas & Michael Wittig
-
-[https://cloudonaut.io/](https://cloudonaut.io/)
-
-7. Mobycast hosted by Jon and Chirs 
-
-[https://mobycast.fm/](https://mobycast.fm/)  
+7. Mobycast hosted by Jon and Chirs [https://mobycast.fm/](https://mobycast.fm/)  
 
 ### 6. Newsletters 
 
