@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/vendor-lockin.png
+image: assets/images/aws-learning.jpg
 categories:
   - Programming
   - Technology
@@ -88,10 +88,4 @@ Most of the AWS related queries are constantly monitored in Stack OverFlow by AW
 
 I think the learning courses in Udemy, Pluralsight are a good way to get started. And following up with a simple personal project would be nice too. But these online resources get delivered in my mailbox, Twitter timeline or Youtube subscription or Podcasts. Even though I receive a lot of content, I consume a maximum of 10 %. I filter ruthlessly based on the topics that I want to explore in AWS and prioritize accordingly.
 
-I will try to keep updating this list as and when I find new interesting content to follow on AWS. 
-
-
-
- 
-
-
+I will try to keep updating this list as and when I find new interesting content to follow on AWS.
