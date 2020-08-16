@@ -49,7 +49,7 @@ This technique is on the similar lines of trying to explain complex topics to a 
 ----------------------------------------------------------
 
 
-## Interesting reads for this week of 9th August 2020.
+## Interesting reads for the week of 9th August 2020.
 
 ### 1. Bjyu's have  acquired White Hat Junior for a whopping 200 million
 
