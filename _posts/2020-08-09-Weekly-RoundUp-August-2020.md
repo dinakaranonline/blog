@@ -7,7 +7,49 @@ categories:
   - Programming
   - Technology
 ---
-Interesting reads for this week of 9th August 2020.
+
+**Interesting reads for the week of 16th Aug , 2020** 
+
+### 1. Dope Tech - Robot Dog 
+
+Boston Dynamic's much raved and frightening Robot Dog is actually called Spot. This video by MKBHD is insightful about the Robot Dog - how it is built, the technology behind it and the real-world use cases. It's incredible to see how much we have travelled. To put it short, Spot is the range rover for our planet Earth. The possibilities in the next decade are endless, but there is this overarching concern around robots taking over the humans and it is hard to ignore this 
+
+[https://www.youtube.com/watch?v=s6_azdBnAlU](https://www.youtube.com/watch?v=s6_azdBnAlU)
+
+### 2. How to take better breaks
+
+Not all breaks are the same. Some breaks drain your energy while some of them recharge us. Are you taking the right kind of breaks? 
+
+[https://www.theproductiveyou.com/better-breaks-boost-productivity/](https://www.theproductiveyou.com/better-breaks-boost-productivity/)
+
+### 3.  Mozilla's Uncertain future 
+
+Mozilla and Firefox were the pretty good alternatives a decade back when Internet Explorer had an absolute monopoly. Whenever I browse, the first thing I would do is install Firefox, setup of add-ons etc. But then Chrome came and took the market completely. Looking back, in 2020 Chrome feels like Internet Explorer and Edge feels like Chrome. And Firefox? It is probably all over the place. I have tried using Firefox as an alternative to Chrome and Edge, but there are still rough edges and unreliable that I had to move back to Chrome. And with this new direction of Mozilla and layoffs, there is now less hope for Firefox to thrive?
+
+[https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/](https://civilityandtruth.com/2020/08/13/mozillas-uncertain-future/)
+
+### 4.  Mastering the art of persuasion 
+ 
+A 30-minute interesting podcast about the art of persuasion 
+
+"Pushing people to behave how you’d like them to or believe the same things you do just doesn’t work, no matter how much data you give or how many emotional appeals you make. Studying both psychology and business, he’s found better tactics for bringing people over to your side. One of the keys? Asking questions so people feel like they’re making the decision to change"
+
+[https://hbr.org/podcast/2020/08/mastering-the-art-of-persuasion](https://hbr.org/podcast/2020/08/mastering-the-art-of-persuasion)
+
+### 5.  How to learn anything  with the Feynman Technique
+
+This technique is on the similar lines of trying to explain complex topics to a child. 
+
+"There are only three steps to the Feynman Technique, and it’s easy to apply them straight away. Once you have picked a topic that you’ve recently been studying, test your knowledge by trying to transmit it."
+
+[https://nesslabs.com/feynman-technique](https://nesslabs.com/feynman-technique)
+
+
+
+----------------------------------------------------------
+
+
+**Interesting reads for this week of 9th August 2020.**
 
 ### 1. Bjyu's have  acquired White Hat Junior for a whopping 200 million
 
@@ -57,8 +99,4 @@ Incase any one wants to get a technical understanding on what might have happene
 
 [https://www.fugue.co/blog/a-technical-analysis-of-the-capital-one-cloud-misconfiguration-breach](https://www.fugue.co/blog/a-technical-analysis-of-the-capital-one-cloud-misconfiguration-breach)
 
-That's all for this week 
-
-
-
-
+That's all for this week
