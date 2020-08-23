@@ -50,6 +50,12 @@ But one afternoon and evening of surprise and outrage later, Apple is backing of
 
 [https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
 
+### 5. Spotify trying to be the destination for Podcasts. Will it work? 
+
+Interesting read about the current state of podcasting market and whether Spotify's big bet on podcasting with acquisitions and original content can help it to become the most desired destination for podcasts.
+
+https://medium.com/curious/a-skeptics-view-on-spotify-s-podcast-strategy-11a14da58c8f
+
 That's all for this week
 
 ---------------------------------------------------------------------------------------------------------------
