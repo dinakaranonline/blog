@@ -2,11 +2,13 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/aws-learning.jpg
+image: assets/images/duolingo.jpg
 categories:
   - General
   - Technology
-title: Learning new language through Duolingo. Reflections on Daily Routine and Personalized Learning
+title: >-
+  Learning new language through Duolingo. Reflections on Daily Routine and
+  Personalized Learning
 ---
 
 I have been using a language learning app called Duolingo to learn Hindi. Duolingo has a really nifty app that provides an easy way to learn new languages bit by bit every day and the makes of the app have gamified the whole experience. I have been taking Hindi lessons for 50+ days and every day it is not more than 10-15 minutes. The app is fun and gets you interested to learn every day by sending pretty quirky and fun notifications. Here are some of the reflections after using the app. 
@@ -42,7 +44,3 @@ Learning a new language feels like a game and with the right kind of research an
 ### 5. Can Online Tools and Technology can revolutionize Learning?
 
 Schools and Colleges will be here to stay for the next decade. But the tools that the technology offers can easily complement the learning process. This is especially important for slow learners who want to assimilate the knowledge at their own pace and re-visiting the same topics multiple times. Has it happened to you that the exams are the next day and you open the book to only realize that you remember nothing? Generally, parents get frustrated and it may make us feel guilty about not remembering anything from the previous learning lessons. It also wrongly gives us the impression that we are not good and not smart enough to learn new things. But it is essentially a memory issue more than anything. Having a good memory is not a talent and the learning should not be optimized for this.  The technology is here, whether we want to embrace it to make learning more fun, enjoyable and accessible is the most important question.
-
-
-
-  
