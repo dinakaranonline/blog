@@ -37,7 +37,7 @@ I'm sure at the end of probably 6 months, I would have learnt far more words and
 
 During my school and college days, I had a struggle with the learning process.  Some of the subjects came naturally, while some of them were difficult. And teachers too have limited time to repeat the same concepts again and again. So I was kind of stuck with some concepts and not being able to understand it fully and had to cram it.
 
-But with technology, this is now possible. Whatever new words or sentences I learnt two weeks ago can be easily revisited any number of times. This idea of personalized learning that technology can offer will make learning accessible to a lot of students instead of it being felt like a chore. 
+But with technology, this is now possible. Whatever new words or sentences I learnt two weeks ago can be easily revisited any number of times. This idea of personalized learning that technology can offer will make learning accessible to a lot of students instead of the learning process being felt like a dull boring chore. 
 
 Learning a new language feels like a game and with the right kind of research and curriculum on these apps, students can start enjoying the whole learning process really well. 
 
