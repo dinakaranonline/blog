@@ -7,6 +7,52 @@ categories:
   - Programming
   - Technology
 ---
+## Interesting reads for the week of 23rd Aug Aug , 2020
+
+
+### 1. Dope Tech Again. Cool multi-purpose Projector that can double as a smartphone screen
+
+This cool multi-purpose projector feels super awesome. It acts as a projector, but doubles up as a display screen whenever want it and can detect touches and react accordingly. This is absolutely closing the fiction movies from yesteryear. Feels like dope tech for sure. 
+
+Projector segment features in the second or third place on this video 
+
+[https://www.youtube.com/watch?v=5NNO5Kb-PZo](https://www.youtube.com/watch?v=5NNO5Kb-PZo)
+
+### 2. Citibank's $900 Million Blunder
+
+What happens when you accidentally transfer ~$900 million to somebody you didn’t mean to? Well, that is what Citibank did and the clerical error has now cascading legal complications. What a story.
+
+[https://finshots.in/archive/citibank-billion-dollar-blunder/](https://finshots.in/archive/citibank-billion-dollar-blunder/)
+
+### 3. New Record for Fastest Internet - 178 terabits a second, or 178,000 Gbps
+
+Well, all it takes is just 1 second to download the entire catalogue of Netflix theoretically. 
+
+
+[https://www.gizmodo.co.uk/2020/08/researchers-at-university-college-london-set-a-new-world-record-for-fastest-internet/](https://www.gizmodo.co.uk/2020/08/researchers-at-university-college-london-set-a-new-world-record-for-fastest-internet/)
+
+And the previous record was not even long ago. 
+
+[https://economictimes.indiatimes.com/tech/internet/researchers-record-worlds-fastest-internet-data-speed/articleshow/75915071.cms](https://economictimes.indiatimes.com/tech/internet/researchers-record-worlds-fastest-internet-data-speed/articleshow/75915071.cms)
+
+### 4. Apple App Store vs Rest of The World? 
+
+There is some news about the troubles with the Apple App Store World I guess every week. I think the recurring problems for Apple is not going to gel well for its cult status. 
+
+"Fortnite has been kicked off both the iOS App Store and the Google Play Store, after a growing dispute between Epic Games and Apple and Google. But the roots of the dispute go back to Steve Jobs and the origin of the App Store model -- a model Epic is now trying to overturn."
+
+[https://www.youtube.com/watch?v=r70ZdDQt4K8](https://www.youtube.com/watch?v=r70ZdDQt4K8)
+
+Pretty busy few months for employees in the Apple App Store. 
+
+"On Friday, the internet erupted in a small way to learn that Apple had successfully forced WordPress to monetize its free app — forcing it to sell premium plans and custom domain names seemingly just so that Apple could get its traditional 30 percent cut.
+But one afternoon and evening of surprise and outrage later, Apple is backing off. The company is issuing a rare on-the-record apology, and it says that WordPress will no longer have to add in-app purchases now that all is said and done."
+
+[https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app](https://www.theverge.com/2020/8/22/21397424/apple-wordpress-apology-iap-free-ios-app)
+
+That's all for this week
+
+---------------------------------------------------------------------------------------------------------------
 
 ## Interesting reads for the week of 16th Aug , 2020
 
