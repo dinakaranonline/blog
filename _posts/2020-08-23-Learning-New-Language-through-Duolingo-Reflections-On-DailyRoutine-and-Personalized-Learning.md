@@ -21,17 +21,15 @@ One advantage of setting up this routine is that it helps to avoid taking decisi
 
 ### 2. Consistency and Gamification 
 
-There are easy days and then there are hard days. Whatever the kind of day it is, I never try to skip this. This ensures there is consistency and commitment to complete it without fail. And the whole experience is gamified with the concept of Streaks. If we take lessons without skipping a break, we get to maintain Streaks which indicates how many days of continuous learning activity done without skipping a day. If we skip days, we break the Streak and it may get reset. But here is the fun part, if we take lessons every day and earn points, we can fix the streak by parting away with points. So the intrinsic motivation and rewards of keeping up the streaks help us feel engaged.
+There are easy days and then there are hard days. Whatever the kind of day it is, I never try to skip this. This ensures there is consistency and commitment to complete it without fail. And the whole experience is gamified with the concept of Streaks. If we take lessons without skipping a break, we get to maintain Streaks which indicates how many days of continuous learning activity done without skipping a day. If we skip days, we break the Streak and it may get reset. But here is the fun part, if we take lessons every day and earn points, we can fix the streak by parting away with points. 
 
-So in my 50+ days of using this app, I missed to take lessons on two occasions, but I was able to maintain the Streak as well by paying some points that I earned. This gamification is another major reason why the app ticks. It is relatively easier to maintain a commitment when the effort required is small and there are instant rewards.
+So the intrinsic motivation and rewards of keeping up the streaks help us feel engaged.In my 50+ days of using this app, I missed to take lessons on two occasions, but I was able to maintain the Streak as well by paying some points that I earned. This gamification is another major reason why the app ticks. It is relatively easier to maintain a commitment when the effort required is small and there are instant rewards.
 
 ### 3. Improving oneself a little bit every day. Atomic Habits and Atomic Improvements 
 
 Most of the times we set lofty goals and then follow it for a few days, weeks and then it becomes too challenging to follow it up for a varied number of reasons. But when the same goal is structured in such a way that one can attempt and feel the progress every now and then, it drives us to continue it. There is desire, motivation and rewards that feeds off each other.
 
-The key is to try to break down goals into simpler tasks and then completing each of them, can help to witness the progress and rewards. If the app is suggesting 1 hour every day, then it may be too overwhelming to continue. But when the whole daily goal is planned around 10 - 15 minutes, it is easier to commit.
-
-I'm sure at the end of probably 6 months, I would have learnt far more words and sentences with a little bit of sustained, focussed effort every day that is easy to commit and follow through with instant rewards.
+The key is to try to break down goals into simpler tasks and then completing each of them, can help to witness the progress and rewards. If the app is suggesting 1 hour every day, then it may be too overwhelming to continue. But when the whole daily goal is planned around 10 - 15 minutes, it is easier to commit.I'm sure at the end of probably 6 months, I would have learnt far more words and sentences with a little bit of sustained, focussed effort every day that is easy to commit and follow through with instant rewards.
 
 ### 4. Personalized Learning 
 
