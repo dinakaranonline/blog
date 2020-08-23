@@ -7,7 +7,7 @@ categories:
   - Programming
   - Technology
 ---
-## Interesting reads for the week of 23rd Aug Aug , 2020
+## Interesting reads for the week of 23rd Aug , 2020
 
 
 ### 1. Dope Tech Again. Cool multi-purpose Projector that can double as a smartphone screen
