@@ -15,7 +15,7 @@ I have been using a language learning app called Duolingo to learn Hindi. Duolin
 
 ### 1. Importance of Daily Routine
 
-Daily Routine is what makes the app work with users. One can set alerts for notification to a pre-set time to nudge users to try out the daily lesson. And users can choose the timing based on preferences. This ensures this learning activity happens at the same time every day. Also if the same environment is available, it is easier to make this activity part of the daily day process. I personally take the lessons after the morning walk. This routine is almost fixed and in my daily routine, this 10- 15 minutes of planning is now happening by default. Since the time required is minimal, it is easier to commit as well.
+Daily Routine is what makes the app work with users. One can set alerts for notification to a pre-set time to nudge users to try out the daily lesson. And users can choose the timing based on preferences. This ensures the learning activity happens at the same time every day. Also if the same environment is available, it is easier to make this activity part of the daily day process. I personally take the lessons after the morning walk. This routine is almost fixed and in my daily routine, this 10- 15 minutes of planning is now happening by default. Since the time required is minimal, it is easier to commit as well.
 
 One advantage of setting up this routine is that it helps to avoid taking decisions daily on when to perform this activity. We are already aware of this learning activity and can seamlessly embed into our daily routine.
 
