@@ -27,7 +27,7 @@ So in my 50+ days of using this app, I missed to take lessons on two occasions, 
 
 ### 3. Improving oneself a little bit every day. Atomic Habits and Atomic Improvements 
 
-Most of the times we set lofty goals and then follow it for a few days, weeks and then it becomes too challenging to follow it up for a varied number of reasons. But when the same goal is structured in such a way that one can attempt and feel the progress every now and then, it drives us to continue it. There is desire, motivation and rewards that feeds off to each other.
+Most of the times we set lofty goals and then follow it for a few days, weeks and then it becomes too challenging to follow it up for a varied number of reasons. But when the same goal is structured in such a way that one can attempt and feel the progress every now and then, it drives us to continue it. There is desire, motivation and rewards that feeds off each other.
 
 The key is to try to break down goals into simpler tasks and then completing each of them, can help to witness the progress and rewards. If the app is suggesting 1 hour every day, then it may be too overwhelming to continue. Because when the whole activity is planned around 10 - 15 minutes, it is easier to commit.
 
