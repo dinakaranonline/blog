@@ -1,5 +1,12 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/aws-learning.jpg
+categories:
+  - General
+  - Technology
+title: Learning new language through Duolingo. Reflections on Daily Routine and Personalized Learning
 ---
 
 I have been using a language learning app called Duolingo to learn Hindi. Duolingo has a really nifty app that provides an easy way to learn new languages bit by bit every day and the makes of the app have gamified the whole experience. I have been taking Hindi lessons for 50+ days and every day it is not more than 10-15 minutes. The app is fun and gets you interested to learn every day by sending pretty quirky and fun notifications. Here are some of the reflections after using the app. 
