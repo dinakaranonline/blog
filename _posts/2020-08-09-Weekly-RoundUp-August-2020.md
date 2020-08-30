@@ -7,6 +7,41 @@ categories:
   - Programming
   - Technology
 ---
+## Interesting reads for the week of 30th Aug , 2020
+
+### 1. 3 practices by Bill Gates that make you change the way you read books
+
+Reading Books is a habit every one wants to pick up and start enthusiastically but sooner or later, they slack on the habit. These 3 practices by Bill Gates can help us deal with reading books better
+
+[https://medium.com/the-ascent/these-3-practices-by-bill-gates-will-change-how-you-read-15f3c574bef2](https://medium.com/the-ascent/these-3-practices-by-bill-gates-will-change-how-you-read-15f3c574bef2)
+
+### 2. India’s Top 10 Most Innovative SaaS Startups 
+
+We all know the usual suspects: Zoho and Freshworks, but who are the other 8 SAAS startups that are promising? This is one such list. Though am not sure of the methodology, there is an interesting mix of diverse startups targetting different business domain. 
+
+[https://youtu.be/_BF1c1yY4GY](https://youtu.be/_BF1c1yY4GY)
+
+### 3. The Commercial side of Open Source. 
+
+RedHat, Elastic , Mongo . Many  open-source companies are also trying to sell their services commercially. How the whole model has evolved over the last few decades and what the future holds for these companies especially when the public cloud vendors are raking all the moolah by hosting open source products as managed services. Interesting podcast conversation
+
+[https://podcasts.google.com/feed/aHR0cHM6Ly9pbnZlc3RsaWtldGhlYmVzdC5saWJzeW4uY29tL3Jzcw/episode/NzQwYmZhODMtOTU4Yy00NGU0LWFjMjAtYWFlOTdiNmQ0ZWYw?hl=en-IN&ved=2ahUKEwjus_jQhMPrAhUQwzgGHXnaBPUQjrkEegQIChAE&ep=6](https://podcasts.google.com/feed/aHR0cHM6Ly9pbnZlc3RsaWtldGhlYmVzdC5saWJzeW4uY29tL3Jzcw/episode/NzQwYmZhODMtOTU4Yy00NGU0LWFjMjAtYWFlOTdiNmQ0ZWYw?hl=en-IN&ved=2ahUKEwjus_jQhMPrAhUQwzgGHXnaBPUQjrkEegQIChAE&ep=6)
+
+### 4. How 7 Lines of Code Turned Into a $36 Billion Empire
+
+"Instead of chasing 1000-hour programming contracts to build clunky payments solutions for each individual client, the Collison brothers built 7 lines of code that developers could simply plug into their websites.The result is Stripe — a company that has more cash than it knows what to do with."
+
+[https://entrepreneurshandbook.co/two-reasons-why-these-7-lines-of-code-turned-into-a-36-billion-empire-6d2b2d1a8da2](https://entrepreneurshandbook.co/two-reasons-why-these-7-lines-of-code-turned-into-a-36-billion-empire-6d2b2d1a8da2)
+
+### 5. 9 Micro-Habits That Will Completely Change Your Life in a Year
+
+
+“You do not rise to the level of your goals. You fall to the level of your systems.”
+
+[https://medium.com/live-your-life-on-purpose/9-micro-habits-that-will-completely-change-your-life-in-a-year-6bd291aee5c1](https://medium.com/live-your-life-on-purpose/9-micro-habits-that-will-completely-change-your-life-in-a-year-6bd291aee5c1)
+
+-------------------------------------------------------------------------------------
+
 ## Interesting reads for the week of 23rd Aug , 2020
 
 
