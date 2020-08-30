@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/duolingo.jpg
+categories:
+  - General
+  - Technology
+title: >-
+  Leading Teams through Coaching and Taming the Advice Monster
 ---
 
 As we grow up in our career, we tend to manage teams and dozens of employees. Teams often look upon to provide technical guidance and suggestions for day to day work-related activities and the challenges associated with executing them . Managing Teams is an art in itself. There is a need to have people skills along with the technical skills to make this role work. Lack of any one of this can things make it difficult for the team and the productivity as a whole.
