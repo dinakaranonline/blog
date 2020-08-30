@@ -2,12 +2,10 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/duolingo.jpg
+image: assets/images/coaching.jpg
 categories:
   - General
-  - Technology
-title: >-
-  Leading Teams through Coaching and Taming the Advice Monster
+title: Leading Teams through Coaching and Taming the Advice Monster
 ---
 
 As we grow up in our career, we tend to manage teams and dozens of employees. Teams often look upon to provide technical guidance and suggestions for day to day work-related activities and the challenges associated with executing them . Managing Teams is an art in itself. There is a need to have people skills along with the technical skills to make this role work. Lack of any one of this can things make it difficult for the team and the productivity as a whole.
@@ -50,6 +48,4 @@ Two books that I have come across that puts the points better are written by Mic
 Coaching Habit   [https://www.amazon.in/Coaching-Habit-Michael-Bungay-Stanier/dp/0978440749](https://www.amazon.in/Coaching-Habit-Michael-Bungay-Stanier/dp/0978440749)
 Advice Trap  [https://www.amazon.in/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B/](https://www.amazon.in/Advice-Trap-Humble-Curious-Forever-ebook/dp/B083YZTW4B/)
 
-So next time around if some one in the teams comes to me with an issue or problem statement,  I intent to patiently listen and follow-up with more questions and clarifications to understand the context and the options thought by my team before offering any piece of advice and try to tame the Advice Monster in me. 
-
-
+So next time around if some one in the teams comes to me with an issue or problem statement,  I intent to patiently listen and follow-up with more questions and clarifications to understand the context and the options thought by my team before offering any piece of advice and try to tame the Advice Monster in me.
