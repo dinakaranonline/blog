@@ -18,7 +18,7 @@ There are other times where teams rely on you to find solutions for the problems
 
 But these situations present challenges in its own ways, but the approach to both situations may be similar. So there is a better way to deal with both these situations and it is through Coaching. Coaching is typically associated with Executive Coaches who help the CEO's and other C suite executive to navigate the complexities of a large organization. But the coaching tips and strategies are similar. For sure, Executive Coaches may know very less than the CEO and the issues that a company face. They are also not subject matter experts to provide solutions to problems. Still, the idea of coaching is something most leaders rely on. 
 
-### So how to lead manage and teams through Coaching?
+### Leading and managing teams through Coaching?
 
 The Coaching process is more about listening to the issues and problems presented by the employees patiently. Trying to understand the problem by prodding them to add context to the problem. And to ask them what are the options available to address the problem. The whole idea is more about trying to make employees articulate the problem statement well and get as such context as possible and also trying to understand the options available to address the issue before offering any advice.
 
