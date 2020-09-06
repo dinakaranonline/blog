@@ -11,7 +11,7 @@ categories:
 **Weekly Round-Up for the week ending 6th Sep, 2020**
 
 
-**1. Google Genius $49 per month challenging college  education **
+**1.Google Genius $49 per month challenging college  education **
 
 "Google, a company that has successfully “organized the world’s information,” is about to tackle an issue we’ve long endured but have never known what to do about: tech education.It’s not a secret that colleges and universities are struggling miserably to stay relevant in tech domains."
 
@@ -43,4 +43,3 @@ Ikigai is the reason to be and reason to live."
 [https://medium.com/mind-cafe/ikigai-the-most-misunderstood-secret-to-a-happy-life-5b47df466f1c](https://medium.com/mind-cafe/ikigai-the-most-misunderstood-secret-to-a-happy-life-5b47df466f1c)
 
 That's all for this week folks.
-
