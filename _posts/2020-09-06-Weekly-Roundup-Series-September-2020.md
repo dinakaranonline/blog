@@ -1,6 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-2.jpg
+categories:
+  - Programming
+  - Technology
 ---
+
 **Weekly Round-Up for the week ending 6th Sep, 2020**
 
 
