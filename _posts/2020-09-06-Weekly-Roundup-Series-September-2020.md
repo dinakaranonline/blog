@@ -23,7 +23,7 @@ categories:
 
 [https://medium.com/@VaniKola/generalists-vs-specialists-7991d9129961](https://medium.com/@VaniKola/generalists-vs-specialists-7991d9129961)
 
-**3.The Race to Build a ‘desi’ Super App**
+**3. The Race to Build a ‘desi’ Super App**
 
 "Every tech CEO wants a Super App. In the post-Covid world, they want one. Yesterday. Google Pay is building one, WhatsApp needs one, Amazon is dabbling in it, Jio is putting one together, Flipkart (and Phonepe), and Paytm are the other contenders. And now, the venerable Tata Group — not to be left behind in the race for India’s trillion dollar digital economy — wants one."
 
