@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/coaching.jpg
+image: assets/images/machine-learning.png
 categories:
   - Technology
   - Programming
