@@ -68,4 +68,4 @@ I had a chance to watch this series on AWS Power Hour - Machine Learning and got
 
 [https://pages.awscloud.com/AWS-Hour-Power-ML-Jul2020.html](https://pages.awscloud.com/AWS-Hour-Power-ML-Jul2020.html)
 
-Once the power of Machine Learning using the AI services, the next step may be to look at building Machine Learning Models for a specific business problem domain and refine the models to better target products to customers or help to build and drive efficiency across the spectrum. 
+Once the power of Machine Learning using the AI services are leveraged and understood really well,  the next step may be to look at building Machine Learning Models for a specific business problem domain and refine the models to better target products to customers or help to build and drive efficiency. 
