@@ -67,3 +67,5 @@ If you are a Developer and want to learn more about Machine Learning, the Develo
 I had a chance to watch this series on AWS Power Hour - Machine Learning and got to understand the various AI and ML services available in AWS. Content is spread across 6 episodes and is accessible for Developers. This can help to get started with the world of Machine Learning and then go down the rabbit hole of Machine Learning if this sounds exciting. 
 
 [https://pages.awscloud.com/AWS-Hour-Power-ML-Jul2020.html](https://pages.awscloud.com/AWS-Hour-Power-ML-Jul2020.html)
+
+Once the power of Machine Learning using the AI services, the next step may be to look at building Machine Learning Models for a specific business problem domain and refine the models to better target products to customers or help to build and drive efficiency across the spectrum. 
