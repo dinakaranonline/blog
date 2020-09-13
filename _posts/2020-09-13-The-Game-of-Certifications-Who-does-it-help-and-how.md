@@ -17,7 +17,7 @@ Very early in my career, I prepared for the popular Java certification called SC
 
 Even companies that are conducting certifications do not change the questions very often because it is a good business model. If certifications are made difficult, people would not attempt for certifications and this, in turn, means less adoption of the product or services. So there is a need to keep certifications easier so that more people get certified which means more money and better adoption of products and services. Everything feels like a numbers game. 
 
-Most companies are aware of this very basic fact, but still, include the certification path as part of the appraisal or promotion process. Employers will tout so many of their employees being certified and are an expert when in reality, many of them may just have bookish knowledge only and may have cleared it with the help of the readily available question bank
+Many employers are aware of this very basic fact, but still, include the certification path as part of the appraisal or promotion process. Employers will tout so many of their employees being certified and are an expert when in reality, many of them may just have bookish knowledge only and may have cleared it with the help of the readily available question bank
 
 ### Futility of getting certified without real-world exposure
 
