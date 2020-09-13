@@ -13,32 +13,32 @@ categories:
 
 Watched 'The Social Dilemma' on Netflix, a documentary about how social media and technology tend to manipulate people's attention, feelings and has the potential to destroy people/ democracy. From the same people who created these technologies and now wanting to take recourse. For a long time I believed, It is not the Technology stupid, it is we who are using it wrong. Although there is a truth to it, over the last year, I have slowly changed my opinion around this. Less screen time, less scrolling and less everything is the only solution now. We all need Digital Detox
 
-https://www.netflix.com/in/title/81254224
+[https://www.netflix.com/in/title/81254224](https://www.netflix.com/in/title/81254224)
 
 **2. Netflix CEO Hastings’ new book “No Rules Rules: Netflix and the Culture of Reinvention”**
 
 Reed Hastings, Co-CEO of Netflix, shares his top 5 Lessons Learned over the years. Get a deeper dive into these insights in the book "No Rules Rules," written by Reed Hastings and Erin Meyer, available for order at norulesrules.com . Five key takeaways from the book here. 
 
-https://variety.com/2020/digital/news/netflix-reed-hastings-book-five-takeaways-no-rules-rules-1234752550/
+[https://variety.com/2020/digital/news/netflix-reed-hastings-book-five-takeaways-no-rules-rules-1234752550/](https://variety.com/2020/digital/news/netflix-reed-hastings-book-five-takeaways-no-rules-rules-1234752550/)
 
 **3.  Intelligent Minds Like Tim Cook and Jeff Bezos Embrace the Rule of Awkward Silence.** 
 
 "That may sound like a lot for 10 to 20 seconds, but you'll be surprised what your brain can accomplish once it's given a little more time to do what it was designed to do: think things through. So, the next time someone asks you a challenging question, or even what seems on the surface to be a simple one, resist the temptation to respond with the first thing that comes to mind.
 Instead, embrace the rule of awkward silence, and think before you speak."
 
-https://www.inc.com/justin-bariso/intelligent-minds-like-tim-cook-jeff-bezos-embrace-rule-of-awkward-silence-you-should-too.html
+[https://www.inc.com/justin-bariso/intelligent-minds-like-tim-cook-jeff-bezos-embrace-rule-of-awkward-silence-you-should-too.html](https://www.inc.com/justin-bariso/intelligent-minds-like-tim-cook-jeff-bezos-embrace-rule-of-awkward-silence-you-should-too.html)
 
 **4. What startups can learn from Lego’s turnaround**
 
 "Sometimes simplicity, staying true to a company’s focus, deepening and engaging loyalty to customers, focus on product-innovation maybe all that is needed to be able to continue growing to new heights of success."
 
-https://medium.com/@VaniKola/the-kalaari-podcast-what-startups-can-learn-from-legos-turnaround-4b2418212df
+[https://medium.com/@VaniKola/the-kalaari-podcast-what-startups-can-learn-from-legos-turnaround-4b2418212df](https://medium.com/@VaniKola/the-kalaari-podcast-what-startups-can-learn-from-legos-turnaround-4b2418212df)
 
 **5.  Amazon is filled with fake reviews and it’s getting harder to spot them**
 
 "Since Amazon’s early days, reviews are the one big metric customers have relied on to determine the quality and authenticity of a product. Amazon’s listings often have hundreds or thousands of reviews, instead of the handful found on competing marketplaces. But many of those reviews can’t be trusted. Thousands of fake reviews have flooded Amazon, Walmart, eBay and others, as sales have skyrocketed."
 
-https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html
+[https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html](https://www.cnbc.com/2020/09/06/amazon-reviews-thousands-are-fake-heres-how-to-spot-them.html)
 
 --------------------------------------------------------------------------------------------------
 
