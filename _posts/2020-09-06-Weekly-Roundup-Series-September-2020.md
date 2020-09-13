@@ -7,7 +7,7 @@ categories:
   - Programming
   - Technology
 ---
-**Weekly Round-Up for the week ending 13th Sep, 2020**
+## Weekly Round-Up for the week ending 13th Sep, 2020
 
 **1. The Social Dilemma, a documentary on the perils of Social Media and smartphone addiction** 
 
@@ -42,7 +42,7 @@ Instead, embrace the rule of awkward silence, and think before you speak."
 
 --------------------------------------------------------------------------------------------------
 
-**Weekly Round-Up for the week ending 6th Sep, 2020**
+## Weekly Round-Up for the week ending 6th Sep, 2020
 
 
 **1. Google Genius $49 per month challenging college  education**
