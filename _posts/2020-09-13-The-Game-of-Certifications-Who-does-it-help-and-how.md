@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/machine-learning.png
+image: assets/images/certification.jpg
 categories:
   - Technology
   - Programming
