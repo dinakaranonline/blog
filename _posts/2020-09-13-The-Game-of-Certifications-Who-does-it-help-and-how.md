@@ -31,7 +31,7 @@ Recruiting people just because they are certified is not the right approach to h
 
 This is one question that gets asked repeatedly. If certification is not the way to go about finding interesting work in new areas where one has no exposure,  what else can be done? As part of any learning process, implementing solutions to a real-world problem is the best way to test knowledge acquired through any learning or certification.  
 
-With the knowledge gained from the preparation, one must be able to come up with a set of real-world problems and then implementing the solution for the case.  If someone is not sure of what problems or use-cases that can be solved and is not able to define the problem statement first, then the certification is not really of any use. So try to implement a real-world use-case. It will help you to prepare better for the actual job. Host the solution on Github and show it to the prospective employer so that it can be a good way to initiate or drive conversations.
+With the knowledge gained from the preparation, one must be able to come up with a set of real-world problems and then implementing the solution.  If someone is not sure of what problems or use-cases that can be solved and is not able to define the problem statement first, then the certification is not really of any use. So try to implement a real-world use-case. It will help you to prepare better for the actual job. Host the solution on Github and show it to the prospective employer so that it can be a good way to initiate or drive conversations.
 
 Another option is to frequently visit StackOverFlow and search for the most common questions that are frequently asked and see if you can solve the given problem based on your learning. 
 
