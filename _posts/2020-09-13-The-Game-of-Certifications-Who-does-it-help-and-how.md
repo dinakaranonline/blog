@@ -27,7 +27,7 @@ Despite my organization pushing people to get certified on all things new and sh
 
 Recruiting people just because they are certified is not the right approach to hiring. Look beyond certifications. Test the exposure of candidates to real-world scenarios and that will help to better assess the candidate's real experience. These days I have seen so many profiles with AWS Solution Architect certified and they crack all the definition type questions, but the moment actual project experience is discussed, it becomes obvious that the certification is done without any hands-on knowledge. 
 
-### What to do when one have no real-world experience? 
+### What to do when one has no real-world experience? 
 
 This is one question that gets asked repeatedly. If certification is not the way to go about finding interesting work in new areas where one has no exposure,  what else can be done? As part of any learning process, implementing solutions to a real-world problem is the best way to test knowledge acquired through any learning or certification.  
 
