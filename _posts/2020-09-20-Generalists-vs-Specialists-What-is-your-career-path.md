@@ -12,6 +12,7 @@ title: Generalists vs Specialists - What is your career path?
 Over the last 14 years, there has been an eternal struggle with the ever-changing technology landscape over whether to become a Generalist or Specialist. There are no easy answers to this ever-burning question. Depending on the context, both options seem to make sense from different vantage points. I happened to read across this post by Vani Kola on Generalist vs Specialists 
 
 [https://www.linkedin.com/pulse/generalists-vs-specialists-vani-kola/](https://www.linkedin.com/pulse/generalists-vs-specialists-vani-kola/)
+
 After reading about the post, I went down the rabbit hole of Generalists vs Specialists. 
 
 I came across this book by David Epstein, "Range: Why Generalists Triumph in a Specialized World" and it got me thinking more about this. There are different schools of thoughts. Jack of All Trades vs Specialize in One Single Thing but being the best in it.  And the author explains the idea with the example of the career trajectory of Tiger Woods and Roger Federer. 
