@@ -31,11 +31,12 @@ Sridhar Vembu , CEO of Zoho has recently tweeted the following in a similar cont
 
 And the debate is now progressing to different interpretations based on the context again. We have a generalizing specialist. 
 
-A generalizing specialist is someone who:
-Has one or more technical specialities (e.g. Java programming, Project Management, Database Administration, ...).
-Has at least a general knowledge of software development.
-Has at least a general knowledge of the business domain in which they work.
-Actively seeks to gain new skills in both their existing specialities as well as in other areas, including both technical and domain areas.
+- A generalizing specialist is someone who:
+- Has one or more technical specialities (e.g. Java programming, Project Management, Database Administration, ...).
+- Has at least a general knowledge of software development.
+- Has at least a general knowledge of the business domain in which they work.
+- Actively seeks to gain new skills in both their existing specialities as well as in other areas, including both technical and domain areas.
+
 
 [http://agilemodeling.com/essays/generalizingSpecialists.htm](http://agilemodeling.com/essays/generalizingSpecialists.htm)
 
