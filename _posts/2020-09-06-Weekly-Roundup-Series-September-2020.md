@@ -7,6 +7,74 @@ categories:
   - Programming
   - Technology
 ---
+## Weekly Round-Up for the week ending 20th Sep, 2020
+
+**1. Clean Code - 5 Key Takeaways**
+
+“Clean Code” was published in 2008, and over recent years, it has consistently ranked as one of the top five highest-selling books on Amazon. The author, affectionately known as “Uncle Bob,” was one of the original authors of the Agile Manifesto and has some serious credentials. The book has achieved an average rating of 4.4 on Goodreads from over 13,000 ratings. Suffice to say, it’s one of those books every programmer should read.
+
+[https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
+
+**2. Netflix and the Culture of Reinvention - Podcast**
+
+TL;DR Culture eats Strategy for Breakfast
+
+Great podcast about the Culture of Reinvention with Netflix CEO. 
+
+" In this episode, originally recorded for the Commonwealth Club of California, Netflix CEO and co-founder Reed Hasting talks about his new book "No Rules Rules: Netflix and the Culture of Reinvention" with a16z co-founder and fellow author Ben Horowitz, who also wrote a bestselling book about culture last year.
+
+During the conversation, Reed tells the story of Netflix's evolution and his management philosophy, including the hard lesson he learned about what happens when you optimize for efficiency at the expense of creative talent. He also explains why sometimes a more narrow market focus is better for growth and shares the tactics that have helped Netflix expand globally and translate a culture of innovation across different countries, from Japan to Brazil to America."
+
+[https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/](https://a16z.com/2020/09/15/a16z-podcast-designing-a-culture-of-reinvention/)
+
+
+**3. Elon Musk's Learning Process**
+
+"Rule #1 — Make sure you’re building a tree of knowledge
+
+Rule #2 — You can’t remember what you can’t connect
+
+It is important to view knowledge as sort of a semantic tree — make sure you understand the fundamental principles, i.e. the trunk and big branches, before you get into the leaves/details or there is nothing for them to hang on to."
+
+[https://entrepreneurshandbook.co/elon-musks-2-rules-for-learning-anything-faster-cf9a79fba35](https://entrepreneurshandbook.co/elon-musks-2-rules-for-learning-anything-faster-cf9a79fba35)
+
+**4. AWS Free Tier - How , when and what?**
+
+"Is the AWS Free Tier really free? No. No! Oh my god no. It absolutely is not.The AWS Free Tier is free in the same way that a table saw is childproof. If you blindly rush in to use an AWS service with the expectation that you won’t be charged, you’re likely to lose a hand in the process. Let’s dive into exactly what “free” means in this context."
+
+[https://www.lastweekinaws.com/blog/is-the-aws-free-tier-really-free/](https://www.lastweekinaws.com/blog/is-the-aws-free-tier-really-free/)
+
+
+**5. Understanding Kafka - Cool animations FTW**
+
+I love all attempts being made using Digital Tools that help us to understand concepts better. This is one such example. Visualizations are bit over the top, that I felt nervous whether the animations would show up correctly, but then this is fun and nicely done. What is Kafka produced by IBM Cloud? 
+
+[https://www.youtube.com/watch?v=aj9CDZm0Glc](https://www.youtube.com/watch?v=aj9CDZm0Glc)
+
+
+**6.Apple Online Store launching in India next week**
+
+Have you ever felt the need for Apple Online Store where one can customize the MacBook configurations depending on the need? While other countries had this option earlier, India was left behind. This means either one has to reach out to a friend across the border to order and bring one. And now this will change. I hope the price difference is not insane.
+
+[https://www.livemint.com/technology/tech-news/apple-s-first-online-store-in-india-launches-next-week-11600357929198.html](https://www.livemint.com/technology/tech-news/apple-s-first-online-store-in-india-launches-next-week-11600357929198.html)
+
+**7.Thums up vs Cola Wars** 
+
+Fascinating thread that chronicles the story of Indian beverage drink ,  Thums Up.
+
+"For over 35 years, Thums up ruled the Indian soft drink market. This iconic brand overcame international brands like Pepsi & Coke, local brands like Campa Cola & even a brand launched by the Indian government: Double 7.  A thread on the history of Thums up and Indian cola wars"
+
+Twitter Thread. [https://twitter.com/zhr_jafri/status/1307279945970774016](https://twitter.com/zhr_jafri/status/1307279945970774016)
+
+**8. Cultivating Serendipity Mindset**
+
+"Cultivating serendipity looking at the world with open eyes and seeing opportunities others don’t. It’s not just about being in the right place at the right time and having something happen to us, but rather a process in which we can be actively involved"
+
+[https://getpocket.com/explore/item/the-serendipity-mindset-how-to-make-your-own-luck](https://getpocket.com/explore/item/the-serendipity-mindset-how-to-make-your-own-luck)
+
+
+--------------------------------------------------------------------------------------
+
 ## Weekly Round-Up for the week ending 13th Sep, 2020
 
 **1. The Social Dilemma, a documentary on the perils of Social Media and smartphone addiction** 
