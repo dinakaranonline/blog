@@ -46,15 +46,18 @@ Another trend is of the need for T-Shaped Leader. T-Shaped leader or employee is
 
 [http://www.businessworld.in/article/How-Generalists-Are-Gaining-Importance-Over-Specialists-In-Tech-leadership-Roles/05-01-2020-181488/](http://www.businessworld.in/article/How-Generalists-Are-Gaining-Importance-Over-Specialists-In-Tech-leadership-Roles/05-01-2020-181488/)
 
-Who has better job prospects ? Generalists will find it harder and harder to get hired, while Specialists are under threat from software and robots.
-
-[https://medium.com/@ulrichmabou/specialist-vs-generalist-how-i-became-a-fraud-in-transition-and-how-you-could-better-manage-d4588df7db2](https://medium.com/@ulrichmabou/specialist-vs-generalist-how-i-became-a-fraud-in-transition-and-how-you-could-better-manage-d4588df7db2)
 
 ### What the future holds?  
 
 Two types of people will own the future: Generalising-Specialists and Specialising-Generalists.
 
 Imagine you hired a Specialist who was great at one particular function, and over time you found out he or she was also good at handling a broader range of duties, and eager to grow? You’d be thrilled, and you’d want to work with that person a long time. Now imagine you had in your organisation a Generalist who wore multiple hats and could handle a range of duties, but who also spent time acquiring greater proficiency in certain specific skills? You’d be equally thrilled, and you’d want to work with that person a long time.
+
+
+Who has better job prospects ? Generalists will find it harder and harder to get hired, while Specialists are under threat from software and robots.
+
+[https://medium.com/@ulrichmabou/specialist-vs-generalist-how-i-became-a-fraud-in-transition-and-how-you-could-better-manage-d4588df7db2](https://medium.com/@ulrichmabou/specialist-vs-generalist-how-i-became-a-fraud-in-transition-and-how-you-could-better-manage-d4588df7db2)
+
 
 And for a Developer, what does this mean? 
 
