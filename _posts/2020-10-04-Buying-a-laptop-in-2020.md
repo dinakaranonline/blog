@@ -9,7 +9,7 @@ categories:
 title: Buying a laptop in 2020 ? 5 main factors to consider.
 ---
 
-Planning to buy a laptop in 2020. Choices may be overwhelming and confusing at times. While this post may not provide a suggestion on what model to choose, it gives a view on the factors that impact the cost and performance of a laptop. 
+Planning to buy a laptop in 2020? Choices may be overwhelming and confusing at times. While this post may not provide a suggestion on what model to choose, it gives a view on the factors that impact the cost and performance of a laptop. 
 
 While there may be a lot of jargons thrown here, I do not want to explain all of these concepts because the internet is filled with a lot of articles. Googling each of these can help to make better-informed decisions. 
 
@@ -47,6 +47,4 @@ Most laptops in the budget range have Integrated Graphics Card. With 8 GB RAM, a
 
 Laptops with a dedicated graphics card will cost higher.
 
-So these are the main crucial factors that determine the cost and performance of the laptop 
-
-     
+So these are the main crucial factors that determine the cost and performance of the laptop
