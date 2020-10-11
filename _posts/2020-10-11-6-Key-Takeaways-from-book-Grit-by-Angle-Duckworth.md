@@ -4,20 +4,24 @@ published: false
 
 I happened to read the book Grit by Angela Duckworth and here are 6 Key Takeaways from the book.
 
-1. After surveying, interviewing and researching the life a lot of successful people like athletes and entrepreneurs, the author is convinced that Talent was the not only reason for their success. In addition to talent, Grit is also really important. 
+**1. What and How of Grit?**
+
+After surveying, interviewing and researching the life a lot of successful people like athletes and entrepreneurs, the author is convinced that Talent was the not only reason for their success. In addition to talent, Grit is also really important. 
 
 Grit is a combination of passion and perseverance and this played a huge role in their success story. The author has surveyed people from several fields, like professionals getting trained for Beast program known for tough and intense physical endurance program, kids participating in spell bee and athletes winning a lot of gold medals - all of them have in common a unique attribute in addition to talent and that can be referred to as Grit.
 
-2.  To achieve anything, it takes twice the effort along with talent. Efforts play a key role in achieving outstanding results.
+**2. Is Talent all that is required ?**
+
+To achieve anything, it takes twice the effort along with talent. Efforts play a key role in achieving outstanding results.
 
 Talent X Effort = Skill
 Skill X Effort = Achievement 
   
-3. No one is a born natural. All of us require practice and hard work to achieve, though it is not very obvious. When people see someone as successful, we call them as Natural. But the hard work and personal struggle and sacrifices are rarely seen from the outside.
+**3. No one is a born natural**
 
-4. Grit is all about passion and perseverance. Consistency over Intensity. Putting the heads down and executing day-in and day-out without giving up once decided on the goals. 
+All of us require practice and hard work to achieve, though it is not very obvious. When people see someone as successful, we call them as Natural. But the hard work and personal struggle and sacrifices are rarely seen from the outside.Grit is all about passion and perseverance. Consistency over Intensity. Putting the heads down and executing day-in and day-out without giving up once decided on the goals. 
 
-5. Growing Grit from the Inside-Out
+**4. Growing Grit from the Inside-Out**
 
 Grit can be grown slowly by all of us and some of the most essential things that help us to build Grit are :
 
@@ -61,7 +65,7 @@ Optimists search for temporary and specific cause for suffering, while pessimist
 
 Growth mindset people believe that people can change if the right opportunities and support are provided. If one tries hard enough and belief that they can do do it. It has a lot to do with optimistic self-talk in the face of tough situations and challenges. Perseverance over Adversity. Growth mindset is all about updating one's belief about intelligence and talent. 
 
-**6. Growing Grit from Outside-IN**
+**5. Growing Grit from Outside-IN**
 
 While Grit can be developed inside-out, few external stimuli can help us grow Grit.  Some of the external factors that help to grow Grit - parents, coaches and highly productive work environment 
 
