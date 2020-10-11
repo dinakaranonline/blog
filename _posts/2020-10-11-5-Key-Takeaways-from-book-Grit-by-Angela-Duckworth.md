@@ -43,10 +43,10 @@ Once we find our interest and goals, it is widely accepted that putting 10000 ho
 
 What does Deliberate Practice is all about?
 
-1. a. A clearly defined stretch goal
-1.   b. Full concentration and effort
-1.   c. Immediate and informative feedback
-1.   d. Repetition with reflection and refinement
+1. A clearly defined stretch goal
+1. Full concentration and effort
+1. Immediate and informative feedback
+1. Repetition with reflection and refinement
 
 
 Practice involves being consistent. Daily Rituals and Good habits are one of the most of essential traits of all successful, high achieving people and professionals.
