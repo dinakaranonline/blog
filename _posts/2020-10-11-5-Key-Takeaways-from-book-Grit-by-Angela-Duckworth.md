@@ -21,6 +21,7 @@ Grit is a combination of passion and perseverance and this played a huge role in
 To achieve anything, it takes twice the effort along with talent. Efforts play a key role in achieving outstanding results.
 
 Talent X Effort = Skill
+
 Skill X Effort = Achievement 
   
 **3. No one is a born natural**
@@ -55,7 +56,7 @@ Practice involves being consistent. Daily Rituals and Good habits are one of the
 
 Purpose is relatively abstract and it means different things to different people. Most of the achievers are pushed by the rich dividends that their enduring effort and success provide to people around them - immediate family and friends. 
 
-- Parable of building bricklayers can be best explained to relate to the idea of purpose 
+Parable of building bricklayers can be best explained to relate to the idea of purpose 
 
 - Person 1: I'm laying bricks 
 - Person 2: I'm building a church
