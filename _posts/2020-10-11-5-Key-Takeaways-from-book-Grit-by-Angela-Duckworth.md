@@ -4,7 +4,6 @@ layout: post
 author: dinakaran
 image: assets/images/grit.jpg
 categories:
-  - Technology
   - General
 title: 5 Key Takeways from the book Grit by Angela Duckworth
 ---
