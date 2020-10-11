@@ -67,8 +67,7 @@ Different perspective of the work and effort that we put elevates the purpose an
 
 **d. Hope**
 
-Grit depends on a different type of hope. It rests on the expectation that our own efforts can influence our future, resolving to a  better tomorrow.  
- It is not suffering that leads to hopelessness,  it is the suffering that one think that they cannot control.
+Grit depends on a different type of hope. It rests on the expectation that our own efforts can influence our future, resolving to a  better tomorrow.It is not suffering that leads to hopelessness,  it is the suffering that one think that they cannot control.
 
 Optimists search for temporary and specific cause for suffering, while pessimists assume it to be permanent and pervasive and get into the victim mentality.
 
