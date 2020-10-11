@@ -57,9 +57,10 @@ Purpose is relatively abstract and it means different things to different people
 
 - Parable of building bricklayers can be best explained to relate to the idea of purpose 
 
-Person 1: I'm laying bricks 
-Person 2: I'm building a church
-Person 3: I'm building the house of God.
+- Person 1: I'm laying bricks 
+- Person 2: I'm building a church
+- Person 3: I'm building the house of God
+
 
 Different perspective of the work and effort that we put elevates the purpose and make us more gritty
 
