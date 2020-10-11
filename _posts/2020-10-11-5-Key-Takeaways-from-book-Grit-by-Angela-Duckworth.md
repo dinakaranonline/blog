@@ -31,7 +31,7 @@ All of us require practice and hard work to achieve, though it is not very obvio
 
 Grit can be grown slowly by all of us and some of the most essential things that help us to build Grit are :
 
-**a. Interest : **
+**a. Interest :**
 
 Doing what we love and things that interest us is one of the important aspects of growing Grit. Not all of us really find our passion very early. It is a self-discovery process. Passion for work is a bit of discovery, followed by a lot of development and lifetime of deepening the skill. Without experimenting, one cannot figure out which type of interest will stick and which won't.
 
@@ -81,9 +81,4 @@ Another way to grow grit is through extracurricular activities. Kids involved in
 
 Grit also grows when people work in a great working environment that practices Grit. Drive to conform to the group is what drives people to do and be better. Surrounding oneself amidst a group of great people is one sure way to grow Grit. Culture has the power to shape our identity.
 
-To sum it up, it is possible for all of us to grow Grit and it can be done Inside-Out and Outside-In. Talent is an important factor in achieving great success, but along with Talent, what is equally important is Grit - the powerful duo of passion and perseverance that helps us to see through till the end. 
-
-
-
-
-
+To sum it up, it is possible for all of us to grow Grit and it can be done Inside-Out and Outside-In. Talent is an important factor in achieving great success, but along with Talent, what is equally important is Grit - the powerful duo of passion and perseverance that helps us to see through till the end.
