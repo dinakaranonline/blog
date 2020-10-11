@@ -5,7 +5,7 @@ author: dinakaran
 image: assets/images/grit.jpg
 categories:
   - General
-title: 5 Key Takeways from the book Grit by Angela Duckworth
+title: 5 Key Takeaways from the book Grit by Angela Duckworth
 ---
 
 I happened to read the book Grit by Angela Duckworth and here are 5 Key Takeaways from the book.
