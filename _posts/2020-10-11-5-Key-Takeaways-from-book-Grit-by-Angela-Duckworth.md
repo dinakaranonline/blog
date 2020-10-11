@@ -44,7 +44,7 @@ Once we find our interest and goals, it is widely accepted that putting 10000 ho
 What does Deliberate Practice is all about?
 
   a. A clearly defined stretch goal
-  b. Full concentration and effort 
+  b. Full concentration and effort
   c. Immediate and informative feedback
   d. Repetition with reflection and refinement
 
