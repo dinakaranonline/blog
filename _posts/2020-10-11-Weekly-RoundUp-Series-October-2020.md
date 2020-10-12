@@ -1,7 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-rounup-oct-2020.jpg
+categories:
+  - Technology
+  - General
+title: Weekly RoundUp Series October 2020
 ---
-Interesting reads for the week of 11 th October, 2020
 
 
 ### 1. IBM splitting up the company into two to focus on the cloud business.
