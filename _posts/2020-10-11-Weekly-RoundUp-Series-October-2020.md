@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weekly-rounup-oct-2020.jpg
+image: assets/images/weekly-roundup-oct-2020.jpg
 categories:
   - Technology
   - General
@@ -49,6 +49,3 @@ You probably have some of the things you want to learn on your long to-do list. 
 "What exactly is face? In their classic work on politeness, Penelope Brown and Stephen C. Levinson define face as “the public self-image that every member of a society wants to claim for himself/herself.” Put differently, face is how people want to be perceived and connected to identity and dignity. When it comes to negotiation, it is about both sides preserving their and their organizations’ reputations."
 
 [https://hbr.org/2020/10/to-succeed-in-a-negotiation-help-your-counterpart-save-face](https://hbr.org/2020/10/to-succeed-in-a-negotiation-help-your-counterpart-save-face)
-
-
-
