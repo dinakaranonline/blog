@@ -8,6 +8,49 @@ categories:
   - General
 title: Weekly RoundUp Series October 2020
 ---
+## Interesting articles for the week ending 18 Oct 2020
+
+
+### 1. Now you can search for a song just by humming it to Google. Sounds cool, right?
+
+I did try it a couple of times and it did work :) 
+
+"Google is adding a new “hum to search” feature to its search tools today that will let you hum (or whistle, or sing) the annoying song that’s stuck in your head, and then use machine learning techniques to try to identify it."
+
+[https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning](https://www.theverge.com/2020/10/15/21518182/google-new-hum-to-search-feature-identify-song-machine-learning)
+
+### 2. 25 years of Gartner Hype Cycle 
+
+"A chap called Mark used his COVID lockdown time to create a video representation of data scraped from 25 years of technology assessments from the Gartner hype cycle. Great to see how technology matures, and just how long something can be stuck in the 'about to happen' stage."
+
+[http://news.fintech.io/post/102gieb/a-quarter-century-of-hype-25-years-of-the-gartner-hype-cycle](http://news.fintech.io/post/102gieb/a-quarter-century-of-hype-25-years-of-the-gartner-hype-cycle)
+
+### 3. How to waste your career one comfortable year at a time. 
+
+This one hit close to home.
+
+"I recently saw this tweet asking people about their career's most expensive mistake. The most common one was people staying too long at their jobs and not switching sooner. I've seen people make this mistake over and over. Hell, I've made this mistake myself. Change can be scary. It requires you to get out of your comfort zone. But, in my experience, staying too long is one of the worst mistakes you can make in your career.
+ "
+
+[https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable](https://apoorvagovind.substack.com/p/how-to-waste-your-career-one-comfortable)
+
+### 4. Emerging trends in Data Architectures
+
+"Due to the energy, resources, and growth of the data infrastructure market, the tools and best practices for data infrastructure are also evolving incredibly quickly. So much so, it’s difficult to get a cohesive view of how all the pieces fit together. And that’s what we set out to provide some insight into. We asked practitioners from leading data organizations: (a) what their internal technology stacks looked like, and (b) whether it would differ if they were to build a new one from scratch."
+
+[https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/](https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/)
+
+### 5. API's VS SDK's - What's the difference?
+
+"What is an API? What is an SDK? How are they related and enable users to streamline their cloud application development workflows? In this lightboard video, Nathan Hekman with IBM Cloud, answers these questions and much more while providing a real life scenario which explains the difference and similarities, and ultimately how the two technologies can work together to allow you to spend less time connecting/configuring a cloud service, and more time coding and actually using the service in your app."
+
+[https://www.youtube.com/watch?v=kG-fLp9BTRo](https://www.youtube.com/watch?v=kG-fLp9BTRo)
+
+
+=============================================================================================
+
+## Interesting articles for the week ending 11th October,2020
+
 
 
 ### 1. IBM splitting up the company into two to focus on the cloud business.
