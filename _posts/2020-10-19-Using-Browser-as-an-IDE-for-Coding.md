@@ -1,6 +1,6 @@
 ---
 published: true
-title: Using Browser as IDE for Coding
+title: Using Browser as an IDE for Coding
 layout: post
 author: dinakaran
 image: assets/images/cloud-ide.jpg
