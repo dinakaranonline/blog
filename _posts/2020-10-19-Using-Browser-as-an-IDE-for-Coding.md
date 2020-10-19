@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+title: Using Browser as IDE for Coding
+layout: post
+author: dinakaran
+image: assets/images/cloud-ide.jpg
+categories:
+  - Programming
 ---
 Gone are the days when setting up a Development environment can take weeks. Typically the process involves requests for installing software, Integrated Development Environment IDE, admin access etc. Other times, when you read about some exciting new stuff and want to quickly dirty hands, there is a lot of software that needs to be installed and it makes the whole exploration not so super smooth.  
 
