@@ -8,7 +8,7 @@ categories:
   - General
 title: Weekly RoundUp Series October 2020
 ---
-## Interesting articles for the week ending 18 Oct 2020
+## Interesting articles for the week ending 25 th Oct 2020
 
 ### 1. Uber’s Self-Driving Car Killed Someone. Why Isn’t Uber Being Charged?
 
