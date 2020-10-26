@@ -27,7 +27,7 @@ Uber’s test vehicle was driving 39 mph when it struck Herzberg. Uber’s senso
 
 [https://jamesclear.com/goldilocks-rule](https://jamesclear.com/goldilocks-rule)
 
-### 3. Focus Super Powers with Nir Eyal -
+### 3. Focus Super Powers with Nir Eyal
 
  Podcast conversation with Nir Eyal. 
 
