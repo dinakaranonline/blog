@@ -10,6 +10,69 @@ title: Weekly RoundUp Series October 2020
 ---
 ## Interesting articles for the week ending 18 Oct 2020
 
+### 1. Uber’s Self-Driving Car Killed Someone. Why Isn’t Uber Being Charged?
+
+Interesting point of view.
+
+"Autonomous vehicle design involves an almost incomprehensible combination of engineering tasks including sensor fusion, path planning, and predictive modeling of human behavior. But despite the best efforts to consider all possible real world outcomes, things can go awry.
+More than two and a half years ago, in Tempe, Arizona, an Uber “self-driving” car crashed into pedestrian Elaine Herzberg, killing her. In mid-September, the safety driver behind the wheel of that car, Rafaela Vasquez, was charged with negligent homicide.
+
+Uber’s test vehicle was driving 39 mph when it struck Herzberg. Uber’s sensors detected her six seconds before impact but determined that the object sensed was a false positive. Uber’s engineers tuned the software to be less sensitive to unidentified objects in order to achieve a smoother ride. Uber also disabled the vehicle’s factory-installed automatic emergency braking system, which likely would have prevented the accident, in order to accurately test the capability of its own automated driving system. But Uber is not a defendant in this case."
+
+[https://slate.com/technology/2020/10/uber-self-driving-car-death-arizona-vs-vasquez.html](https://slate.com/technology/2020/10/uber-self-driving-car-death-arizona-vs-vasquez.html)
+
+### 2. The Goldilocks Rule to habit formation
+
+"The Goldilocks Rule states that humans experience peak motivation when working on tasks that are right on the edge of their current abilities. Not too hard. Not too easy. Just right"
+
+[https://jamesclear.com/goldilocks-rule](https://jamesclear.com/goldilocks-rule)
+
+### 3. Focus Super Powers with Nir Eyal -
+
+ Podcast conversation with Nir Eyal. 
+
+"You can always buy growth for your company. What you can’t buy is engagement. It has to be designed into the product." NFX partner James Currier talks with Nir Eyal, former instructor at Stanford’s Graduate School of Business and author of the bestseller, “Hooked: How to Build Habit-Forming Products.” 2013 His latest book, “Indistractable: How to Control Your Attention and Choose Your Life,” 2019 is out now. Nir walks us through his frameworks for product building, focus, traction, and building a culture centered around speed and growth"
+
+[https://podcast.nfx.com/episodes/nir-eyal-focus](https://podcast.nfx.com/episodes/nir-eyal-focus)
+
+### 4. State of AI, 2020 
+
+Good summary of all things, AI
+
+"Now in its third year, the State of AI Report 2020 features invited contributions from a range of well-known and up-and-coming companies and research groups. The Report considers the following key dimensions:
+Research: Technology breakthroughs and capabilities.
+Talent: Supply, demand and concentration of AI talent.
+Industry: Areas of commercial application for AI and its business impact.
+Politics: Regulation of AI, its economic implications and the emerging geopolitics of AI.
+Predictions: What we believe will happen and a performance review to keep us honest."
+
+[https://www.stateof.ai/](https://www.stateof.ai/)
+
+### 5. Did Microsoft do all this to win Developers' hearts?
+
+"In the last few years, Microsoft made me Wow many times. I feel like they are steering deep into the developers' community. Even though I am still a Java guy, I like the direction Microsoft is heading towards and couldn't help but respect and love.The following are such milestones with wow factor. They might not be in the order of their release timeline, just a random list of changes that I could recollect."
+
+[https://medium.com/dev-genius/did-microsoft-do-all-this-to-win-developers-hearts-ca2f2d78ec28](https://medium.com/dev-genius/did-microsoft-do-all-this-to-win-developers-hearts-ca2f2d78ec28)
+
+### 6. How to reframe a binary question?
+
+"If you want to cultivate a growth mindset, you need to change the questions you ask. Next time a binary question or a false dilemma comes up in the team, try to transform it into an adaptive question or solution-neutral problem statement. We often underestimate how a little effort can go a long way"
+
+[https://medium.dave-bailey.com/how-to-reframe-a-binary-question-7c9f3cb3f67e](https://medium.dave-bailey.com/how-to-reframe-a-binary-question-7c9f3cb3f67e)
+
+### 7.What will it take to build an Atmanirbhar App Store
+
+"Do we really need one? Or can we make one? After google announced that all apps selling digital products will be mandated to use google billing (and pay 30% cut to them), there has been a movement by some Indian startups to reign in Google’s unjustified move. Their demand includes an independent App store made in India for India."
+
+[https://growthbug.com/what-will-it-take-to-build-an-atmanirbhar-app-store-6169fab9f7a](https://growthbug.com/what-will-it-take-to-build-an-atmanirbhar-app-store-6169fab9f7a)
+
+That's all for this week
+
+========================================================================================
+
+
+## Interesting articles for the week ending 18 Oct 2020
+
 
 ### 1. Now you can search for a song just by humming it to Google. Sounds cool, right?
 
