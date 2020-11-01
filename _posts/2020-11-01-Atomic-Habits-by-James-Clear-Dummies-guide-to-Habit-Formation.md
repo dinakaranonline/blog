@@ -52,11 +52,13 @@ Out of all the 3 layers, identity-based behavioural change helps us in the long 
 - Standardize before optimize. Habit shaping can be used to model any new habits. For example, to become an early riser, the five phases can be.
 
 
-- Phase -1: Be home by 10 pm every night 
-- Phase -2: Have all devices turned off by 10 pm
-- Phase-3: Be in bed by 10 pm 
-- Phase-4: Lights of by 10 pm 
-- Phase-5: Wake up at 6 am every day.
+- Phase 1: Be home by 10 pm every night 
+- Phase 2: Have all devices turned off by 10 pm
+- Phase 3: Be in bed by 10 pm 
+- Phase 4: Lights of by 10 pm 
+- Phase 5: Wake up at 6 am every day
+
+
    
 
 **4. Make it satisfying**
