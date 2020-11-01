@@ -59,15 +59,13 @@ Out of all the 3 layers, identity-based behavioural change helps us in the long 
 - Phase 5: Wake up at 6 am every day
 
 
-   
-
 **4. Make it satisfying**
 
 When the experience of newly formed habits is satisfying, the more likely the behaviour will be repeated. Immediately rewarded are repeated while immediately punished is avoided. 
 
 Habit Tracker can be used to track progress. Also, try to not break the chain. Never miss twice. 
 
-**Goldilocks rule :**
+**Goldilocks rule**
 
 Humans achieve peak motivation when working on tasks that are right on the edge - it is not too easy but at the same time not too difficult. It is the Goldilocks rule . The right degree of difficulty will help us to move forward in a meaningful way. 
 
