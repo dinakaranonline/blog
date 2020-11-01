@@ -18,9 +18,10 @@ One of the main reasons many of the goals or habits that start well but slowly g
 
 **Three layers of behavioural change**
 
-Outcome - what you get 
-Process - what you do 
-Identity - what you believe
+- Outcome - what you get 
+- Process - what you do 
+- Identity - what you believe
+
 
 Out of all the 3 layers, identity-based behavioural change helps us in the long run to build the kind of habits that one wants to inculcate. 
 
