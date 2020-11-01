@@ -9,7 +9,7 @@ Habit has 4 distinct aspects and they are Cue, Craving, Action and Rewards. Succ
 
 One of the main reasons many of the goals or habits that start well but slowly gets abandoned is because of the lack of a proper system and process that are put in place by us.  
 
-**Three layers of behavioural change **
+**Three layers of behavioural change**
 
 Outcome - what you get 
 Process - what you do 
@@ -63,4 +63,4 @@ Showing up is vital. There are times when following up on a habit may be boring,
 
 Habits + Deliberate Practice with timely reflection and review can help us gain mastery. 
 
-That is a gist of all the interesting things. The book is pretty accessible and gives us systems, processes and pointers in helping us form good habits that can help us to align with our true identity of what we want to become. Improving ourselves 1% every day is quite an attractive proposition indeed.  
+That is a gist of all the interesting things. The book is pretty accessible and gives us systems, processes and pointers in helping us form good habits that can help us to align with our true identity of what we want to become. Improving ourselves 1% every day is quite an attractive proposition indeed.
