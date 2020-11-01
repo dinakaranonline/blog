@@ -29,33 +29,35 @@ Out of all the 3 layers, identity-based behavioural change helps us in the long 
 
 **1. Make it Obvious** 
 
-Use  a Habit scorecard to track the progress 
-Implementation intention - Be clear on when you want the habit to be followed. Date and Location can help to plan better.
-Habit Stacking - Build the first habit and then once the first habit seems second nature to us, build the second habit on top of it. Once I complete the first habit, I will pick up the second habit as well is an example of Habit Stacking. 
-Environment - Ensure the environment helps to make the habit possible without any distractions 
+- Use aHabit scorecard to track the progress 
+- Implementation intention - Be clear on when you want the habit to be followed. Date and Location can help to plan better.
+- Habit Stacking - Build the first habit and then once the first habit seems second nature to us, build the second habit on top of it. Once you complete the first habit, pick up the second habit as well is an example of Habit Stacking. 
+- Environment - Ensure the environment helps to make the habit possible without any distractions
+
+
 
 **2. Make  it attractive**
 
-Anticipation of the reward makes us take any action.
-Dopamine driven feedback loops help us follow the habit diligently.
-Temptation bundling involves pairing an action you want with an action you need.
-Role of friends and family can help immensely where the desired behaviour is normal behaviour. 
+- Anticipation of the reward makes us take any action.
+- Dopamine driven feedback loops help us follow the habit diligently.
+- Temptation bundling involves pairing an action you want with an action you need.
+- Role of friends and family can help immensely where the desired behaviour is normal behaviour.
+
 
 **3. Make it easy**
 
-Most of the time the habit that we set out to follow may be too overwhelming that we stop after some time because of the sheer effort or the energy it takes to follow through. So the recommendation is to build habits that are easy to follow through. And then increase the difficulty if required.
+- Most of the time the habit that we set out to follow may be too overwhelming that we stop after some time because of the sheer effort or the energy it takes to follow through. So the recommendation is to build habits that are easy to follow through. And then increase the difficulty if required.
+- Create an environment where it is easy to make the habit happen. Minimize the chances of distraction and increase the odds of making the habit happen. Reduce friction with good behaviours and increase friction with bad behaviours. 
+- Some examples of simple to follow habits are: Read one page before every night or 20 mins of yoga every day etc
+- Standardize before optimize. Habit shaping can be used to model any new habits. For example, to become an early riser, the five phases can be.
 
-Also, create an environment where it is easy to make the habit happen. Minimize the chances of distraction and increase the odds of making the habit happen. Reduce friction with good behaviours and increase friction with bad behaviours. 
 
-Some examples of simple to follow habits are: Read one page before every night or 20 mins of yoga every day etc
-
-Standardize before optimize. Habit shaping can be used to model any new habits. For example, to become an early riser, the five phases can be.
-
-Phase -1: Be home by 10 pm every night 
-Phase -2: Have all devices turned off by 10 pm
-Phase-3: Be in bed by 10 pm 
-Phase-4: Lights of by 10 pm 
-Phase-5: Wake up at 6 am every day.   
+- Phase -1: Be home by 10 pm every night 
+- Phase -2: Have all devices turned off by 10 pm
+- Phase-3: Be in bed by 10 pm 
+- Phase-4: Lights of by 10 pm 
+- Phase-5: Wake up at 6 am every day.
+   
 
 **4. Make it satisfying**
 
@@ -66,6 +68,8 @@ Habit Tracker can be used to track progress. Also, try to not break the chain. N
 **Goldilocks rule :**
 
 Humans achieve peak motivation when working on tasks that are right on the edge - it is not too easy but at the same time not too difficult. It is the Goldilocks rule . The right degree of difficulty will help us to move forward in a meaningful way. 
+
+**Winding up**
 
 Showing up is vital. There are times when following up on a habit may be boring, hard and we may be devoid of any energy or motivation. But you need to persist and keep moving forward.  Professionals stick to the schedule while amateurs let life get in the way. 
 
