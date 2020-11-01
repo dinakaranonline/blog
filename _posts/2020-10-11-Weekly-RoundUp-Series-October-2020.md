@@ -8,6 +8,55 @@ categories:
   - General
 title: Weekly RoundUp Series October 2020
 ---
+## Interesting articles for the last week of the month
+
+### 1. Apple, Google and a Deal That Controls the Internet
+
+Oh my !!!
+
+"Apple now receives an estimated $8 billion to $12 billion in annual payments — up from $1 billion a year in 2014 — in exchange for building Google’s search engine into its products. It is probably the single biggest payment that Google makes to anyone and accounts for 14 to 21 percent of Apple’s annual profits. That’s not money Apple would be eager to walk away from."
+
+[https://www.nytimes.com/2020/10/25/technology/apple-google-search-antitrust.html](https://www.nytimes.com/2020/10/25/technology/apple-google-search-antitrust.html)
+
+### 2. The luck vs skill debate: What if generating luck is actually a skill?
+
+"Can you succeed consistently from only hard work or from pure serendipity? Are some people inherently lucky or unlucky? Can luck be a skill? "
+
+[https://www.cnbctv18.com/views/the-luck-vs-skill-debate-what-if-generating-luck-is-actually-a-skill-7333291.htm](https://www.cnbctv18.com/views/the-luck-vs-skill-debate-what-if-generating-luck-is-actually-a-skill-7333291.htm)
+
+### 3. Google's new logos are bad
+
+"But sometimes they do something so senseless that it is incumbent upon anyone who cares at all to throw the company’s justification in its face and tell them they blew it; The last time I cared enough was with Google Reader. Since I and a hundred million other people will have to stare at these ugly new icons all day until they retire them, maybe making a little noise will accelerate that timeline a bit."
+
+[https://techcrunch.com/2020/10/06/googles-new-logos-are-bad/](https://techcrunch.com/2020/10/06/googles-new-logos-are-bad/)
+
+### 4. Zomato's use of Machine Learning for search
+
+"Are you the kind of person who has very specific cravings? Maybe when the mood hits, you don’t want just any kind of Indian food—you want Chicken Chettinad with a side of paratha, and nothing else will hit the spot! To help picky eaters satisfy their cravings, we at zomato have recently added enhanced search engine capabilities to our restaurant aggregation and food delivery platform. These capabilities enable us to recommend restaurants to zomato users based on searches for specific dishes. We power this functionality with machine learning (ML), using it to extract and structure text data from menu images. To develop this menu digitization technology, we partnered with Amazon ML Solutions Lab to explore the capabilities of the AWS ML Stack. "
+
+[https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/](https://aws.amazon.com/blogs/machine-learning/zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker/)
+
+### 5. Unintended consequences of using Machine Learning for translation, featuring Amazon Sweden
+
+"Many products on Amazon Sweden came from auto-translated listings on other Amazon marketplaces, but has unfortunately resulted in many wrong, sometimes comical, and even offensive Swedish translations"
+
+[https://www.cnbc.com/2020/10/28/amazon-launches-online-store-in-sweden.html](https://www.cnbc.com/2020/10/28/amazon-launches-online-store-in-sweden.html)
+
+### 6.Marriott fined £0.05 for each of the 339 million hotel guests whose data crooks were stealing for four years
+
+"Your name, address, phone number, email address, passport number, date of birth, and sex are worth just £0.05 in the eyes of the UK Information Commissioner's Office, which has fined Marriott £18.4m after 339 million people's data was stolen from the hotel chain.
+The fine was imposed as a regulatory punishment for the 2018 Starwood Hotels megabreach despite Marriott not accepting liability for wrongdoing. Although the attack was originally thought to have exposed half a billion records in the chain's guest reservation database, later investigations revised that figure downwards."
+
+[https://www.theregister.com/2020/10/30/marriott_starwood_hack_fine_just_18_4bn/](https://www.theregister.com/2020/10/30/marriott_starwood_hack_fine_just_18_4bn/)
+
+### 7.How My Boss Taught Me to Think Like a Leader
+
+"If you’re a leader, stop giving your team all of the answers and start asking them more questions. Yes, it will take more of your time upfront and it will likely be uncomfortable (maybe even painful) for both of you. But, it will also cultivate high-performing, empowered leaders in spades."
+
+[https://medium.com/swlh/how-my-boss-taught-me-to-think-like-a-leader-ea67565a22ac](https://medium.com/swlh/how-my-boss-taught-me-to-think-like-a-leader-ea67565a22ac)
+
+================================================================================================
+
 ## Interesting articles for the week ending 25 th Oct 2020
 
 ### 1. Uber’s Self-Driving Car Killed Someone. Why Isn’t Uber Being Charged?
