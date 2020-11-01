@@ -3,7 +3,7 @@ published: true
 title: Atomic Habits by James Clear - Dummies guide to Habit Formation
 layout: post
 author: dinakaran
-image: assets/images/atomic_habits.png
+image: assets/images/Atomic_Habits.png
 categories:
   - General
 ---
