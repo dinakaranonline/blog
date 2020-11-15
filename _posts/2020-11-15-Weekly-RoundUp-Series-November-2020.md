@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/weekly-roundup-oct-2020.jpg
+image: assets/images/weekly-roundup-nov-2020.jpg
 categories:
   - Technology
   - General
