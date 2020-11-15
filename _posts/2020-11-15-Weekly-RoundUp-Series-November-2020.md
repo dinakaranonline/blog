@@ -1,6 +1,15 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-oct-2020.jpg
+categories:
+  - Technology
+  - General
+  - Programming
+title: Weekly RoundUp Series November 2020
 ---
+
 ## Interesting articles that I read for the week ending 15th Nov,2020
 
 
