@@ -3,7 +3,6 @@ published: false
 ---
 Online Shopping is the future. eCommerce throughout the world is booming. We shop every single thing in the world except those products where touch and feel are rather important. For example, I never buy clothes online because of the issue with size or colour not being accurate. Same goes with other products too where the colour and actual perception of the product size is rather unclear. I choose to directly shop from the retail stores.
 
-https://staticimg.titan.co.in/Titan/Catalog/95104WM02_1.jpg
 
 My wife was recently looking for a new watch. And she had her mind set on a watch that has a tint of rose gold. We went through a lot of models in various eCommerce sites like Amazon, Flipkart and other sites that sell watches. Some of the issues that we had with the product details, description and images are : 
 
