@@ -1,5 +1,12 @@
 ---
-published: false
+published: true
+title: The Elusive search for Rose Gold Watch online and how Machine Learning can help
+layout: post
+author: dinakaran
+image: assets/images/watch-ml.jpg
+categories:
+  - General
+  - Technology
 ---
 Online Shopping is the future. eCommerce throughout the world is booming. We shop every single thing in the world except those products where touch and feel are rather important. For example, I never buy clothes online because of the issue with size or colour not being accurate. Same goes with other products too where the colour and actual perception of the product size is rather unclear. I choose to directly shop from the retail stores.
 
