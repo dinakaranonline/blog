@@ -56,7 +56,7 @@ The elimination of traditional constraints transforms the rules of competition. 
 
 [https://hbr.org/2020/01/competing-in-the-age-of-ai](https://hbr.org/2020/01/competing-in-the-age-of-ai)
 
-
+============================================================================
 
 
 ## Interesting articles that I read for the week ending 15th Nov,2020
