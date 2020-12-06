@@ -12,7 +12,7 @@ title: Weekly RoundUp Series December 2020
 
 ### Curation of all interesting content that I came across in the internet for the week ending 6th December,2020
 
-### 1. Google fired an AI ethics researcher and what was the researcher's paper all about? 
+### 1. Google fired an AI ethics researcher, but what was the researcher's paper all about? 
 
 Reading through the article , one interesting observation is the consequences of running Machine Learning Models at unprecedented levels and the environmental impact as a result of this. It should be interesting to see more people digging into this aspect in the days to come. 
 
