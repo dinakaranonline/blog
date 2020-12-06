@@ -10,6 +10,55 @@ categories:
 title: Weekly RoundUp Series November 2020
 ---
 
+## Interesting articles that I read for the week ending 29th Nov,2020
+
+After skipping for a week, a delayed publishing of all interesting articles I read for the week ending 29th November, 2020
+
+### 1. A Twitter Thread on Gorilla taxes 
+
+"If you’re a Startup trying to compete with a Megacorp—the 800-pound Gorilla in the space—you need to understand the tax inherent to being a Gorilla And then you need to make that tax work against the Gorilla—with your product's positioning & features A thread on Gorilla taxes"
+
+[https://twitter.com/shreyas/status/1332065861813694465](https://twitter.com/shreyas/status/1332065861813694465)
+
+### 2. The AWS outage that impacted the bells and webcams to stop functioning 
+
+"Amazon Web Services (AWS), Amazon’s internet infrastructure service that is the backbone of many websites and apps, experienced a multi-hour outage on Wednesday that affected a large portion of the internet. The service has been nearly fully restored as of 4:18AM ET on Thursday morning, according to Amazon."
+
+[https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet](https://www.theverge.com/2020/11/25/21719396/amazon-web-services-aws-outage-down-internet)
+
+### 3. How 99$ vest made Patagonia a billion-dollar brand 
+
+Remember Silicon Valley where Jared wears a vest. That is one of the popular choice for leaders and VC's in Silicon Valley. The Patagonia Better Sweater Fleece Vest is by far one of Patagonia’s most popular products. It’s also one of its most divisive.
+
+[https://www.cnbc.com/video/2020/11/24/how-a-99-vest-made-patagonia-a-billion-dollar-brand.html](https://www.cnbc.com/video/2020/11/24/how-a-99-vest-made-patagonia-a-billion-dollar-brand.html)
+
+### 4. Michelin Star Ratings for restaurants. But why does Michelin a tyre company rate restaurants and why it's very popular?
+
+I can literally dig this comment on the youtube video . 
+
+"Wait, the food Michelin is the same Michelin of the tires ? lmao I thought it was a common last name or something"
+
+[https://www.youtube.com/watch?v=afMsYAo1cXE](https://www.youtube.com/watch?v=afMsYAo1cXE)
+
+### 5. Netflix's Keeper Test
+
+"Hastings admitted the “Keeper Test” could be intimidating to some executives. Indeed, co-author Meyer wrote about one Netflix director who hadn’t unpacked their boxes after one year on the job. Hastings said the “test” is no different than what any professional athlete deals with facing a career-ending injury on every play.
+
+“We have to hire the psychological type that can put that aside and who aspires to work with great colleagues and that that’s their real love, is the quality of their colleagues or the consistency of that, versus the job security,” Hastings said.
+
+[https://www.mediaplaynews.com/reed-hastings-discusses-netflix-keeper-test-in-new-book/](https://www.mediaplaynews.com/reed-hastings-discusses-netflix-keeper-test-in-new-book/)
+
+### 6. Competing in the age of AI .
+
+"The age of AI is being ushered in by the emergence of this new kind of firm. Ant Financial’s cohort includes giants like Google, Facebook, Alibaba, and Tencent, and many smaller, rapidly growing firms, from Zebra Medical Vision and Wayfair to Indigo Ag and Ocado. Every time we use a service from one of those companies, the same remarkable thing happens: Rather than relying on traditional business processes operated by workers, managers, process engineers, supervisors, or customer service representatives, the value we get is served up by algorithms. Microsoft’s CEO, Satya Nadella, refers to AI as the new “runtime” of the firm. True, managers and engineers design the AI and the software that makes the algorithms work, but after that, the system delivers value on its own, through digital automation or by leveraging an ecosystem of providers outside the firm. AI sets the prices on Amazon, recommends songs on Spotify, matches buyers and sellers on Indigo’s marketplace, and qualifies borrowers for an Ant Financial loan.
+
+The elimination of traditional constraints transforms the rules of competition. As digital networks and algorithms are woven into the fabric of firms, industries begin to function differently and the lines between them blur. The changes extend well beyond born-digital firms, as more-traditional organizations, confronted by new rivals, move toward AI-based models too. Walmart, Fidelity, Honeywell, and Comcast are now tapping extensively into data, algorithms, and digital networks to compete convincingly in this new era. Whether you’re leading a digital start-up or working to revamp a traditional enterprise, it’s essential to understand the revolutionary impact AI has on operations, strategy, and competition."
+
+[https://hbr.org/2020/01/competing-in-the-age-of-ai](https://hbr.org/2020/01/competing-in-the-age-of-ai)
+
+
+
+
 ## Interesting articles that I read for the week ending 15th Nov,2020
 
 
