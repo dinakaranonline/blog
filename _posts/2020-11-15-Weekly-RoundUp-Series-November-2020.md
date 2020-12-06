@@ -20,7 +20,7 @@ After skipping for a week, a delayed publishing of all interesting articles I re
 
 [https://twitter.com/shreyas/status/1332065861813694465](https://twitter.com/shreyas/status/1332065861813694465)
 
-### 2. The AWS outage that impacted the bells and webcams to stop functioning 
+### 2. The AWS outage that impacted the IOT enabled door bells and webcams from functioning 
 
 "Amazon Web Services (AWS), Amazon’s internet infrastructure service that is the backbone of many websites and apps, experienced a multi-hour outage on Wednesday that affected a large portion of the internet. The service has been nearly fully restored as of 4:18AM ET on Thursday morning, according to Amazon."
 
