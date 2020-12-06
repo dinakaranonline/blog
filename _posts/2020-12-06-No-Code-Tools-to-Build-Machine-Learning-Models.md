@@ -1,7 +1,6 @@
 ---
 published: true
-title: >-
-  No Code Tools to Build Machine Learning Models
+title: No Code Tools to Build Machine Learning Models
 layout: post
 author: dinakaran
 image: assets/images/teachable-machines.jpg
@@ -17,7 +16,7 @@ While these work well in a limited context, there is a need to train machine lea
 
 Some of the no-code ML tools  are : 
 
-**1. Teachable Machines supported by Google :**
+**1. Teachable Machines supported by Google **
 
 Teachable Machines is a browser-based no-code Machine Learning Tool that can help us to build and train machine learning models. Once trained, these can be exported and integrated with the functionalities into our apps.
 
@@ -35,6 +34,6 @@ Lobe is another ML tool that helps us to train models similar to Teachable Machi
 
 [https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/](https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/)
 
-**What next? **
+**What next?**
 
-One of the reason companies are really trying to get Machine Learning accessible to all is because of the innovation that can be fuelled on top of these use-cases. Some of the hard problems that are associated with Machine Learning are getting simplified through a set of simple tools that can help anyone get started. Also,  the tough architectural challenges are also being solved by building custom products and the best practices  /processes around running ML models in production are also being widely discussed and evolved.  It should be very interesting to see how the Machine Learning space evolves in the next few years and how these new tools will be leveraged by builders throughout the world that can help to solve some pretty interesting problems. 
+One of the reason companies are really trying to get Machine Learning accessible to all is because of the innovation that can be fuelled on top of these use-cases. Some of the hard problems that are associated with Machine Learning are getting simplified through a set of simple tools that can help anyone get started. Also,  the tough architectural challenges are also being solved by building custom products and the best practices  /processes around running ML models in production are also being widely discussed and evolved.  It should be very interesting to see how the Machine Learning space evolves in the next few years and how these new tools will be leveraged by builders throughout the world that can help to solve some pretty interesting problems.
