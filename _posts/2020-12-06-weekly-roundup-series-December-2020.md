@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/weekly-roundup-dec-2020.png
+categories:
+  - Technology
+  - General
+  - Programming
+title: Weekly RoundUp Series December 2020
 ---
 
 ### Curation of all interesting content that I came across in the internet for the week ending 6th December,2020
