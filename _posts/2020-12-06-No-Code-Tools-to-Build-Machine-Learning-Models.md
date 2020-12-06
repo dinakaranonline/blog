@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+title: >-
+  No Code Tools to Build Machine Learning Models
+layout: post
+author: dinakaran
+image: assets/images/teachable-machines.jpg
+categories:
+  - Programming
+  - Technology
 ---
 Machine Learning is complex. There is a steep learning curve and it is a pretty daunting task even for developers and others in the tech to get started without PhD in Maths, Statistics and Algorithms.
 
