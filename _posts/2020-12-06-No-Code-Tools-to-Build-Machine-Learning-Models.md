@@ -16,9 +16,9 @@ While these work well in a limited context, there is a need to train machine lea
 
 Some of the no-code ML tools  are : 
 
-**1. Teachable Machines supported by Google**
+**1. Teachable Machine supported by Google**
 
-Teachable Machines is a browser-based no-code Machine Learning Tool that can help us to build and train machine learning models. Once trained, these can be exported and integrated with the functionalities into our apps.
+Teachable Machine is a browser-based no-code Machine Learning Tool that can help us to build and train machine learning models. Once trained, these can be exported and integrated with the functionalities into our apps.
 
 This tool helps anyone to train ML model using images, sound and poses right from the comfort of a browser and webcam. The alluring aspect of this is the easy-to-use nice interface that can help to easily build models with minimal effort without the need for any coding. 
 
