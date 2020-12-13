@@ -9,8 +9,59 @@ categories:
   - Programming
 title: Weekly RoundUp Series December 2020
 ---
+## Curation of all interesting content that I came across in the internet for the week ending 13th December,2020
 
-### Curation of all interesting content that I came across in the internet for the week ending 6th December,2020
+
+### 1. There are too many MBA's in America 
+
+“I think that there might be too many MBAs running companies,” Musk said Tuesday at the WSJ CEO Summit. This “MBA-ization of America,” isn’t great, Musk said, especially when it comes to product innovation. Big corporate CEOs often get caught up in the numbers and lose sight of their mission, which is to create “awesome” products or services, according to Musk. “There should be more focus on the product or service itself, less time on board meetings, less time on financials.”
+
+[https://www.cnbc.com/2020/12/09/elon-musk-on-the-problem-with-corporate-america-too-many-mbas-.html](https://www.cnbc.com/2020/12/09/elon-musk-on-the-problem-with-corporate-america-too-many-mbas-.html)
+
+### 2. The Google Disease Afflicting AWS 
+
+"Can you really tell me the differences between SAM, SAR, CodeStar, Proton, Service Catalog, and the Service Catalog AppRegistry? Because without getting deep into minutiae, I can’t. How is someone supposed to figure out which of these remarkably similar half-dozen services supports their use case?
+
+It really feels to me that the product strategy at AWS has grown increasingly top-heavy, with contradictory and confusing service collisions in an overly crowded console, which represents a clear misalignment between their product strategy and leadership principles.
+I like and enjoy using AWS services. But I’m facing increasing doubt that I’m “using the right one” as I go about building things, and I’m sure I’m not the only one."
+
+[https://www.lastweekinaws.com/blog/the-google-disease-afflicting-aws/](https://www.lastweekinaws.com/blog/the-google-disease-afflicting-aws/)
+
+### 3. Top 8 trends shaping digital transformation in 2021
+
+Here are the top 8 trends shaping digital transformation in 2021. 
+
+[https://www.zdnet.com/article/top-8-trends-shaping-digital-transformation-in-2021/](https://www.zdnet.com/article/top-8-trends-shaping-digital-transformation-in-2021/)
+
+### 4. Jeff Bezo's letters 
+
+"I read the book Invent and Wander last week, which is essentially a collection of Jeff Bezos’s letters to shareholders and interviews. While I had read some of his letters prior and many of them often make the rounds on social media, it was nice to read them all in order and almost be able to piece together the progression of Amazon over the past ~25 years."
+
+[https://tanay.substack.com/p/the-bezos-letters](https://tanay.substack.com/p/the-bezos-letters)
+
+### 5. Big Data will be dead in 5 years 
+
+"Big data is a great marketing term but in reality, that’s all that it is. It’s a term used to excite business executives to make them feel like Google or Amazon. The reality is that big data doesn’t mean anything and its meaning is only going to reduce.
+
+As companies become more familiar with data processing and service providers abstract away more complexity, big data will just become data. Big data engineers will just become data engineers and any data engineer worth their salt will be handling what we now call “big data processing”.
+Fear not though, this doesn’t mean your big data knowledge is obsolete, just that its name might not mean as much as it once did."
+
+[https://towardsdatascience.com/big-data-will-be-dead-in-5-years-ef4344269aef](https://towardsdatascience.com/big-data-will-be-dead-in-5-years-ef4344269aef)
+
+### 6. AI for Chat Support, What's Possible and What's Working
+
+AI for Chat Support, What's Possible and What's Working - Podcast with Abinash Tripathy of Helpshift. This episode's topics include: chatbot capabilities, best/worst AI deployment approaches, lessons learned, and which problems are solvable with AI
+
+[https://podcasts.google.com/feed/aHR0cHM6Ly90ZWNoZW1lcmdlbmNlLmxpYnN5bi5jb20vcnNz/episode/NDgwY2MzODgtMTI5OC00N2YzLTg0ZjYtYjk2MjI0N2FiYjcx?sa=X&ved=0CAUQkfYCahcKEwiw0viX4srtAhUAAAAAHQAAAAAQCQ](https://podcasts.google.com/feed/aHR0cHM6Ly90ZWNoZW1lcmdlbmNlLmxpYnN5bi5jb20vcnNz/episode/NDgwY2MzODgtMTI5OC00N2YzLTg0ZjYtYjk2MjI0N2FiYjcx?sa=X&ved=0CAUQkfYCahcKEwiw0viX4srtAhUAAAAAHQAAAAAQCQ)
+
+
+
+===================================================================================
+
+
+## Curation of all interesting content that I came across in the internet for the week ending 6th December,2020
+
+
 
 ### 1. Google fired an AI ethics researcher, but what was the researcher's paper all about? 
 
