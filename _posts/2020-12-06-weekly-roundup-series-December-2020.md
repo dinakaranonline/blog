@@ -9,6 +9,72 @@ categories:
   - Programming
 title: Weekly RoundUp Series December 2020
 ---
+## Curation of all interesting content that I came across in the internet for the week ending 20th December,2020
+
+### 1. What Happens When the 1% Go Remote
+
+"As more Americans, especially the 1%, have flexibility about where they work, city and state governments will need to develop new revenue models that account for the locations of both the people and their businesses. When an advantaged class can live thousands of miles away from where they work and own assets, it deprives cities of a vital source of revenue. When it comes to choosing where we live, it is often said we vote with our feet. What some members of the 1% are doing to cities is more like a kick in the teeth."
+
+[https://www.bloomberg.com/news/articles/2020-12-16/what-happens-when-the-1-move-to-miami-and-austin](https://www.bloomberg.com/news/articles/2020-12-16/what-happens-when-the-1-move-to-miami-and-austin)
+
+### 2. Facebook Criticising Apple’s iOS 14 Privacy Changes is a Hypocrisy
+
+"This means advertisement agencies can no longer track users across apps and websites without their consent.
+At the moment, over 100K apps on the App Store use the Facebook SDK to track user activity, run campaigns, record ad clicks, usage time, and subsequently serve personalized advertisements. Understandably Facebook pays them a huge share. But with iOS 14 advertisement agencies are about to stare at diminished returns since they would no longer be able to track a single user as effectively.This led to an outcry by Facebook a few months back. They called it a foul play"
+
+[https://thebigtech.substack.com/p/facebook-criticising-apples-ios-14](https://thebigtech.substack.com/p/facebook-criticising-apples-ios-14)
+
+And a full-page advt from Facebook. Ha ha ha. 
+
+[https://www.theverge.com/2020/12/16/22178068/facebook-apple-newspaper-ads-ios-privacy-changes](https://www.theverge.com/2020/12/16/22178068/facebook-apple-newspaper-ads-ios-privacy-changes)
+
+
+### 3.  Google's AMP is thrash, everyone's jumping ship 
+
+"The stated goal of the AMP AC is to “make AMP a great web citizen.”
+I am concerned that – despite the hard work of the AC – Google has limited interest in that goal. When I joined, I wondered whether I could make a difference. I hope that I have been a critical friend. The AC has encouraged AMP to think more about user needs – rather than Google’s needs. And changes to the search carousel were also a concern of the committee which have been partly addressed.
+
+Google’s thesis is that the mobile-web is dying and people prefer to use apps – therefore making the web faster and more app-like will retain users. Google don’t publish data about this, so I can’t directly criticise their motives. But I do not think AMP, in its current implementation, helps make the web better. I remain convinced that AMP is poorly implemented, hostile to the interests of both users and publishers, and a proprietary & unnecessary incursion into the open web"
+
+[https://shkspr.mobi/blog/2020/12/i-have-resigned-from-the-google-amp-advisory-committee/](https://shkspr.mobi/blog/2020/12/i-have-resigned-from-the-google-amp-advisory-committee/)
+
+### 4. Microsoft Designing Its Own Chips for Servers, Surface PCs
+ 
+Following Apple, Microsoft also attempting at its own chips for servers running the cloud and surface devices. Intel is going to have a really hard time.  
+
+[https://www.bloomberg.com/news/articles/2020-12-18/microsoft-is-designing-its-own-chips-for-servers-surface-pcs](https://www.bloomberg.com/news/articles/2020-12-18/microsoft-is-designing-its-own-chips-for-servers-surface-pcs)
+
+### 5. Gitflow vs Trunk Based Development - what is your preference?
+
+"Each Version Control System methodology has it’s own pros and cons, we need suitable methodology based on project requirement (project type, team experience, iteration type, product scale)."
+
+[https://medium.com/@vafrcor2009/gitflow-vs-trunk-based-development-3beff578030b](https://medium.com/@vafrcor2009/gitflow-vs-trunk-based-development-3beff578030b)
+
+### 6. AWS Lambda is winning, but first it had to die
+
+"Major feature changes have successfully pushed Lambda workloads into the mainstream, even if FaaS purists feel betrayed"
+
+[https://acloudguru.com/blog/engineering/aws-lambda-is-winning-but-first-it-had-to-die](https://acloudguru.com/blog/engineering/aws-lambda-is-winning-but-first-it-had-to-die)
+
+### 7. Life of a Netflix Partner Engineer — The case of the extra 40 ms
+
+"The Netflix application runs on hundreds of smart TVs, streaming sticks and pay TV set top boxes. The role of a Partner Engineer at Netflix is to help device manufacturers launch the Netflix application on their devices. In this article we talk about one particularly difficult issue that blocked the launch of a device in Europe. 
+
+This wasn’t the last bug we fixed on this platform, but it was the hardest to track down. It was outside of the Netflix application, in a part of the system that was outside of the playback pipeline, and all of the initial data pointed to a bug in the Netflix application itself."
+
+[https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513](https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513)
+
+### 8. Fear of Better Options (FOBO) is The Reason You Can’t Make a Tough Decision
+
+"fear of better options, a phenomenon also called “maximization” is the relentless pursuit of all possible options for fear that you’ll miss out on the “best” one, leading to indecision, frustration, stress, regret, and unhappiness"
+
+
+https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
+
+That's all for this week. 
+
+=============================================================================================
+
 ## Curation of all interesting content that I came across in the internet for the week ending 13th December,2020
 
 
