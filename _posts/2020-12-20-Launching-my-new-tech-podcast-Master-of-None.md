@@ -21,7 +21,7 @@ I have created one of my very first episodes that talk about "The Serverless Min
 
 [https://open.spotify.com/episode/01Qq9XJq4u0nLbwIsR1cAZ?si=yaL3ZKrFTmKVvUkAj4RxCQ](https://open.spotify.com/episode/01Qq9XJq4u0nLbwIsR1cAZ?si=yaL3ZKrFTmKVvUkAj4RxCQ)
 
-And another episode bit big longer at 29 minutes is around the Hype Around Cloud. In the last 5 to 6 years, there is a lot of hype and momentum around Cloud. A lot of traditional businesses, governments, startups and freelance developers have started using the cloud. There are a lot of job opportunities too these days. To understand the demand, it is useful to jog down the memory lane to see how applications were built before and how things have changed in the last 10 years and how Cloud is going to evolve in the next decade.
+And another episode bit longer at 29 minutes is around the Hype Around Cloud. In the last 5 to 6 years, there is a lot of hype and momentum around Cloud. A lot of traditional businesses, governments, startups and freelance developers have started using the cloud. There are a lot of job opportunities too these days. To understand the demand, it is useful to jog down the memory lane to see how applications were built before and how things have changed in the last 10 years and how Cloud is going to evolve in the next decade.
 
 [https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA](https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA)
 
