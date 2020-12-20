@@ -69,7 +69,7 @@ This wasn’t the last bug we fixed on this platform, but it was the hardest to 
 "fear of better options, a phenomenon also called “maximization” is the relentless pursuit of all possible options for fear that you’ll miss out on the “best” one, leading to indecision, frustration, stress, regret, and unhappiness"
 
 
-https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4
+[https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4](https://medium.com/swlh/fobo-fear-of-better-options-is-the-reason-you-cant-make-a-decision-294fb91c18f4)
 
 That's all for this week. 
 
