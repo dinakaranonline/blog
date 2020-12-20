@@ -3,7 +3,7 @@ published: true
 title: Launching my new tech podcast Master Of None
 layout: post
 author: dinakaran
-image: assets/images/teachable-machines.jpg
+image: assets/images/master-of-none.png
 categories:
   - Programming
   - Technology
@@ -33,17 +33,4 @@ Permission to publish to other podcasts like Apple and Google is still being awa
 
 I'm really curious and excited as to where this journey would lead me to. If there are any specific area/ topics that you are curious and interested to understand better, please let me know. I will try to cover as part of future episodes.
 
-Hope you like it. 
-
- 
- 
-
-
-
-
-
-
-
-
-
-  
+Hope you like it.
