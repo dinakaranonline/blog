@@ -1,6 +1,14 @@
 ---
-published: false
+published: true
+title: Launching my new tech podcast Master Of None
+layout: post
+author: dinakaran
+image: assets/images/teachable-machines.jpg
+categories:
+  - Programming
+  - Technology
 ---
+
 As we near the end of 2020 with the entire world getting into podcasting big time and podcast becoming mainstream, I do not want to become left out. Because I love to experiment with all things new and shiny. So jumping into the bandwagon and created my new podcast 'Master Of None'. 
 
 Through this Master Of None podcast, I would like to provide a running commentary on the emerging and new trends in the tech industry focussing predominantly on the intersection of cloud, programming, architecture, DevOps, machine learning and security. I hope you find the topics discussed in the podcast interesting. 
