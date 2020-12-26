@@ -26,9 +26,13 @@ And another episode bit longer at 29 minutes is around the Hype Around Cloud. In
 
 [https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA](https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA)
 
-To get latest episodes, please subscribe to my podcast on Spotify here : 
+To get latest episodes, please subscribe to my podcast on Spotify here :
 
 [https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)
+
+
+Google Podcast : [https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)
+
 
 Permission to publish to other podcasts like Apple and Google is still being awaited.
 
