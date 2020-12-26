@@ -4,6 +4,7 @@ title: Launching my new tech podcast Master Of None
 layout: post
 author: dinakaran
 image: assets/images/master-of-none.png
+featured: true
 categories:
   - Programming
   - Technology
