@@ -3,6 +3,7 @@ published: true
 layout: post
 author: dinakaran
 image: assets/images/vendor-lockin.png
+featured: true
 categories:
   - Programming
   - Technology
