@@ -4,7 +4,7 @@ title: Lessons from Hertz Accenture Digital Transformation LawSuit
 author: dinakaran
 image: assets/images/digitalTransformation.jpg
 published: true
-featured: true
+featured: false
 categories: [ Programming ]
 ---
 
