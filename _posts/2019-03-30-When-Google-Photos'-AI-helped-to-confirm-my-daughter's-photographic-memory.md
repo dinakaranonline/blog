@@ -4,7 +4,7 @@ title: When Google Photos' AI helped to confirm my daughter's photographic memor
 author: dinakaran
 image: assets/images/google-ai.jpg
 published: true
-featured: true
+featured: false
 categories: [ General, Technology ]
 youtubeId: suRDUFpsHus
 ---
