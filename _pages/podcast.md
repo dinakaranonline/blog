@@ -18,6 +18,8 @@ To get latest episodes, please subscribe to my podcast here :
 
 [https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)
 
+<iframe src="https://open.spotify.com/embed-podcast/show/4gFFUZ8Vl3dVKDOFwauRIe" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 **Google Podcast :**
 
 [https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)
