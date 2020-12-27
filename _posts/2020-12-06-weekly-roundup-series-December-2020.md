@@ -9,6 +9,57 @@ categories:
   - Programming
 title: Weekly RoundUp Series December 2020
 ---
+## Curation of all interesting content that I came across in the internet for the week ending 27th  December,2020
+
+### 1. KFC's new gaming console that can keep chicken warm
+
+"In the history of gaming, there has never been a cutting-edge console that can also keep your fried chicken crispy and warm. Until now."
+
+[https://collider.com/kfconsole-real-specs-price-release-date-details/](https://collider.com/kfconsole-real-specs-price-release-date-details/)
+
+### 2. How Amazon Wins: By Steamrolling Rivals and Partners
+
+More and more evidence of abusive behaviour of the monopoly bully
+
+"No competitor is too small to draw Amazon’s sights. It cloned a line of camera tripods that a small outside company sold on Amazon’s site, hurting the vendor’s sales so badly it is now a fraction of its original size, the little firm’s owner said. Amazon said it didn’t violate the company’s intellectual-property rights. When Amazon decided to compete with furniture retailer Wayfair Inc., Mr. Bezos’s deputies created what they called the Wayfair Parity Team, which studied how Wayfair procured, sold and delivered bulky furniture, eventually replicating a majority of its offerings, said people who worked on the team"
+
+[https://www.wsj.com/articles/amazon-competition-shopify-wayfair-allbirds-antitrust-11608235127](https://www.wsj.com/articles/amazon-competition-shopify-wayfair-allbirds-antitrust-11608235127)
+
+### 3. Platforms, bundling and kill zones
+
+"What does it mean when Google, Microsoft or Apple turn your whole company into a feature? When do we let a tech giant build and when do we call the anti-trust lawyers? And what does that mean for Spotify, Yelp or printing in landscape?"
+
+[https://www.ben-evans.com/benedictevans/2020/12/21/google-bundling-and-kill-zones](https://www.ben-evans.com/benedictevans/2020/12/21/google-bundling-and-kill-zones)
+
+### 4. Benefits of Laziness
+
+“Progress isn’t made by early risers. It’s made by lazy men trying to find easier ways to do something.” — Robert A. Heinlein, aeronautical engineer, Naval officer, and science-fiction author.
+
+[https://nesslabs.com/benefits-of-laziness](https://nesslabs.com/benefits-of-laziness)
+
+### 5.How to Become Architect from Developer in 2021 
+
+"Should you become an architect from developer? What are the steps of becoming an architect from programmer or developer background."
+
+[https://youtu.be/q7kGtEUpDJ8](https://youtu.be/q7kGtEUpDJ8)
+
+### 6. Gold isn’t rare. So why is it valuable?
+
+Gold is arguably the most precious metal in the world, but how rare is it really? We went on our own gold panning expedition to find out. 
+
+[https://www.youtube.com/watch?v=uhZW4Rofa3Y](https://www.youtube.com/watch?v=uhZW4Rofa3Y)
+
+### 7. "Be a Platform", podcast with Shopify Founder Tobi
+
+ Tobi Lütke knows the secret to massive scale. It's to be a platform. Build a virtuous cycle where everyone wins, and you’ll emerge the biggest winner of all. This is what Lütke did when he built Shopify – and then opened it up to the world.
+
+[https://mastersofscale.com/tobi-lutke-be-a-platform/](https://mastersofscale.com/tobi-lutke-be-a-platform/)
+
+That's all for the week.
+
+
+=======================================================================
+
 ## Curation of all interesting content that I came across in the internet for the week ending 20th December,2020
 
 ### 1. What Happens When the 1% Go Remote
