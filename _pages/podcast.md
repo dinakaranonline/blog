@@ -36,13 +36,17 @@ The Hype Around Cloud. In the last 5 to 6 years, there is a lot of hype and mome
 
 [https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA](https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA)
 
-**2.The Serverless Mindset : ~ 30 min** 
+**2.The Serverless Mindset : ~ 15 mins** 
 
 “The Serverless Mindset”. In this 15 min talk, I discuss what The Serverless Mindset is all about. What is Serverless and how do we go about architecting and designing applications leveraging the various offering from cloud and saas providers using the low code / no code and low infra / no infra mindset.
 
 [https://open.spotify.com/episode/01Qq9XJq4u0nLbwIsR1cAZ?si=yaL3ZKrFTmKVvUkAj4RxCQ](https://open.spotify.com/episode/01Qq9XJq4u0nLbwIsR1cAZ?si=yaL3ZKrFTmKVvUkAj4RxCQ)
 
 
+**3. Event Driven Architecture : ~ 30 mins**
 
+Event Driven Architecture has been much talked about with the evolution of distributed systems , cloud and microservices. In this episode , we would be discussing on the challenges with the distributed system and microservices and how to build applications that are decoupled yet communicate with each other asynchronously. Also we have smart devices like sensors pushing in lot of data at scale and we need to find efficient ways to handle these as well. Discussion on the different ways of implementing Event Driven Architecture - Reactive Event Driven Systems aka Message Queue - Publisher Subscriber pattern vs Event Streaming aka Logs. We will also look at typical use-cases where each of these pattern fit and finally wrapping with pros and cons of an event driven architecture.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/3ipOORm1iujf2wDUTJt4ac" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Hope you like it.
