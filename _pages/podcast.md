@@ -24,7 +24,7 @@ To get latest episodes, please subscribe to my podcast here :
 
 [https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)
 
-Permission to publish to other podcasts like Apple and Google is still being awaited.
+Permission to publish to Apple podcasts is still being awaited.
 
 I’m really curious and excited as to where this journey would lead me to. If there are any specific area/ topics that you are curious and interested to understand better, please let me know. I will try to cover as part of future episodes.
 
