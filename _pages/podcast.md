@@ -17,15 +17,7 @@ I’m creating this podcast entirely through the mobile app called Anchor FM. Th
 
 To get latest episodes, please subscribe to my podcast here :
 
-**Spotify Podcast :**
-
-[https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)
-
-**Google Podcast :**
-
-[https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)
-
-
+**[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC) :**
 
 Permission to publish to Apple podcasts is still being awaited.
 
