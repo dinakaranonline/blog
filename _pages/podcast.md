@@ -15,9 +15,7 @@ _Through this Master Of None podcast, I would like to provide a running commenta
 I’m creating this podcast entirely through the mobile app called Anchor FM. This app helps to record and publish to podcasts to all major platforms like Spotify, Apple Podcasts and Google Podcasts. It makes the creation and publishing part relatively easier. Spotify has bought this app and is looking to become the epicentre of all things about podcasting. There are some monetisation options available for podcast creators based out of US only at this point of time.
 
 
-To get latest episodes, please subscribe to my podcast here :
-
-**[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC) :**
+To get latest episodes, please subscribe to my podcast here : **[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
 
 Permission to publish to Apple podcasts is still being awaited.
 
