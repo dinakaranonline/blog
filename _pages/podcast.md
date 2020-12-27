@@ -5,9 +5,12 @@ permalink: /podcast
 comments: false
 published: true
 ---
-As we near the end of 2020 with the entire world getting into podcasting big time and podcast becoming mainstream, I do not want to become left out. Because I love to experiment with all things new and shiny. So jumping into the bandwagon and created my new podcast ‘Master Of None’.
+As we near the end of 2020 with the entire world getting into podcasting big time and podcast becoming mainstream, I do not want to become left out. Because I love to experiment with all things new and shiny. So jumping into the bandwagon and created my new podcast ‘**Master Of None**’.
 
-Through this Master Of None podcast, I would like to provide a running commentary on the emerging and new trends in the tech industry focussing predominantly on the intersection of cloud, programming, architecture, DevOps, machine learning and security. I hope you find the topics discussed in the podcast interesting.
+![master-of-none.png]({{site.baseurl}}/_pages/master-of-none.png)
+
+
+_Through this Master Of None podcast, I would like to provide a running commentary on the emerging and new trends in the tech industry focussing predominantly on the intersection of cloud, programming, architecture, DevOps, machine learning and security. I hope you find the topics discussed in the podcast interesting._
 
 I’m creating this podcast entirely through the mobile app called Anchor FM. This app helps to record and publish to podcasts to all major platforms like Spotify, Apple Podcasts and Google Podcasts. It makes the creation and publishing part relatively easier. Spotify has bought this app and is looking to become the epicentre of all things about podcasting. There are some monetisation options available for podcast creators based out of US only at this point of time.
 
