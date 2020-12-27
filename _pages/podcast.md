@@ -34,13 +34,13 @@ I’m really curious and excited as to where this journey would lead me to. If t
 
 The Hype Around Cloud. In the last 5 to 6 years, there is a lot of hype and momentum around Cloud. A lot of traditional businesses, governments, startups and freelance developers have started using the cloud. There are a lot of job opportunities too these days. To understand the demand, it is useful to jog down the memory lane to see how applications were built before and how things have changed in the last 10 years and how Cloud is going to evolve in the next decade.
 
-[https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA](https://open.spotify.com/episode/6YonFIi2XXj2lyNVOdBm7Y?si=j5dfvvcSTPW6v0AcLBoeQA)
+<iframe src="https://open.spotify.com/embed-podcast/episode/6YonFIi2XXj2lyNVOdBm7Y" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 **2.The Serverless Mindset : ~ 15 mins** 
 
 “The Serverless Mindset”. In this 15 min talk, I discuss what The Serverless Mindset is all about. What is Serverless and how do we go about architecting and designing applications leveraging the various offering from cloud and saas providers using the low code / no code and low infra / no infra mindset.
 
-[https://open.spotify.com/episode/01Qq9XJq4u0nLbwIsR1cAZ?si=yaL3ZKrFTmKVvUkAj4RxCQ](https://open.spotify.com/episode/01Qq9XJq4u0nLbwIsR1cAZ?si=yaL3ZKrFTmKVvUkAj4RxCQ)
+<iframe src="https://open.spotify.com/embed-podcast/episode/01Qq9XJq4u0nLbwIsR1cAZ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 **3. Event Driven Architecture : ~ 30 mins**
