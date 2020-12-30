@@ -53,7 +53,7 @@ Event Driven Architecture has been much talked about with the evolution of distr
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/3ipOORm1iujf2wDUTJt4ac" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-**4. CDN and it's evolution to Edge Computing : ~ 30 mins**
+**4. CDN and it's evolution to Edge Computing : ~ 33 mins**
 
 CDN Content Delivery Networks have been there for decades. In this episode, we try to understand what CDN is and the general use case where CDN may be a good fit. We also look at the main components that are available in a typical CDN. We also explore the various caching mechanisms of Push vs Pull, cache invalidation strategies . Also a brief look at diferent types of CDN like Public CDN vs Private CDN and Image CDN and Media CDN. We also discuss how CDN can help from security aspect, be it DDOS attack or acting as Web Application Firewall for OWASP based attacks. Finally delving into newer trends of CDN being used at a Compute level with Edge Computing with 3 main uses being 1. JAM stack for building modern server side rendered web applications 2. IOT devices that may perform small pre and post processing and deployment of AI/ML models at Edge for inference and finally 3. Edge Computing for 5G networks to serve content with milli second latency. I hope you find the topics discussed in the episode pretty useful.
 
