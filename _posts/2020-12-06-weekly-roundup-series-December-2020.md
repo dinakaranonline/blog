@@ -107,6 +107,8 @@ More and more evidence of abusive behaviour of the monopoly bully
 
 [https://youtu.be/q7kGtEUpDJ8](https://youtu.be/q7kGtEUpDJ8)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q7kGtEUpDJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 6. Gold isn’t rare. So why is it valuable?
 
 Gold is arguably the most precious metal in the world, but how rare is it really? We went on our own gold panning expedition to find out. 
