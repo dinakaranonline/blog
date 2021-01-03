@@ -105,7 +105,6 @@ More and more evidence of abusive behaviour of the monopoly bully
 
 "Should you become an architect from developer? What are the steps of becoming an architect from programmer or developer background."
 
-[https://youtu.be/q7kGtEUpDJ8](https://youtu.be/q7kGtEUpDJ8)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q7kGtEUpDJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -113,7 +112,6 @@ More and more evidence of abusive behaviour of the monopoly bully
 
 Gold is arguably the most precious metal in the world, but how rare is it really? We went on our own gold panning expedition to find out. 
 
-[https://www.youtube.com/watch?v=uhZW4Rofa3Y](https://www.youtube.com/watch?v=uhZW4Rofa3Y)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uhZW4Rofa3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
