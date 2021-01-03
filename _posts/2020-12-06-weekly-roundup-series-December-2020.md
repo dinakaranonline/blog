@@ -115,6 +115,8 @@ Gold is arguably the most precious metal in the world, but how rare is it really
 
 [https://www.youtube.com/watch?v=uhZW4Rofa3Y](https://www.youtube.com/watch?v=uhZW4Rofa3Y)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uhZW4Rofa3Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### 7. "Be a Platform", podcast with Shopify Founder Tobi
 
  Tobi Lütke knows the secret to massive scale. It's to be a platform. Build a virtuous cycle where everyone wins, and you’ll emerge the biggest winner of all. This is what Lütke did when he built Shopify – and then opened it up to the world.
