@@ -9,6 +9,70 @@ categories:
   - Programming
 title: Weekly RoundUp Series December 2020
 ---
+## Curation of all interesting content that I came across in the internet till 31st December,2020
+
+### 1. Tracking India's school toppers 
+
+"They are India’s national school board toppers over 20 years. So it’s no surprise that one’s a cancer physician in New York; another is a PhD fellow at MIT; one is a Harvard professor; one a hedge fund manager in Singapore — and as many as 11 are working for Google. More than half the toppers live overseas today, the US being the destination of choice. Most are in science and technology with IITs their most favoured undergraduate pit-stop; more than half of them grew up outside metros, in Tier 2 and Tier 3 cities, and only one is a minority — there’s not one Dalit or tribal. And if you are a girl topper, you are much less likely to move overseas than if you were a boy.
+
+These are among the key findings of the four-month investigation by The Indian Express that tracked down 86 men and women who stood first in India, between 1996 and 2015, in their Class 10 and 12 exams conducted by the Central Board of Secondary Education (CBSE) and the Council for the Indian School Certificate Examinations."
+
+[https://indianexpress.com/article/express-exclusive/tracking-indias-school-toppers-cbse-icse-7121532/](https://indianexpress.com/article/express-exclusive/tracking-indias-school-toppers-cbse-icse-7121532/)
+
+### 2. Follow your passion is the worst advice given to youngsters 
+
+Prof. Scott Galloway on the advice of Follow your passion calling it as BS and frequently uttered by the rich
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A no-bullshit piece of advice by <a href="https://twitter.com/profgalloway?ref_src=twsrc%5Etfw">@profgalloway</a> <a href="https://t.co/7uC2MWBdcZ">pic.twitter.com/7uC2MWBdcZ</a></p>&mdash; mouneer rabie (@mouneer) <a href="https://twitter.com/mouneer/status/1342559926611271681?ref_src=twsrc%5Etfw">December 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### 3.Mission Coimbatore: Two SaaS founders want “Kovai” to be the next SaaS hub
+
+"What’s the first thought that gets triggered when you hear a mention of Coimbatore? For me, it’s always been the city’s entrepreneurial spirit. Much before startups became a cool word to go around, Coimbatore’s entrepreneurs have been busy creating enterprises, failing, learning, and growing. It’s called “the Manchester of South India” for a solid reason. 
+So it was a delight to record this conversation with Ganesh Shankar, CEO of RFPIO, and Saravana Kumar, co-founder of Kovai.co–the two entrepreneurs who hail from Coimbatore, and who are now working relentlessly to make the city a next-generation SaaS hub. 
+What’s even more heartening is to learn how India SaaS pioneer Zoho and poster child Freshworks are inspiring this new wave"
+
+[https://saasboomi.com/mission-coimbatore-two-saas-founders-want-kovai-to-be-the-next-saas-hub/](https://saasboomi.com/mission-coimbatore-two-saas-founders-want-kovai-to-be-the-next-saas-hub/)
+
+### 4. Jiddu Krishnamurti on pursuing fame.
+
+"Pursuing fame should come secondary to the work, as Jiddu Krishnamurti explains so beautifully in the paragraph below"
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Pursuing fame should come secondary to the work, as Jiddu Krishnamurti explains so beautifully in the paragraph below <a href="https://t.co/Y4iwfvGSpo">pic.twitter.com/Y4iwfvGSpo</a></p>&mdash; David Perell (@david_perell) <a href="https://twitter.com/david_perell/status/1343570351075291138?ref_src=twsrc%5Etfw">December 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 5.Web Architecture 101
+
+"The basic architecture concepts I wish I knew when I was getting started as a web developer"
+
+[https://engineering.videoblocks.com/web-architecture-101-a3224e126947](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+
+### 6.MrBeast has cracked the YouTube code. Here's the inside story of his viral videos
+
+"Donaldson announced a new venture called “Beast Burger.” He is partnering with more than 300 restaurants n kitchens across the country that will make burgers based on his instructions — a model known as ghost kitchens Over the weekend, MrBeast Burger app soared in popularity"
+
+[https://www.bloomberg.com/news/articles/2020-12-22/who-is-mrbeast-meet-youtube-s-top-creator-of-2020](https://www.bloomberg.com/news/articles/2020-12-22/who-is-mrbeast-meet-youtube-s-top-creator-of-2020)
+
+### 7. Tech does not always give the earlier mover advantage. Ask GCP.
+
+A good thread on how GCP missed the Cloud journey inspite of having a head start with the tech.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">~8yrs ago (Dec’12) I got a job <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a>. Those were still early days of cloud. I joined GCP @&lt;150M ARR &amp; left @~4B (excld GSuite). Learned from some of the smartest ppl in tech. But we also got a LOT wrong that took yrs to fix. Much of it now public, but here’s my ring-side view👇</p>&mdash; Hemant Mohapatra (@MohapatraHemant) <a href="https://twitter.com/MohapatraHemant/status/1343969802080030720?ref_src=twsrc%5Etfw">December 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 8.Google map's moat is evaporating
+
+"If Google doesn’t start taking the Google Maps Platform seriously, they’ll slowly but surely find themselves alone on an island of inferior, less frequently updated, and expensive-to-maintain proprietary data.
+
+A new generation of innovative apps built on top of OSM will feast like piranhas on a cow treading water"
+
+[https://joemorrison.substack.com/p/google-maps-moat-is-evaporating](https://joemorrison.substack.com/p/google-maps-moat-is-evaporating)
+
+That's all for this week and year. Happy New Year, 2021
+
+==================================================================================================
+
+
+
+
 ## Curation of all interesting content that I came across in the internet for the week ending 27th  December,2020
 
 ### 1. KFC's new gaming console that can keep chicken warm
