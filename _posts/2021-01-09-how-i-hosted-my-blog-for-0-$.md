@@ -1,5 +1,11 @@
 ---
 published: false
+layout: post
+author: dinakaran
+image: assets/images/blog-hosting.jpeg
+categories:
+  - General
+  - Technology
 ---
 ![]({{site.baseurl}}assets/images/https://media-exp1.licdn.com/dms/image/C5612AQGd6zczI7LTQg/article-cover_image-shrink_720_1280/0/1610185462567?e=1615420800&v=beta&t=BchIixAYNQ9oiYoR1_asG4nDOeC3glc1LntKGfSQDb8)
 
