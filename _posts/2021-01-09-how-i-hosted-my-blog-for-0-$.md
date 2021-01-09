@@ -3,6 +3,7 @@ published: true
 layout: post
 author: dinakaran
 image: assets/images/blog-hosting.jpeg
+title : How I hosted my blog for 0$
 categories:
   - General
   - Technology
