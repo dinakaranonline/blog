@@ -16,9 +16,12 @@ The second option I thought about was Medium since it was widely popular, and mo
 
 So I was exploring other options, and then I came with this option of Markdown and GitHub Pages. It was a pretty quirky combination of different tools and technologies coming together.
 
-- Markdown is a lightweight markup language for creating formatted text using a plain-text editor. 
+- Markdown is a lightweight markup language for creating formatted text using a plain-text editor.
+
 - Static Site Generator is an easy way to develop sites like blogs and personal websites using Markdown.
+
 - GitHub Pages is an extension of GitHub. GitHub allows public repositories to be created and managed free of cost. GitHub Pages offers simple and easy ways to host static websites for free. It acts as a platform with the storage, static file hosting and, CI-CD process - all seamlessly integrated as a full-fledged PAAS solution. I love the vision of GitHub.
+
 - To create blog posts, I used prose.io that offers a simple interface to blog. Prose is a content editor for GitHub designed for managing websites. All the posts and content created will be stored in GitHub repository.
 
 So I used a combination of Jekyll Static Site Generator to set up the blog, Prose Markdown editor and GitHub Pages as a hosting platform to set up my blog. 
@@ -27,9 +30,12 @@ I bought a personal domain from Google and mapped it to the blog. With all this 
 
 **What I learnt from the experience**
 
-- Loved the whole exploration of figuring it out and setting up things
+- Loved the whole exploration of figuring it out and setting up things.
+
 - Whole process was not that seamless as I expected it to be.
+
 - Blogging workflow is not optimal. It takes more time to make things work. 
+
 - Distribution is decent, but not good. Posting in LinkedIn and Twitter has better reach than this.
  
 Despite all this, I was happy with the whole setup. I could understand how the entire thing came together - be it various layouts, look and feel, data and other things working in the background to finally render the blog. There was an option to configure Google Analytics as well and track the performance of the site. 
@@ -43,6 +49,8 @@ So with this setup, I have managed to host my blog without spending a single dol
 **Tools Used:**
 
 - Git Hub Pages: Hosting the static website 
+
 - Jekyll: Static Site Generator for blogs 
+
 - Prose: Content Editor for GitHub
 
