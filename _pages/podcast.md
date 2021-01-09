@@ -59,6 +59,12 @@ CDN Content Delivery Networks have been there for decades. In this episode, we t
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/65FdNiuFlHDNRj8n9B6Ksb" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+**5. Infrastructure As Code - Taking DevOps CI- CD Automation to the next level ~ 18 mins**
+
+DevOps Continuous Integration - Continuous Delivery CI CD have seen successful adoption in many places . This has helped in the automation of code integration, build and deployment . But infrastructure is always missed out in this process. In traditional on premises world, infrastructure once created will not change very often. But with Distributed Computing and Cloud, infrastructure needs to be created real time and teared down as and when required. There is no way to manually create infrastructure across regions without automating the creation of infrastructure. And these scripts have to be version controlled and treated as another piece of code . It should be part of CI- CD process as well. In this epsiode, I'm discussing Infrastructure as Code and why should Developers , not just DevOps engineers should care.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/0WAMNf1UqvRuEt1dHKpezs" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 
 
 Hope you like it.
