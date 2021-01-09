@@ -3,7 +3,7 @@ published: true
 layout: post
 author: dinakaran
 image: assets/images/blog-hosting.jpeg
-title : How I hosted my blog for 0$
+title: How I hosted my blog for 0$
 categories:
   - General
   - Technology
@@ -42,6 +42,7 @@ So with this setup, I have managed to host my blog without spending a single dol
 
 **Tools Used:**
 
-Git Hub Pages: Hosting the static website 
-Jekyll: Static Site Generator for blogs 
-Prose: Content Editor for GitHub 
+- Git Hub Pages: Hosting the static website 
+- Jekyll: Static Site Generator for blogs 
+- Prose: Content Editor for GitHub
+
