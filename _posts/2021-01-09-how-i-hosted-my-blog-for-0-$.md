@@ -7,8 +7,6 @@ categories:
   - General
   - Technology
 ---
-![]({{site.baseurl}}assets/images/https://media-exp1.licdn.com/dms/image/C5612AQGd6zczI7LTQg/article-cover_image-shrink_720_1280/0/1610185462567?e=1615420800&v=beta&t=BchIixAYNQ9oiYoR1_asG4nDOeC3glc1LntKGfSQDb8)
-
 When I wanted to set up my new personal blog, I was looking for various options. I had prior experience setting up my blog, right from my earlier days in platforms like Blogger, WordPress etc. So I did not want to use WordPress or Blogger as it felt way too easy. Last time I checked, custom domain name mapping costs some money. Also, the self-hosted option would need a database, and it may be costly to set up and host.
 
 The second option I thought about was Medium since it was widely popular, and most of the blog these days are hosted in Medium. But Medium had tried to push monetization and introduced paywall. So I had to look elsewhere. Another option to was to use LinkedIn. Again it is easier to set things up, but be at the mercy of another distribution platform.
