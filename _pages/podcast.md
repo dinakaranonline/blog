@@ -65,6 +65,13 @@ DevOps Continuous Integration - Continuous Delivery CI CD have seen successful a
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/0WAMNf1UqvRuEt1dHKpezs" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+**6. Cloud Economics and FinOps ~ 37 mins**
+
+As cloud adoption goes mainstream, the cost and financial impact of running services in the cloud is gaining significance. There is a mindshift change required to think of costs from Capital Expenses ( Capex ) to Operational Expenses ( Opex ) . Architecting solutions keeping the cost as an important lever is mandatory . Using tools like Cost Calculator to better predict cost is recommended. Monitoring the infrastructure to ensure the cost escalation is kept in control by means of alerts , dashboard and monitoring and optimization of resources through automation is becoming more pronounced across organization. We finally discuss on the idea of FinOps - Finance , Operations, Engineering and Senior Management coming together to collaborate and ensure each of them understand the roles and responsibilities . We discuss the main pillars of FinOps - Governance, Engineering, Reporting and Optimization.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/4snksceo0yYb9eMNajJ2cv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+To get latest episodes, please subscribe to my podcast here : **[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
 
 
 Hope you like it.
