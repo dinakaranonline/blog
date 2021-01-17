@@ -5,7 +5,4 @@ permalink: /tweets
 comments: false
 published: true
 ---
-
-<script src="https://assets.juicer.io/embed.js" type="text/javascript"></script>
-<link href="https://assets.juicer.io/embed.css" media="all" rel="stylesheet" type="text/css" />
-<ul class="juicer-feed" data-feed-id="dinquisitively"></ul>
+<a class="twitter-timeline" href="https://twitter.com/dinquisitively?ref_src=twsrc%5Etfw">Tweets by dinquisitively</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
