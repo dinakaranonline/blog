@@ -21,7 +21,7 @@ Permission to publish to Apple podcasts is still being awaited.
 
 I’m really curious and excited as to where this journey would lead me to. If there are any specific area/ topics that you are curious and interested to understand better, please let me know. I will try to cover as part of future episodes.
 
-**Epsiodes:** 
+**Episodes:** 
 
 **Welcome to Master Of None : ~ 1 min**
 
