@@ -25,7 +25,7 @@ I’m really curious and excited as to where this journey would lead me to. If t
 
 **Welcome to Master Of None : ~ 1 min**
 
-Hi Everyone, Welcome to my brand new podcast Master of None. I'm Dinakaran and I haave been working in the IT industry for over a decade now . Through this podcast, I would like provide a running commentary on the emerging and new trends in the tech industry focussing predominantly on the intersection of cloud, programming , architecture, DevOps, machine learning and security. I hope you find the topics discussed in the podcast interesting. Let's get started .
+Hi Everyone, Welcome to my brand new podcast Master of None. I'm Dinakaran and I have been working in the IT industry for over a decade now . Through this podcast, I would like provide a running commentary on the emerging and new trends in the tech industry focussing predominantly on the intersection of cloud, programming , architecture, DevOps, machine learning and security. I hope you find the topics discussed in the podcast interesting. Let's get started .
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/0i2I7BGcPTcxXIvCQ3gmfa" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
