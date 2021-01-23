@@ -75,16 +75,17 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
 
 Some Cloud-related security risks that need  attention 
 
-- 1. DDOS attack on web applications.
-    Enable WAF and better secure coding practices
-- 2. S3 buckets left open to the public
-    Fine-grained IAM access control and permissions to the bucket 
-- 3. Security credentials checked into the source repository
-    Static Code Analysis can bubble up these issues.
-- 4. Databases wide open with SSH access 
-    IAC security rules to restrict access via Security Groups etc.
--  5. IAM policies having way too much access, not restrictive enough, ending with * etc
-    IAC security rules to validate and ensure such broad access are never allowed.
+1. 1. DDOS attack on web applications.
+1.     Enable WAF and better secure coding practices
+1. 2. S3 buckets left open to the public
+1.     Fine-grained IAM access control and permissions to the bucket 
+1. 3. Security credentials checked into the source repository
+1.     Static Code Analysis can bubble up these issues.
+1. 4. Databases wide open with SSH access 
+1.     IAC security rules to restrict access via Security Groups etc.
+1.  5. IAM policies having way too much access, not restrictive enough, ending with * etc
+1.     IAC security rules to validate and ensure such broad access are never allowed.
+
 
 
 **8. Other security aspects**
