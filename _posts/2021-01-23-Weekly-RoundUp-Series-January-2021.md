@@ -7,7 +7,7 @@ categories:
   - General
   - Technology
 ---
-![]({{site.baseurl}}/assets/images/https://nadianelson.com/wp-content/uploads/2019/09/weekly-roundup.jpg)Happy New Year 2021. 
+Happy New Year 2021. 
 
 List of interesting content that I read on the web, for the week ending 17th January 2021. 
 
