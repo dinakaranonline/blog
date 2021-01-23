@@ -74,6 +74,17 @@ As cloud adoption goes mainstream, the cost and financial impact of running serv
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4snksceo0yYb9eMNajJ2cv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+
+**6. DevOps - Security is not an afterthought ~ 36 mins**
+
+DevSecOps is a relatively new term coined that focus on the collaboration between Application Development, Operations and Security Teams coming together to deliver applications and software in an agile fashion in an iterative, faster and secure way.
+
+In this podcast, we discuss the reason why DevSecOps have come into focus in the last few years. And for teams to start adopting DevSecOps practices, what are different aspects, perspectives and approaches that need to be considered are also briefly touched upon. 
+
+Threat Modelling is the starting point to understand the security posture, identifying gaps and prioritize critical aspects that need attention. We also discuss the tools, technology and automation that are required for successfully building DevSecOps practices.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/4snksceo0yYb9eMNajJ2cv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 To get latest episodes, please subscribe to my podcast here : **[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** **[Apple Podcast](https://podcasts.apple.com/in/podcast/master-of-none/id1545755804)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
 
 
