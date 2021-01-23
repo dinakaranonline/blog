@@ -7,11 +7,11 @@ categories:
   - Programming
 title: Dummies Guide to DevSecOps
 ---
-DevSecOps is a relatively new term coined that focus on the colloboration between Application Development, Operations and Security Teams coming together to deliver applications and software in an agile fashion in an iterative, faster and secure way.
+DevSecOps is a relatively new term coined that focus on the collaboration between Application Development, Operations and Security Teams coming together to deliver applications and software in an agile fashion in an iterative, faster and secure way.
 
-In this podcast, we discuss the reason why DevSecOps have come into focus in the last few years. And for teams to start adopting DevSecOps practices , what are different aspects , perspectives and approaches that need to be considered is also briefly touched upon. 
+In this podcast, we discuss the reason why DevSecOps have come into focus in the last few years. And for teams to start adopting DevSecOps practices, what are different aspects, perspectives and approaches that need to be considered are also briefly touched upon. 
 
-Threat Modelling is the starting point to understand the security posture , identifying gaps and priortize critical aspects that need attention. We also discuss on the tools, technology and automation that are required for successfully building DevSecOps practices.
+Threat Modelling is the starting point to understand the security posture, identifying gaps and prioritize critical aspects that need attention. We also discuss the tools, technology and automation that are required for successfully building DevSecOps practices.
 
 I hope the information discussed here helps to get a jump start on DevSecOps.
 
@@ -21,8 +21,7 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
 - Bringing security to the agile DevOps process 
 - Engage security from the beginning
 - Shift security to the left
-- Compliance too becoming critical
-
+- Compliance becoming critical
 
 **2. How?**
 
@@ -57,7 +56,7 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
 
 - Avoid the big bang approach. Take one or two items and build from there
 - Start with the low hanging fruit, and pick easier to fix things
-- Get developers used to the process and see how it helps in their development workflow.As part of product development sprints , include one or two security targets that needs to be managed. 
+- Get developers used to the process and see how it helps in their development workflow. As part of product development sprints, include one or two security targets that need to be managed. 
 - Do not enable every single security rule that it results in too many issues reported resulting in none being fixed due to other conflicting priorities
 - All tools integrated into the pipeline without too much of manual work outside of the existing workflow.
 
@@ -101,3 +100,4 @@ Some Cloud-related security risks that need  attention
 - Confidence and Repeatable 
 - Infrastructure and Network security monitoring. Alarms and alerts
 - Compliance - Encryption, SSH certificates rotation, whitelisting/ blacklisting
+
