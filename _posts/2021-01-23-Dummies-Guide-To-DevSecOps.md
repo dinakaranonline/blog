@@ -5,6 +5,7 @@ author: dinakaran
 image: assets/images/DevSecOps.jpeg
 categories:
   - Programming
+title: Dummies Guide to DevSecOps
 ---
 
 **1. Why DevSecOps**
@@ -78,5 +79,3 @@ Some Cloud-related security risks that need  attention
 - Confidence and Repeatable 
 - Infrastructure and Network security monitoring. Alarms and alerts
 - Compliance - Encryption, SSH certificates rotation, whitelisting/ blacklisting
-
-
