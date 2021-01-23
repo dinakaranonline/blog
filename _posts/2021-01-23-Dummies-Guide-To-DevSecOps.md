@@ -61,15 +61,15 @@ categories:
 Some Cloud-related security risks that need  attention 
 
 - 1. DDOS attack on web applications.
--    Enable WAF and better secure coding practices
+    Enable WAF and better secure coding practices
 - 2. S3 buckets left open to the public
--    Fine-grained IAM access control and permissions to the bucket 
+    Fine-grained IAM access control and permissions to the bucket 
 - 3. Security credentials checked into the source repository
--    Static Code Analysis can bubble up these issues.
+    Static Code Analysis can bubble up these issues.
 - 4. Databases wide open with SSH access 
--    IAC security rules to restrict access via Security Groups etc.
+    IAC security rules to restrict access via Security Groups etc.
 -  5. IAM policies having way too much access, not restrictive enough, ending with * etc
--    IAC security rules to validate and ensure such broad access are never allowed.
+    IAC security rules to validate and ensure such broad access are never allowed.
 
 
 **8. Other security aspects**
