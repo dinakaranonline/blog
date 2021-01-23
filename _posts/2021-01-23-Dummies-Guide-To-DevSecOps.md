@@ -25,7 +25,7 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
 **2. How?**
 
 - People: Stakeholder buy-in and Getting Teams onboarded 
-- Process: Standardise, workflows. Governance, Cadence. Security Review 
+- Process: Workflow standardization and Documentation
 - Technology: Tools and automation
 
 
@@ -47,7 +47,14 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
 
 **5. Implementation**
 
+- As a result of Threat Modelling,analysis and prioritization, define 
+  - Targets
+  - Rules
+  - Enforcement
+  - Toolset
+
 - Avoid the big bang approach. Take one or two items and build from there.
+
 - Start with the low hanging fruit, and pick easier to fix things
 - Do not enable every single security rule that it results in too many issues reported resulting in none being fixed due to other conflicting priorities
 - All tools integrated into the pipeline without too much of manual work outside of the existing workflow.
