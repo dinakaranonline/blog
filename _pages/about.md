@@ -5,32 +5,41 @@ permalink: /about
 comments: false
 published: true
 ---
-About Me 
+I'm Dinakaran from Chennai, India. I'm an Engineering Leader with 14+ yrs of experience building Transformative Digital Solutions in the intersection of Web, AWS Cloud , DevOps and Microservices
 
-I'm Dinakaran , based out of Chennai and have been dabbling in the tech industry for the last 14+ years.Having experienced working with disparate set of technologies and platform stack with a wide variety of customers , this blog is a reflection of this journey from time to time. 
+Few highlights of my work experience
 
-More about me 
+- Architecting and  Building Transformative Digital  Solutions at the intersection of Web, Mobile, Content, Cloud Native architectures like  Serverless
 
-Architecting and  Building Transformative Digital  Solutions at the intersection of Web, Mobile, Content, Cloud Native architectures -  Serverless, Mobile Backend As a Service( MBAAS) 
+- Extensive experience in all stages of SDLC life cycle and has hands-on experience on product evaluation, architecture, design and development roles as well as good exposure in support and maintenance of large scale applications    
 
-Extensive experience in all stages of SDLC life cycle and has hands-on experience on product evaluation, architecture, design and development roles as well as good exposure  in support and maintenance of large scale applications    
+- Proficient in the technology stack of Java/J2EE Core Java, MVC - Struts, JSF, Webservices - SOAP and REST and JSR specifications. 
 
-Proficient in the technology stack of Java/J2EE Core Java, MVC - Struts, JSF, Webservices - SOAP and REST and JSR specifications. 
+- Hands-on experience with building solutions on top of  AWS Serverless Stack of API Gateway and Lambda and host of other Managed Services of AWS. Leveraged AWS DevOps for CI - CD pipeline and knowledge of Infra As Code paradigm ( IAC ) like Cloud Formation and Terraform
 
-In-depth working knowledge of Portal / Web Content Management products like  WebSphere Portal/ Web Content Management/ Portlet Factory/ Enterprise Search, WebSphere Application Server. 
+- Exposure to Business Domains like Banking, Insurance, Life Sciences, Retail and eCommerce 
 
-Hands-on experience in modern web technologies like Angular, Bootstrap, Responsive Web Design, Ajax, JQuery-JSON. 
+- Connoisseur of all things new and shiny. Jack of All, Master Of None. Generalist over Specialist. 
 
-Architecting solutions on top of Google Firebase / Azure Mobile Apps and integration with cross-platform applications using Xamarin and React Native and API Gateways like Mulesoft / Apigee
+Specialties : 
 
-Exposure to Business Domains like Banking, Insurance, Life Sciences, Retail and eCommerce 
+- Digital Transformation
+- Platform Engineering  & DevOps
+- Solution Architecture, Strategy and Execution Model
+- Cloud Migration/ Modernization 
+- Building and Mentoring/Coaching Cross-Functional Teams & Recruitment
+- Technical Delivery Ownership and Stakeholder Management 
 
-Have a fair amount of experience leveraging many of the components from all 3 major cloud providers - AWS, GCP and Azure. 
+Career Progression : 
 
-Career Progression 
+- Java/J2EE , API's ( 12+ years, since 2006 )
+- IBM Portal/ Web Content Management (10+ years, 2006 - 2017) 
+- Front End Technologies - Angular ( 2+ years, on-and-off since 2017 )
+- Cloud  / Serverless / DevOps ( 3+ years , since 2018 ) 
+- Data / ML / AI  (  baby steps, since October 2020)
 
-1. Java/J2EE / Portal , Content Management (12+ years , since 2006 ) 
-         
-2. Front End Web Development Angular (1+ year ,  2017 - 2018  )
-    
-3. Cloud Native / MBAAS / Serverless / DevOps ( 2+ years , since 2018 ) 
+Social :
+
+- Blog: https://dinakaran.dev/blog
+- Podcast: Master Of None. https://anchor.fm/themasterofnone 
+- Twitter: https://twitter.com/dinquisitively
