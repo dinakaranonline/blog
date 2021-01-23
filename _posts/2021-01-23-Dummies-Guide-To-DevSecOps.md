@@ -15,10 +15,10 @@ Threat Modelling is the starting point to understand the security posture, ident
 
 You can listen to the podcast episode here 
 
-<iframe src="https://anchor.fm/themasterofnone/embed/episodes/DevSecOps---Security-is-not-an-afterthought-epcbtk" height="200px" width="600px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/5QauBb0hlWs8ijjNSe9TwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-Streaming in other popular platforms too here. Please subscribe.
+Streaming in popular platforms too here. Please subscribe.
 
 **[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)**
 **[Apple Podcast](https://podcasts.apple.com/in/podcast/master-of-none/id1545755804)**
