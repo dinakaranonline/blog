@@ -27,7 +27,7 @@ Wow, whattaey wow :) Amazon calling e-commerce and then gobbling up offline stor
 
 [Source](https://theprint.in/india/byjus-to-buy-medical-engineering-entrance-coaching-leader-aakash-in-1-billion-mega-deal/584286/)
 
-**5. Kunal Shah, CEO of Cred on why big tech has got it all wrong with India ** 
+**5. Kunal Shah, CEO of Cred on why big tech has got it all wrong with India** 
 
 While Big Tech comes to South Asia for the elusive “next billion” users, India’s tech guru says his latest app caters to the 1%
 
