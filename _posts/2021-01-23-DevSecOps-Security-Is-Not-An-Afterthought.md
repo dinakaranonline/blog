@@ -32,7 +32,7 @@ Streaming in popular platforms too here. Please subscribe.
 - Shift security to the left
 - Compliance becoming critical
 
-**2. How?**
+**2. How DevSecOps**
 
 - People: Stakeholder buy-in and Getting Teams onboarded 
 - Process: Workflow standardization and Documentation
@@ -109,4 +109,3 @@ Some Cloud-related security risks that need  attention. Depending on the type of
 - Compliance - Encryption, SSH certificates rotation, whitelisting etc
 
 I hope the information discussed here helps to get a jump start on DevSecOps.
-
