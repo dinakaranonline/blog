@@ -13,8 +13,6 @@ In this podcast, we discuss the reason why DevSecOps have come into focus in the
 
 Threat Modelling is the starting point to understand the security posture, identifying gaps and prioritize critical aspects that need attention. We also discuss the tools, technology and automation that are required for successfully building DevSecOps practices.
 
-I hope the information discussed here helps to get a jump start on DevSecOps.
-
 
 **1. Why DevSecOps**
 
@@ -93,10 +91,11 @@ Some Cloud-related security risks that need  attention
 
 
 
-
 **8. Other security aspects**
 - Observability
 - Traceability 
 - Infrastructure and Network security monitoring. Setting up of Alarms and Alerts
-- Compliance - Encryption, SSH certificates rotation, whitelisting/ blacklisting
+- Compliance - Encryption, SSH certificates rotation, whitelisting etc
+
+I hope the information discussed here helps to get a jump start on DevSecOps.
 
