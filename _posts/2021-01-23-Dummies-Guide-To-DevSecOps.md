@@ -24,7 +24,7 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
 
 **2. How?**
 
-- People: Stakeholders, teams 
+- People: Stakeholder buy-in and Getting Teams onboarded 
 - Process: Standardise, workflows. Governance, Cadence. Security Review 
 - Technology: Tools and automation
 
