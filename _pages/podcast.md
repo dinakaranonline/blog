@@ -83,7 +83,7 @@ In this podcast, we discuss the reason why DevSecOps have come into focus in the
 
 Threat Modelling is the starting point to understand the security posture, identifying gaps and prioritize critical aspects that need attention. We also discuss the tools, technology and automation that are required for successfully building DevSecOps practices.
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/4snksceo0yYb9eMNajJ2cv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/5QauBb0hlWs8ijjNSe9TwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 To get latest episodes, please subscribe to my podcast here : **[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** **[Apple Podcast](https://podcasts.apple.com/in/podcast/master-of-none/id1545755804)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
 
