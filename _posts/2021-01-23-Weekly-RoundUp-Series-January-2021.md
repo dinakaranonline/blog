@@ -7,9 +7,7 @@ categories:
   - General
   - Technology
 ---
-Happy New Year 2021. 
-
-List of interesting content that I read on the web, for the week ending 17th January 2021. 
+Happy New Year 2021. Wishing the readers of this blog a warm and joyful 2021. Continuing with the weekly round up series in 2021 as well. Here are the list of interesting content that I read on the web, for the week ending 17th January 2021. 
 
 **1. Forty and Still a software developer?**
 
