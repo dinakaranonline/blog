@@ -64,7 +64,7 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
 
 - Static Code Analysis, Dynamic Code Analysis
 - Penetration Testing
-- Lint cools like CFNLint, CFNNag and other validation tools 
+- Lint tools like CFNLint, CFNNag and other validation tools 
 - IAC Rules scanning
 - Vulnerability scanning
 - Secret Manager, Key Manager, auto rotation 
