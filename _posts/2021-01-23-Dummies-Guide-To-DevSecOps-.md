@@ -1,5 +1,10 @@
 ---
 published: false
+layout: post
+author: dinakaran
+image: assets/images/DevSecOps.jpeg
+categories:
+  - Programming
 ---
 
 **1. Why DevSecOps**
