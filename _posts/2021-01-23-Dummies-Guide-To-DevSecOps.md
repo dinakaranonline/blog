@@ -53,9 +53,9 @@ I hope the information discussed here helps to get a jump start on DevSecOps.
   - Enforcement
   - Toolset
 
-- Avoid the big bang approach. Take one or two items and build from there.
-
+- Avoid the big bang approach. Take one or two items and build from there
 - Start with the low hanging fruit, and pick easier to fix things
+- Get developers used to the process and see how it helps in their development workflow.As part of product development sprints , include one or two security targets that needs to be managed. 
 - Do not enable every single security rule that it results in too many issues reported resulting in none being fixed due to other conflicting priorities
 - All tools integrated into the pipeline without too much of manual work outside of the existing workflow.
 
