@@ -72,7 +72,7 @@ Threat Modelling is the starting point to understand the security posture, ident
 
 **7. Some app-level security issues and solutions**
 
-Some Cloud-related security risks that need  attention 
+Some Cloud-related security risks that need  attention. Depending on the type of environment, the issues may vary. But i'm giving here a brief list so that we get a good understanding of how the process looks and works in action 
 
 - **Risk 1**:   DDOS attack on web applications.
 -    Solution:  Enable WAF and better secure coding practices
