@@ -75,7 +75,7 @@ As cloud adoption goes mainstream, the cost and financial impact of running serv
 <iframe src="https://open.spotify.com/embed-podcast/episode/4snksceo0yYb9eMNajJ2cv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-**6. DevOps - Security is not an afterthought ~ 36 mins**
+**6. DevSecOps - Security is not an afterthought ~ 36 mins**
 
 DevSecOps is a relatively new term coined that focus on the collaboration between Application Development, Operations and Security Teams coming together to deliver applications and software in an agile fashion in an iterative, faster and secure way.
 
