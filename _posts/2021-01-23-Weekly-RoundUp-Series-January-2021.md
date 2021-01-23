@@ -1,5 +1,11 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/blog-hosting.jpeg
+categories:
+  - General
+  - Technology
 ---
 Listen of interesting content that I read on the web, for the week ending 17th January 2021. 
 
@@ -48,4 +54,3 @@ While Big Tech comes to South Asia for the elusive “next billion” users, Ind
 "A new set of winners and losers are poised to emerge from the ashes of the pandemic. And a wall of foreign capital is pouring in to fund a slew of digital startups. A peek into what 2021 portends"
 
 [Source](https://www.foundingfuel.com/article/trendspotting-2021-inside-indias-great-digital-reset/)
-
