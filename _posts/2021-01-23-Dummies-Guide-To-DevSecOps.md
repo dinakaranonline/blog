@@ -97,7 +97,6 @@ Some Cloud-related security risks that need  attention
 **8. Other security aspects**
 - Observability
 - Traceability 
-- Confidence and Repeatable 
-- Infrastructure and Network security monitoring. Alarms and alerts
+- Infrastructure and Network security monitoring. Setting up of Alarms and Alerts
 - Compliance - Encryption, SSH certificates rotation, whitelisting/ blacklisting
 
