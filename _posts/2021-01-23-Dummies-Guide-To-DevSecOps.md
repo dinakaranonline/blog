@@ -7,13 +7,19 @@ categories:
   - Programming
 title: Dummies Guide to DevSecOps
 ---
+DevSecOps is a relatively new term coined that focus on the colloboration between Application Development, Operations and Security Teams coming together to deliver applications and software in an agile fashion in an iterative, faster and secure way.
+
+In this podcast, we discuss the reason why DevSecOps have come into focus in the last few years. And for teams to start adopting DevSecOps practices , what are different aspects , perspectives and approaches that need to be considered is also briefly touched upon. Threat Modelling is the starting point to understand the security posture , identifying gaps and priortize critical aspects that need attention. We also discuss on the tools, technology and automation that are required for successfully building DevSecOps practices.
+
+I hope the information discussed here helps to get a jump start on DevSecOps.
+
 
 **1. Why DevSecOps**
 
-- Bringing security to the agile DevOps process. 
-- Engage security from the beginning.
-- Shift security to the left. 
-- Compliance too becoming critical.
+- Bringing security to the agile DevOps process 
+- Engage security from the beginning
+- Shift security to the left
+- Compliance too becoming critical
 
 
 **2. How?**
