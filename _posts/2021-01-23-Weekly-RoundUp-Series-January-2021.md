@@ -7,7 +7,9 @@ categories:
   - General
   - Technology
 ---
-Listen of interesting content that I read on the web, for the week ending 17th January 2021. 
+Happy New Year 2021. 
+
+List of interesting content that I read on the web, for the week ending 17th January 2021. 
 
 **1. Forty and Still a software developer? **
 
