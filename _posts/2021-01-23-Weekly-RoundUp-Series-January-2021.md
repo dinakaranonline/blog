@@ -11,7 +11,7 @@ Happy New Year 2021.
 
 List of interesting content that I read on the web, for the week ending 17th January 2021. 
 
-**1. Forty and Still a software developer? **
+**1. Forty and Still a software developer?**
 
 "Many of us live this horrific nightmare. The fear is being put out to pasture. Has the industry knighted young people as the stewards of technology? It’s natural to doubt yourself and wonder if you can do this any longer.
 
