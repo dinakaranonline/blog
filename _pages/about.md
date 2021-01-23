@@ -40,6 +40,6 @@ Career Progression :
 
 Social :
 
-- Blog: https://dinakaran.dev/blog
-- Podcast: Master Of None. https://anchor.fm/themasterofnone 
-- Twitter: https://twitter.com/dinquisitively
+- Blog: [https://dinakaran.dev/blog](https://dinakaran.dev/blog)
+- Podcast: Master Of None. [https://anchor.fm/themasterofnone](https://anchor.fm/themasterofnone) 
+- Twitter: [https://twitter.com/dinquisitively](https://twitter.com/dinquisitively)
