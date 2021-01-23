@@ -18,6 +18,13 @@ You can listen to the podcast episode here
 <iframe src="https://anchor.fm/themasterofnone/embed/episodes/DevSecOps---Security-is-not-an-afterthought-epcbtk" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 
+Streaming in other popular platforms too here. Please subscribe.
+
+**[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)**
+**[Apple Podcast](https://podcasts.apple.com/in/podcast/master-of-none/id1545755804)**
+**[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
+
+
 **1. Why DevSecOps**
 
 - Bringing security to the agile DevOps process 
