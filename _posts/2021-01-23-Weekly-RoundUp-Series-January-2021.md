@@ -15,7 +15,7 @@ Launched with a lot of promise as one of the biggest bet of Google X, it is sad 
 
 [Source](https://www.theverge.com/2021/1/21/22243484/alphabet-google-shutting-down-loon-internet-balloon-company-x)
 
-**2. Elastic vs AWS fight over Elastic Search Open Source project **
+**2. Elastic vs AWS fight over Elastic Search Open Source project**
 
 The tension between Open Source and Cloud Providers have no end in sight at the moment? Changes to licensing terms and using Open Source to build a profitable business could be a recurring challenge. On the other side, Cloud Providers are trying to build products on top of Open Source offerings as a Managed Service thereby squeeing any little money that Open Source maintainers were planning to make from maintaining the project. All this makes the relationship very messy.
 
