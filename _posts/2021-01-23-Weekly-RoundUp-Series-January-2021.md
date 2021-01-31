@@ -44,7 +44,7 @@ Future Group Chairman Kishore Biyani on January 29 wrote a letter to his employe
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">THREAD: The story of the week in finance is how a group of retail traders at <a href="https://twitter.com/wallstreetbets?ref_src=twsrc%5Etfw">@wallstreetbets</a>, with assists from <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@ElonMusk</a> and <a href="https://twitter.com/chamath?ref_src=twsrc%5Etfw">@Chamath</a>, took down the establishment short sellers at GameStop.<br><br>A thread on the underlying mechanics of the <a href="https://twitter.com/search?q=%24GME&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$GME</a> saga... <a href="https://t.co/0TP9rst17A">pic.twitter.com/0TP9rst17A</a></p>&mdash; Sahil Bloom (@SahilBloom) <a href="https://twitter.com/SahilBloom/status/1354436658129563650?ref_src=twsrc%5Etfw">January 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-**6.Inside Youtube's content creation engine **
+**6.Inside Youtube's content creation engine**
 
 Over last three years, Youtube has apparently paid more than $30Bn to creators, artists, & media Cos (would love to see a split though). Since its founding 15 years ago, no other company comes close to the information & misinformation scale of Youtube!
 
