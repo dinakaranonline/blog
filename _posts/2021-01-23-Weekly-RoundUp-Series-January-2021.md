@@ -48,7 +48,7 @@ Future Group Chairman Kishore Biyani on January 29 wrote a letter to his employe
 
 Over last three years, Youtube has apparently paid more than $30Bn to creators, artists, & media Cos (would love to see a split though). Since its founding 15 years ago, no other company comes close to the information & misinformation scale of Youtube!
 
-https://blog.youtube/inside-youtube/letter-from-susan-our-2021-priorities/
+[Source](https://blog.youtube/inside-youtube/letter-from-susan-our-2021-priorities/)
 
 That's all for this week folks
 
