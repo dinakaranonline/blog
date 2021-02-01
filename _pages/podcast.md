@@ -85,6 +85,12 @@ Threat Modelling is the starting point to understand the security posture, ident
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5QauBb0hlWs8ijjNSe9TwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+**7. De-mystifying oAuth and OpenIDConnect ~ 50 mins**
+
+Authentication and Authorization as a concept has been there for a long time. oAuth is the most standard way in which authorization is implemented and OpenID Connect is a preferred mechanism for authentication. In this podcast, we will Demystify oAuth and OpenID Connect - why, what and how. We will briefly touch upon the history of authentication, OAuth Grants, Scopes and Claims. We also discuss the different types of tokens like ID Token, Access Token and Refresh Tokens. We also briefly touch upon the differences between Cookie and Token and finally ending with how API validates these token. I hope you find the topics discussed in this episode useful.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5QauBb0hlWs8ijjNSe9TwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 To get latest episodes, please subscribe to my podcast here : **[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** **[Apple Podcast](https://podcasts.apple.com/in/podcast/master-of-none/id1545755804)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
 
 
