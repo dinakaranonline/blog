@@ -15,8 +15,8 @@ Authentication and Authorization as a concept has been there for a really long t
 
 **2. History of Authentication**
 
--Basic Authentication
--Windows OS based Authentication / SSO
+- Basic Authentication
+- Windows OS based Authentication / SSO
 - SAML for Enterprise Apps / Web SSO
 - How SAML worked?
 - SAML Assertion returning XML with details of the user and other details
@@ -29,8 +29,8 @@ Authentication and Authorization as a concept has been there for a really long t
 
 **3. oAuth/ oAuth2**
 
--Why oAuth?
--oAuth is not a protocol, but just a specification 
+- Why oAuth?
+- oAuth is not a protocol, but just a specification 
 
 -Main actors/elements 
 - Resource Owner
@@ -110,6 +110,8 @@ Authentication and Authorization as a concept has been there for a really long t
 - Explain CSRF attack scenario
  -How Cookies was used before?
 - What challenges Cookies posed? 
+
+- Tokens
 - How Tokens solved these problems?
 - Tokens were stateless, scalable, decoupled and good performance 
 - Token Web Storage - local or session storage 
@@ -118,6 +120,7 @@ Authentication and Authorization as a concept has been there for a really long t
 - Tokens are larger in size due to security and cryptography signatures  compared to Cookies 
 
 Other security issues with OAuth 
+
 - Token hijacking - use of CSRF token along with state parameters can help
 - Leakage through re-directs. So white list redirect URI's
 - Client secret can be revealed 
