@@ -74,9 +74,9 @@ Authentication and Authorization as a concept has been there for a really long t
 
 **6. OpenID Connect**
 
--What were the challenges with oAuth
--How OpenID Connect helps with the Authentication mechanism 
--OAuth 2.0 + Facebook Connect + good parts of SAML 2.0 
+- What were the challenges with oAuth
+- How OpenID Connect helps with the Authentication mechanism 
+- OAuth 2.0 + Facebook Connect + good parts of SAML 2.0 
 - Companies that support OpenID Connect 
 - oAuth - Authorization Framework while OpenID Connect and SAML is Authentication 
 - In addition to access token and refresh tokens, id token is now being used 
