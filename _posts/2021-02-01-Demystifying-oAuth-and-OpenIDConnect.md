@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-Authentication and Authorization as a concept has been there for a really long time. oAuth is the most standard way in which authorization is implemented and OpenID Connect is a preferred mechanism for authentication. In this podcast , we will Demystify oAuth and OpenID Connect - why , what and how. Listed below are the various topics that are briefly touched upon
+Authentication and Authorization as a concept has been there for a really long time. oAuth is the most standard way in which authorization is implemented and OpenID Connect is a preferred mechanism for authentication. In this podcast , we will Demystify oAuth and OpenID Connect - why , what and how. Listed below are the various topics that are briefly touched upon.
 
 
 
@@ -94,7 +94,7 @@ Authentication and Authorization as a concept has been there for a really long t
 - Scope in the context of oAuth 
  - Scope is permission 
 - Commonly defined Scope in oAuth:
-	OpenID
+	    OpenID
         Profile
         Email
         Custom Scope 
@@ -133,7 +133,7 @@ Other security issues with OAuth
 
 **End** 
 
--Re-cap of the journey from Basic Authentication to Open ID Connect 
+- Re-cap of the journey from Basic Authentication to Open ID Connect 
 - We have come a long way from registering on every website to using oAuth to help with the registration of data 
 - Data Privacy has certainly improved 
 - Security Posture keeps increasing every day and challenges continue to remain
