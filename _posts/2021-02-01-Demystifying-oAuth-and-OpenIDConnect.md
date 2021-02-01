@@ -38,7 +38,6 @@ Authentication and Authorization as a concept has been there for a really long t
 
 - Why oAuth?
 - oAuth is not a protocol, but just a specification 
-
 - Main actors/elements 
     - Resource Owner
     - Client
@@ -91,7 +90,7 @@ Authentication and Authorization as a concept has been there for a really long t
 - Not possible with SPA and web apps 
 - Makes sense with native applications where silent token refresh is possible 
 - Where Refresh Tokens make sense and where it is difficult  
--Token Revocation and Policies. Webhooks that be can be triggered by IDP when the password is changed or expired. It can help to blacklist tokens in a cache or database and then manage till the time the token expires. 
+- Token Revocation and Policies. Webhooks that be can be triggered by IDP when the password is changed or expired. It can help to blacklist tokens in a cache or database and then manage till the time the token expires. 
 -Implementation challenges with Tokens
 
 **8. Scope And Claims**
@@ -117,6 +116,7 @@ Authentication and Authorization as a concept has been there for a really long t
      -How Cookies was used before?
     - What challenges Cookies posed? 
 
+
 - Tokens
 
     - How Tokens solved these problems?
@@ -125,6 +125,7 @@ Authentication and Authorization as a concept has been there for a really long t
     - XSS - Cross-Site Script attacks when input validation is not sanitized 
     - Tokens can be stored in Cookie as Token for better security
     - Tokens are larger in size due to security and cryptography signatures  compared to Cookies 
+
 
 - Other security issues with OAuth 
 
