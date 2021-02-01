@@ -39,12 +39,12 @@ Authentication and Authorization as a concept has been there for a really long t
 - Why oAuth?
 - oAuth is not a protocol, but just a specification 
 
--Main actors/elements 
-- Resource Owner
-- Client
-- Authorization Server 
-- Resource Server 
-- Tokens
+- Main actors/elements 
+    - Resource Owner
+    - Client
+    - Authorization Server 
+    - Resource Server 
+    - Tokens
 
 
 **4. Comparing oAuth with an analogy of check-in to a Hotel** 
@@ -54,14 +54,12 @@ Authentication and Authorization as a concept has been there for a really long t
 - Client - Hotel 
 - Authorization Server - Hotel Reception 
 - Tokens - Room Key, Key Guards
-
- 
 - Privileged users have access to more than just rooms 
--Client Registration - clients register with oAuth providers 
--Authorization Grant - Owner approves the authorization and grants access
--Scopes and Claims 
--Tokens - JSON Web Tokens JWT pronounced JOT :)
--Different parts of JSON - JWT token. Header / Claims and Signature 
+- Client Registration - clients register with oAuth providers 
+- Authorization Grant - Owner approves the authorization and grants access
+- Scopes and Claims 
+- Tokens - JSON Web Tokens JWT pronounced JOT :)
+- Different parts of JSON - JWT token. Header / Claims and Signature 
 - Talk briefly abt Access Token and Refresh Token 
 
 
@@ -111,26 +109,28 @@ Authentication and Authorization as a concept has been there for a really long t
 **9. Tokens vs Cookies and its Security Implementation** 
 
 - Session Cookies 
-- Stateful, session information maintained in-memory or database
-- Cookie was stored in a browser cookie. Make it HTTP only will help to avoid CSRF attacks. 
-- Cookie gets sent as part of every request from the domain 
-- Explain CSRF attack scenario
- -How Cookies was used before?
-- What challenges Cookies posed? 
+
+    - Stateful, session information maintained in-memory or database
+    - Cookie was stored in a browser cookie. Make it HTTP only will help to avoid CSRF attacks. 
+    - Cookie gets sent as part of every request from the domain 
+    - Explain CSRF attack scenario
+     -How Cookies was used before?
+    - What challenges Cookies posed? 
 
 - Tokens
-- How Tokens solved these problems?
-- Tokens were stateless, scalable, decoupled and good performance 
-- Token Web Storage - local or session storage 
-- XSS - Cross-Site Script attacks when input validation is not sanitized 
-- Tokens can be stored in Cookie as Token for better security
-- Tokens are larger in size due to security and cryptography signatures  compared to Cookies 
 
-Other security issues with OAuth 
+    - How Tokens solved these problems?
+    - Tokens were stateless, scalable, decoupled and good performance 
+    - Token Web Storage - local or session storage 
+    - XSS - Cross-Site Script attacks when input validation is not sanitized 
+    - Tokens can be stored in Cookie as Token for better security
+    - Tokens are larger in size due to security and cryptography signatures  compared to Cookies 
 
-- Token hijacking - use of CSRF token along with state parameters can help
-- Leakage through re-directs. So white list redirect URI's
-- Client secret can be revealed 
+- Other security issues with OAuth 
+
+    - Token hijacking - use of CSRF token along with state parameters can help
+    - Leakage through re-directs. So white list redirect URI's
+    - Client secret can be revealed 
 
 **10. How Tokens are validated by Resource Server / API** 
 
