@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/oauth.jpeg
+image: assets/images/oauth.jpg
 title: Demystifying oAuth and OpenID Connect
 categories:
   - Programming
