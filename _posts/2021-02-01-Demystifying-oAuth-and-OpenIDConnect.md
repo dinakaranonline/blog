@@ -10,6 +10,15 @@ categories:
 ---
 Authentication and Authorization as a concept has been there for a really long time. oAuth is the most standard way in which authorization is implemented and OpenID Connect is a preferred mechanism for authentication. In this podcast , we will Demystify oAuth and OpenID Connect - why , what and how. Listed below are the various topics that are briefly touched upon.
 
+You can listen to the podcast episode here 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5QauBb0hlWs8ijjNSe9TwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Streaming in popular platforms too here. Please subscribe.
+
+**[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)**
+**[Apple Podcast](https://podcasts.apple.com/in/podcast/master-of-none/id1545755804)**
+**[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
 
 
 **1. Introduction**
