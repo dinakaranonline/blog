@@ -12,7 +12,7 @@ Authentication and Authorization as a concept has been there for a really long t
 
 You can listen to the podcast episode here 
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/5QauBb0hlWs8ijjNSe9TwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/4GJRK8TXoxTOq4r0PZti4a" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Streaming in popular platforms too here. Please subscribe.
 
@@ -158,10 +158,4 @@ Streaming in popular platforms too here. Please subscribe.
 - Data Privacy has certainly improved 
 - Security Posture keeps increasing every day and challenges continue to remain
 - IDP help with the authentication authorization security 
-- Federation is another aspect where user identity systems from multiple backends are connected for a seamless unified backend user registry system 
-
-
-
-
-
-
+- Federation is another aspect where user identity systems from multiple backends are connected for a seamless unified backend user registry system
