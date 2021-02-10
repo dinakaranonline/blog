@@ -46,7 +46,7 @@ Some of the topics discussed :
 
 
 
-**Deployment Types:**
+**Deployment Strategies**
 
 1. Re-create
 1. Blue Green
@@ -61,4 +61,3 @@ Some of the topics discussed :
 - Monitoring and Automation of Deployment
 - Immutable Infrastructure As A Paradigm
 - Tips and Best Practices for Safe Deployment
-
