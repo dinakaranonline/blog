@@ -5,6 +5,7 @@ author: dinakaran
 image: assets/images/deploy.jpg
 categories:
   - Programming
+title: Deployment Strategies for Modern Infrastructure
 ---
 In this podcast, we are going to discuss the Deployment Strategies that can be adopted for managing modern infrastructure. Customers are digitally savvy these days and downtime is frowned upon. So how can we plan our deployment in such a way so that there is little to no downtime for the end-users? 
 
