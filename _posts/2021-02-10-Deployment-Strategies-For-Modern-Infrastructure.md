@@ -58,6 +58,7 @@ Some of the topics discussed :
 
 **Other factors to be considered :**
 
--Monitoring and Automation of Deployment
--Immutable Infrastructure As A Paradigm
--Tips and Best Practices for Safe Deployment
+- Monitoring and Automation of Deployment
+- Immutable Infrastructure As A Paradigm
+- Tips and Best Practices for Safe Deployment
+
