@@ -67,7 +67,7 @@ Some of the habits that I could not keep up :
 
 From a motivation and rewards perspective, this habit can do wonders for my career, but it never happened. One of the reason was that I was not very sure about what to code every single day. It was not super clear or obvious to me. I planned a certain time but there was ambiguity around how to get going.  Without thinking much about how to plan my habit, I went in and crash-landed big time. 
 
-**2. Shed some weight **
+**2. Shed some weight**
 
 Again with this habit, the intrinsic motivation was to remain active and healthy. Rewards were appealing as well.  But I had no specific plan around how to achieve it. I kept walking my usual way, but then it did not help me to lose any weight at all. I tried to stretch and do a bit of skipping. But it did not help. Once I worked out too much that resulted in muscle pain and then I fell behind on my schedule. I should have come back on track, but I lapsed. Next time I need to plan this better, be more detailed and intentional about the goal. I did not have proper systems in place to see through that I can hit this goal. 
 
