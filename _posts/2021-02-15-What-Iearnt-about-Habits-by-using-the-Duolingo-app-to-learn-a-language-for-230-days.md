@@ -88,5 +88,5 @@ Prepping up our environment is very much required to succeed in our habits. I ca
 
 If the plan is to walk every day at 8 am, I need to wake up at 7 or 7.30. And if I need to wake up by 7, I need to be in bed by 11. And if I want to be in bed by 11, then I need to wrap up everything by 10 including work. 
 
-Putting a system in place is where most of us fail when it comes to habits. Once the right systems and process are put in place, it is easier to get going and chances are giving up are relatively less. And yes, no one gets it right the first time. But the idea is to try and refine, improvise and get better at reaching the given goal. And more importantly, it is not just reaching a goal but making it part of our identity and who we are.  
+Putting a system in place is where most of us fail when it comes to habits. Once the right systems and process are put in place, it is easier to get going and chances of giving up are relatively less. And yes, no one gets it right the first time. But the idea is to try and refine, improvise and get better at reaching the given goal. And more importantly, it is not just reaching a goal but making it part of our identity and who we are.  
 
