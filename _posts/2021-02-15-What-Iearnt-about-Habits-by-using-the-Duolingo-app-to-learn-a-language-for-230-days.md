@@ -29,11 +29,10 @@ One important aspect that I later realized is that I never had any major motivat
 
 Early days were super fun. I learnt alphabets and got reminded of some Hindi words that I learnt during my school days. It was just fun to see progressing through every level day after day, week after week.
 
-I blogged about the experiences positively during that time. 
+I [blogged](https://dinakaran.dev/blog/Learning-New-Language-through-Duolingo-Reflections-On-DailyRoutine-and-Personalized-Learning/) about the experiences positively during that time. 
 
-https://dinakaran.dev/blog/Learning-New-Language-through-Duolingo-Reflections-On-DailyRoutine-and-Personalized-Learning/
 
-**Novelty starting to wear off (after 100+ days)-**
+**Novelty starting to wear off (after 100+ days)**
 
 I always thought I would reach this stage pretty soon. Even though the effort required to do this was pretty small, I was not compelled enough to go through the rest of the course. There are not so much of rewards to speak for taking this up. It initially felt like an interesting idea, but then beyond a point, I felt it to be boring.  I did not pay for this is another reason why I thought of giving it up mid-way. What is there to lose was the practical perspective. 
 
