@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+author: dinakaran
+image: assets/images/deploy.jpg
+title: >-
+  What I learnt about Habits by using the Duolingo app to learn a language for
+  230 days
+categories:
+  - General
 ---
 What I learnt about Habits by using the Duolingo app to learn a language for 230 days ( ~ 8 months) 
 
