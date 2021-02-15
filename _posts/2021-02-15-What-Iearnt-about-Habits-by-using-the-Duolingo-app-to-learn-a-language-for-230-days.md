@@ -36,7 +36,7 @@ I [blogged](https://dinakaran.dev/blog/Learning-New-Language-through-Duolingo-Re
 
 I always thought I would reach this stage pretty soon. Even though the effort required to do this was pretty small, I was not compelled enough to go through the rest of the course. There are not so much of rewards to speak for taking this up. It initially felt like an interesting idea, but then beyond a point, I felt it to be boring.  I did not pay for this is another reason why I thought of giving it up mid-way. What is there to lose was the practical perspective. 
 
-**Should I complete or drop out ( after 150+ days)? **
+**Should I complete or drop out ( after 150+ days)?**
 
 It was then I realized why most of our new year resolutions or habits do not stick over time. Some of the reasons : 
 
