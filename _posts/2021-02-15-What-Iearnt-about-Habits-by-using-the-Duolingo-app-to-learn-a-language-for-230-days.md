@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/deploy.jpg
+image: assets/images/habits.jpeg
 title: >-
   What I learnt about Habits by using the Duolingo app to learn a language for
   230 days
