@@ -91,6 +91,17 @@ Authentication and Authorization as a concept has been there for a long time. oA
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4GJRK8TXoxTOq4r0PZti4a" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+**7. Deployment Strategies for Modern Infrastructure ~ 35 mins**
+
+In this podcast, we are going to discuss the Deployment Strategies that can be adopted for managing modern infrastructure. Customers are digitally savvy these days and downtime is frowned upon. So how can we plan our deployment in such a way so that there is little to no downtime for the end-users? 
+
+To arrive on a deployment strategy, we need to understand the requirements to start with and then mapping each deployment strategy with pros and cons. I have discussed on the capabilities and requirements for arriving and deciding on deployment strategies, the various deployment strategies like Recreate, Rolling Updates, Blue Green, Canary and A/B Testing. Monitoring and Deployment Automation is another important aspect that needs to be factored. With Modern workloads in the cloud, Immutable Infrastructure as a paradigm is gaining traction. 
+
+Finally, we end up discussing the best practices for Safer Production Deployment.
+
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5SFaOgWhxWFFXfSsc7dZNu" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 **10. What the heck is Digital Transformation anyway ~ 45 mins**
 
 Digital Transformation has caught the fancy of large organisations in the last 5 to 6 years. We get to hear about organisations becoming more digital. And what does this becoming Digital means? We have been in the digital world and have been using banking services and other online services for well over 15 years now and they are mostly digital as a customer. So what has changed? I tried to address this aspect of the podcast. 
