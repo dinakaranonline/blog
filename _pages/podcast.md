@@ -75,7 +75,7 @@ As cloud adoption goes mainstream, the cost and financial impact of running serv
 <iframe src="https://open.spotify.com/embed-podcast/episode/4snksceo0yYb9eMNajJ2cv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-**6. DevSecOps - Security is not an afterthought ~ 36 mins**
+**7. DevSecOps - Security is not an afterthought ~ 36 mins**
 
 DevSecOps is a relatively new term coined that focus on the collaboration between Application Development, Operations and Security Teams coming together to deliver applications and software in an agile fashion in an iterative, faster and secure way.
 
@@ -85,13 +85,13 @@ Threat Modelling is the starting point to understand the security posture, ident
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5QauBb0hlWs8ijjNSe9TwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-**7. De-mystifying oAuth and OpenIDConnect ~ 50 mins**
+**8. De-mystifying oAuth and OpenIDConnect ~ 50 mins**
 
 Authentication and Authorization as a concept has been there for a long time. oAuth is the most standard way in which authorization is implemented and OpenID Connect is a preferred mechanism for authentication. In this podcast, we will Demystify oAuth and OpenID Connect - why, what and how. We will briefly touch upon the history of authentication, OAuth Grants, Scopes and Claims. We also discuss the different types of tokens like ID Token, Access Token and Refresh Tokens. We also briefly touch upon the differences between Cookie and Token and finally ending with how API validates these token. I hope you find the topics discussed in this episode useful.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4GJRK8TXoxTOq4r0PZti4a" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-**7. Deployment Strategies for Modern Infrastructure ~ 35 mins**
+**9. Deployment Strategies for Modern Infrastructure ~ 35 mins**
 
 In this podcast, we are going to discuss the Deployment Strategies that can be adopted for managing modern infrastructure. Customers are digitally savvy these days and downtime is frowned upon. So how can we plan our deployment in such a way so that there is little to no downtime for the end-users? 
 
