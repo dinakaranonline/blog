@@ -91,7 +91,19 @@ Authentication and Authorization as a concept has been there for a long time. oA
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4GJRK8TXoxTOq4r0PZti4a" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+**10. What the heck is Digital Transformation anyway ~ 45 mins**
+
+Digital Transformation has caught the fancy of large organisations in the last 5 to 6 years. We get to hear about organisations becoming more digital. And what does this becoming Digital means? We have been in the digital world and have been using banking services and other online services for well over 15 years now and they are mostly digital as a customer. So what has changed? I tried to address this aspect of the podcast. 
+
+Like DevOps, if you speak to different people, each will have their perspective on what Digital Transformation is all about. And to be a great extent, it might be true as well. I would like to bring my perspective on what Digital Transformation is all about, by taking a real-world example and applying the core elements of Digital Transformation that involves people, process and technology. I also delve into the metrics, goals and outcomes that are required for Digital Transformation and the evolving trends and process in software engineering that can help to make Digital Transformation successful.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/64pLZattpCDOGtBeEKGddp" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 To get latest episodes, please subscribe to my podcast here : **[Spotify](https://open.spotify.com/show/4gFFUZ8Vl3dVKDOFwauRIe)** **[Apple Podcast](https://podcasts.apple.com/in/podcast/master-of-none/id1545755804)** and **[Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NGRiYzU2MC9wb2RjYXN0L3Jzcw?sa=X&ved=2ahUKEwin0_Lm2OrtAhVfyHMBHZyHD3gQ9sEGegQIARAC)**
+
+
+
+
 
 
 Hope you like it.
