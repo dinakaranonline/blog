@@ -2,7 +2,7 @@
 published: true
 layout: post
 author: dinakaran
-image: assets/images/digital-transformation.jpeg
+image: assets/images/mi.jpeg
 Title: null
 categories:
   - Programming
