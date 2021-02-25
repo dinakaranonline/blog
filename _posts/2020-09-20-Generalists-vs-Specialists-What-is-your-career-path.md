@@ -1,12 +1,12 @@
 ---
-published: true
+title: Generalists vs Specialists - What is your career path?
+date: 2020-09-20 00:00:00 Z
+categories:
+- Technology
+- General
 layout: post
 author: dinakaran
 image: assets/images/specialists-vs-generalists.jpg
-categories:
-  - Technology
-  - General
-title: Generalists vs Specialists - What is your career path?
 ---
 
 Over the last 14 years, there has been an eternal struggle with the ever-changing technology landscape over whether to become a Generalist or Specialist. There are no easy answers to this ever-burning question. Depending on the context, both options seem to make sense from different vantage points. I happened to read across this post by Vani Kola on Generalist vs Specialists 

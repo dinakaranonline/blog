@@ -1,13 +1,13 @@
 ---
-published: true
 title: Launching my new tech podcast Master Of None
+date: 2020-12-20 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/master-of-none.png
 featured: true
-categories:
-  - Programming
-  - Technology
 ---
 
 As we near the end of 2020 with the entire world getting into podcasting big time and podcast becoming mainstream, I do not want to become left out. Because I love to experiment with all things new and shiny. So jumping into the bandwagon and created my new podcast 'Master Of None'. 

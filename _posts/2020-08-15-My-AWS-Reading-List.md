@@ -1,12 +1,12 @@
 ---
-published: true
+title: My AWS Reading List
+date: 2020-08-15 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/aws-learning.jpg
-categories:
-  - Programming
-  - Technology
-title: My AWS Reading List
 ---
 
 Some time back I wrote a [post](https://dinakaran.dev/blog/How-to-find-useful-content-to-read-on-a-daily-basis/) about how I find useful content to read on a daily basis. In this post, I would want to dive deep on how I read content about all things AWS. 

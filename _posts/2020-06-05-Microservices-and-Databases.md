@@ -1,10 +1,13 @@
 ---
-published: true
+title: Microservices And Databases
+date: 2020-06-05 00:00:00 Z
+categories:
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/databases.png
-categories: [ Programming ]
 ---
+
 When it comes to microservices, the thinking around databases has to be radical and very different. Following are the essential considerations : 
 
 ### 1. No shared database among microservices 

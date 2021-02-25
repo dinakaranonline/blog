@@ -1,13 +1,14 @@
 ---
-published: true
+title: How I hosted my blog for 0$
+date: 2021-01-09 00:00:00 Z
+categories:
+- General
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/blog-hosting.jpeg
-title: How I hosted my blog for 0$
-categories:
-  - General
-  - Technology
 ---
+
 When I wanted to set up my new personal blog, I was looking for various options. I had prior experience setting up my blog, right from my earlier days in platforms like Blogger, WordPress etc. So I did not want to use WordPress or Blogger as it felt way too easy. Last time I checked, custom domain name mapping costs some money. Also, the self-hosted option would need a database, and it may be costly to set up and host.
 
 The second option I thought about was Medium since it was widely popular, and most of the blog these days are hosted in Medium. But Medium had tried to push monetization and introduced paywall. So I had to look elsewhere. Another option to was to use LinkedIn. Again it is easier to set things up, but be at the mercy of another distribution platform.

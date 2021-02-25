@@ -1,12 +1,12 @@
 ---
-published: true
-title: Looking beyond the big Cloud Players 
+title: Looking beyond the big Cloud Players
+date: 2020-10-25 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/niche-cloud-players.jpg
-categories:
-  - Programming
-  - Technology
 ---
 
 As we delve into the Cloud landscape, we get to hear news about the big cloud providers like AWS, GCP, Azure, Oracle, IBM or Alibaba etc. All of these services are from big tech companies that offer a wide variety of services with varying levels of sophistication when it comes to offering features, value for money, ease of use and management. 

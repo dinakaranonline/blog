@@ -1,13 +1,15 @@
 ---
-published: true
+title: Cloud Vendor Lock In Conundrum
+date: 2020-08-08 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/vendor-lockin.png
 featured: true
-categories:
-  - Programming
-  - Technology
 ---
+
 The whole world and its infrastructure are moving into Cloud at a rapid pace in the last decade. Speed and frenzy of this transformation have caught everyone by surprise. From small start-ups to large organizations and government institutions, all of them are migrating their existing on-prem infrastructure into the cloud and building new-age solutions purely in cloud. 
 
 ### Building Innovations on the open standards

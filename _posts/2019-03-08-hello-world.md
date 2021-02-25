@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Hello World Blog
+date: 2019-03-08 00:00:00 Z
+categories:
+- General
+layout: post
 author: dinakaran
 image: assets/images/gotit.jpg
-published: true
-categories: [ General ]
 ---
+
 Well, I do not really remember when was the last time I blogged. I had my fair share of attempts at running a personal blog and tech-focused blog long back. With the advent of Facebook and Twitter, I stopped blogging and the interest to write anything is restricted to mostly Twitter threads.
 
 The genesis for this blog was triggered when I purchased a new .dev domain [dinakaran.dev](https://dinakaran.dev) a few days back. Even a couple of years back, I registered one more domain and set up a single page profile using some free hosting provider. But beyond that, I lost interest to do anything. I hope that I do something with this domain this time. 

@@ -1,10 +1,15 @@
 ---
-published: true
+title: Weekly Roundup 5th July 2020
+date: 2020-07-05 00:00:00 Z
+categories:
+- General
+- Technology
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-5.png
-categories: [ General, Technology, Programming ]
 ---
+
 Interesting reads for the week
 
 

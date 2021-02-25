@@ -1,10 +1,10 @@
 ---
-layout: page
 title: Podcast
-permalink: /podcast
+permalink: "/podcast"
+layout: page
 comments: false
-published: true
 ---
+
 As we near the end of 2020 with the entire world getting into podcasting big time and podcast becoming mainstream, I do not want to become left out. Because I love to experiment with all things new and shiny. So jumping into the bandwagon and created my new podcast ‘**Master Of None**’.
 
 ![master-of-none.png]({{site.baseurl}}/assets/images/master-of-none.png)

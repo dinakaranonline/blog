@@ -1,13 +1,13 @@
 ---
-published: true
+title: Weekly RoundUp Series November 2020
+date: 2020-11-15 00:00:00 Z
+categories:
+- Technology
+- General
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-nov-2020.jpeg
-categories:
-  - Technology
-  - General
-  - Programming
-title: Weekly RoundUp Series November 2020
 ---
 
 ## Interesting articles that I read for the week ending 29th Nov,2020

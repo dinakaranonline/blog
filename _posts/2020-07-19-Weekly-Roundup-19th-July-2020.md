@@ -1,12 +1,14 @@
 ---
-published: true
+title: Weekly Roundup 19th July 2020
+date: 2020-07-19 00:00:00 Z
+categories:
+- General
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup.jpg
-categories:
-  - General
-  - Technology
 ---
+
 Interesting reads for the week. 
 
 ### 1. Twitter was hacked and biggest celebrity accounts were compromised. 

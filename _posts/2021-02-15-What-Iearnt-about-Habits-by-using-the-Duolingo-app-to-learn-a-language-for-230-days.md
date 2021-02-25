@@ -1,14 +1,14 @@
 ---
-published: true
+title: What I learnt about Habits by using the Duolingo app to learn a language for
+  230 days
+date: 2021-02-15 00:00:00 Z
+categories:
+- General
 layout: post
 author: dinakaran
 image: assets/images/habits.jpeg
-title: >-
-  What I learnt about Habits by using the Duolingo app to learn a language for
-  230 days
-categories:
-  - General
 ---
+
 What I learnt about Habits by using the Duolingo app to learn a language for 230 days ( ~ 8 months) 
 
 Some times life gets boring. The day-to-day grind of professional work brings no joy. It usually follows a pattern. There are periods of hard work followed by some success. It is getting thrown into the deep end of the water and swimming back. Rinse and repeat.

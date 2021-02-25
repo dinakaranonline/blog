@@ -1,12 +1,12 @@
 ---
-published: true
+title: The Game of Certifications - Who does it help and how ?
+date: 2020-09-13 00:00:00 Z
+categories:
+- Technology
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/certification.jpg
-categories:
-  - Technology
-  - Programming
-title: The Game of Certifications - Who does it help and how ?
 ---
 
 Even since the COVID outbreak, my LinkedIn feed is filled with people clearing certifications. While certifications are a nice way to evaluate your experience and knowledge, the goal of certification cannot be just to acquire theoretical knowledge and use it to find new opportunities. Without hands-on experience, trying to get certified with a hope of finding a project in which someone has zero experience is not going to lead anywhere. 

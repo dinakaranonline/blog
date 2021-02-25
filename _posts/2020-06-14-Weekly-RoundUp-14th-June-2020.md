@@ -1,9 +1,11 @@
 ---
-published: true
+title: Weekly Roundup 14th June 2020
+date: 2020-06-14 00:00:00 Z
+categories:
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-2.jpg
-categories: [ Technology ]
 ---
 
 Interesting reads for this week. 

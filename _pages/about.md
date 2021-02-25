@@ -1,10 +1,10 @@
 ---
-layout: page
 title: About
-permalink: /about
+permalink: "/about"
+layout: page
 comments: false
-published: true
 ---
+
 I'm Dinakaran from Chennai, India. I'm an Engineering Leader with 14+ yrs of experience building Transformative Digital Solutions in the intersection of Web, AWS Cloud , DevOps and Microservices
 
 Few highlights of my work experience

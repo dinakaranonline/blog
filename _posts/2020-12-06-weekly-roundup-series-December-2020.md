@@ -1,14 +1,15 @@
 ---
-published: true
+title: Weekly RoundUp Series December 2020
+date: 2020-12-06 00:00:00 Z
+categories:
+- Technology
+- General
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-dec-2020.png
-categories:
-  - Technology
-  - General
-  - Programming
-title: Weekly RoundUp Series December 2020
 ---
+
 ## Curation of all interesting content that I came across in the internet till 31st December,2020
 
 ### 1. Tracking India's school toppers 

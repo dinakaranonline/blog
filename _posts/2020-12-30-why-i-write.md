@@ -1,12 +1,14 @@
 ---
-published: true
+title: Why I Write
+date: 2020-12-30 00:00:00 Z
+categories:
+- General
 layout: post
 author: dinakaran
 image: assets/images/why-i-write.jpeg
 featured: false
-categories:
-  - General
 ---
+
 For a really long time, I had this idea that writing must be exclusive for subjects or topics in which I have expert knowledge. So I had this notion of write only in areas where I have a good understanding of the problem domain and can offer thought leadership level stuff. I had the urge that the subject should be relatively new. It must not be a repeat of whatever is already available on the internet. It should add value to the reader. These thoughts made writing a herculean task because the time and energy required is humungous and is one of the main reason I stopped writing. 
 
 But over time and after reading and listening to so many people on the internet, I found out that this is not necessarily true. Writing helps to improve clarity on the topic to the writer. I believe this is one critical reason why writing can be rewarding. It does not matter whether the subject is just scratching the surface or go pretty deep, but at the end of the day, the process of writing by putting down our thoughts in the most original way helps to refine and reframe our understanding better. 

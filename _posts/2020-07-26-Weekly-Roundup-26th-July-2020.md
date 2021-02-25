@@ -1,11 +1,12 @@
 ---
-published: true
+title: Weekly Roundup 26th July 2020
+date: 2020-07-26 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-4.jpg
-categories:
-  - Programming
-  - Technology
 ---
 
 Interesting reads for the last week.

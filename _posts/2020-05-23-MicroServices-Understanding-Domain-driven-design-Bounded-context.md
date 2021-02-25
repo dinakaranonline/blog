@@ -1,9 +1,11 @@
 ---
-published: true
+title: Microservices Understanding Domain Driven Design Bounded Context
+date: 2020-05-23 00:00:00 Z
+categories:
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/ddd.gif
-categories: [ Programming ]
 ---
 
 Domain Driven Design is the foundational pillar for any of the micro-services implementation. It helps to broadly classify the microservices. So think microservices, think domain driven design. Both gel well with each other. 

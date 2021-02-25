@@ -1,13 +1,14 @@
 ---
-published: true
+title: Weekly RoundUp Series October 2020
+date: 2020-10-11 00:00:00 Z
+categories:
+- Technology
+- General
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-oct-2020.jpg
-categories:
-  - Technology
-  - General
-title: Weekly RoundUp Series October 2020
 ---
+
 ## Interesting articles for the last week of the month
 
 ### 1. Apple, Google and a Deal That Controls the Internet

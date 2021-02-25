@@ -1,12 +1,12 @@
 ---
-published: true
+title: Buying a laptop in 2020 ? 5 main factors to consider.
+date: 2020-10-04 00:00:00 Z
+categories:
+- Technology
+- General
 layout: post
 author: dinakaran
 image: assets/images/laptop-buying-guide.jpg
-categories:
-  - Technology
-  - General
-title: Buying a laptop in 2020 ? 5 main factors to consider.
 ---
 
 Planning to buy a laptop in 2020? Choices may be overwhelming and confusing at times. While this post may not provide a suggestion on what model to choose, it gives a view on the factors that impact the cost and performance of a laptop. 

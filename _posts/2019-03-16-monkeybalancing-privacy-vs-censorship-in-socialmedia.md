@@ -1,13 +1,15 @@
 ---
-layout: post
-title: >-
-  Monkey Balancing Free Speech, Privacy , Moderation and Regulation in Social
+title: Monkey Balancing Free Speech, Privacy , Moderation and Regulation in Social
   Media
+date: 2019-03-16 00:00:00 Z
+categories:
+- General
+- Technology
+layout: post
 author: dinakaran
 image: assets/images/privacy.jpg
-published: true
-categories: [ General, Technology ]
 ---
+
 Ever since the dawn of social media, we have seen quite a few protests over how social media tech companies moderate content. Initially, it started with moderation policies and all of us were super critical about any kind of moderation. 
 
 Additionally, Governments all over the world would want to peep through what is discussed and for its part, tried to introduce or legislate various regulations unsuccessfully about what is written about them or in the context of national security, to reach out to tech companies lawfully to find out dissenting voices and silence them. 

@@ -1,10 +1,14 @@
 ---
-published: true
+title: Weekly Roundup 21 June 2020
+date: 2020-06-21 00:00:00 Z
+categories:
+- Technology
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-4.jpg
-categories: [ Technology, Programming ]
 ---
+
 Interesting reads from this week
 
 ### 1. Apple disallowing Hey, a new email mobile app in iOS App Store.What it means to AppStore and antitrust investigations being opened on them elsewhere ? 

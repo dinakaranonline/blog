@@ -1,12 +1,14 @@
 ---
-published: true
+title: Weekly Roundup August 2020
+date: 2020-08-09 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-2.jpg
-categories:
-  - Programming
-  - Technology
 ---
+
 ## Interesting reads for the week of 30th Aug , 2020
 
 ### 1. 3 practices by Bill Gates that make you change the way you read books

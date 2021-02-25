@@ -1,10 +1,11 @@
 ---
-layout: post
 title: To Microservices or not
+date: 2020-05-15 00:00:00 Z
+categories:
+- Programming
+layout: post
 author: dinakaran
 image: assets/images/switch_to_microservices.jpg
-published: true
-categories: [ Programming ]
 ---
 
 The decision of whether to go for microservices or stick to a monolith is a constantly recurring question. The simple answer is, it depends on the context. Having said that, it would be good to comprehend the major factors that would impact our decisions. 

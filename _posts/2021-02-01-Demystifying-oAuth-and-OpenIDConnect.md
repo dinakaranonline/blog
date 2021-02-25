@@ -1,13 +1,14 @@
 ---
-published: true
+title: Demystifying oAuth and OpenID Connect
+date: 2021-02-01 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/oauth.jpg
-title: Demystifying oAuth and OpenID Connect
-categories:
-  - Programming
-  - Technology
 ---
+
 Authentication and Authorization as a concept has been there for a really long time. oAuth is the most standard way in which authorization is implemented and OpenID Connect is a preferred mechanism for authentication. In this podcast , we will Demystify oAuth and OpenID Connect - why , what and how. Listed below are the various topics that are briefly touched upon.
 
 You can listen to the podcast episode here 

@@ -1,12 +1,15 @@
 ---
-published: true
+title: Thanks To Extended Work From Home , My Home Internet Setup For High Availability
+  And Redundancy
+date: 2020-07-26 00:00:00 Z
+categories:
+- General
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/slowinternet.jpg
-categories:
-  - General
-  - Technology
 ---
+
 Thanks to extended work from home inflicted by Corona,  my home internet has high availability and set up for redundancy, similar to Cloud Providers who have multiple availability zones. 
 
 ### My 6 year tryst with BSNL Fibre broadband

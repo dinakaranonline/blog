@@ -1,10 +1,13 @@
 ---
-published: true
+title: No Code Tools, The Tech Co Founder You Were Always Looking For
+date: 2020-06-27 00:00:00 Z
+categories:
+- Technology
+- Programming
 layout: post
 author: dinakaran
 featured: true
 image: assets/images/nocode.png
-categories: [ Technology, Programming ]
 ---
 
 There is always a running joke in the start-up world - whenever there is an after-event party or socialising event, there are always one or two enterprising founders trying to find a TECH co-founder for their new idea/start-up.  The whole world is swiftly gravitating to a new normal where any and every industry is getting impacted by the application of tech in some way or the other. Software is eating the world.

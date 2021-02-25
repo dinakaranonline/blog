@@ -1,12 +1,12 @@
 ---
-published: true
 title: Atomic Habits by James Clear - Dummies guide to Habit Formation
+date: 2020-11-01 00:00:00 Z
+categories:
+- General
 layout: post
 author: dinakaran
 featured: true
 image: assets/images/Atomic_Habits.png
-categories:
-  - General
 ---
 
 Atomic Habits is surely one of the best books that I have read on personal productivity. While a lot of self-help books generally give us a lot of motivation to keep started, hardly the system that helps us to achieve what we want is not discussed. We are left to figure it ourselves. Of late, Habit Formation seems to be the main focus for anything to do with productivity and this book provides a rare insight into habit formation along with the tools that are required to follow through on your desire for change. 

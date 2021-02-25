@@ -1,12 +1,13 @@
 ---
-published: true
+title: Deployment Strategies for Modern Infrastructure
+date: 2021-02-10 00:00:00 Z
+categories:
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/deploy.jpg
-categories:
-  - Programming
-title: Deployment Strategies for Modern Infrastructure
 ---
+
 In this podcast, we are going to discuss the Deployment Strategies that can be adopted for managing modern infrastructure. Customers are digitally savvy these days and downtime is frowned upon. So how can we plan our deployment in such a way so that there is little to no downtime for the end-users? 
 
 To arrive on a deployment strategy, we need to understand the requirements to start with and then mapping each deployment strategy with pros and cons. I have discussed on the capabilities and requirements for arriving and deciding on deployment strategies, the various deployment strategies like Recreate, Rolling Updates, Blue Green, Canary and A/B Testing. Monitoring and Deployment Automation is another important aspect that needs to be factored. With Modern workloads in the cloud, Immutable Infrastructure as a paradigm is gaining traction. 

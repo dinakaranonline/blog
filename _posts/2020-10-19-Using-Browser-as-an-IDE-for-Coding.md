@@ -1,12 +1,13 @@
 ---
-published: true
 title: Using Browser as an IDE for Coding
+date: 2020-10-19 00:00:00 Z
+categories:
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/cloud-ide.jpg
-categories:
-  - Programming
 ---
+
 Gone are the days when setting up a Development environment can take weeks. Typically the process involves requests for installing software, Integrated Development Environment IDE, admin access etc. Other times, when you read about some exciting new stuff and want to quickly dirty hands, there is a lot of software that needs to be installed and it makes the whole exploration not so super smooth.  
 
 But with the advent of cloud, there is some momentum around the usage of the browser itself as IDE. These tools abstract the whole CI-CD process of build and deployment thereby making the whole process seamless and effortless. I was a non-believer in using browser for software development, but using these tools helped me changed my mind. 

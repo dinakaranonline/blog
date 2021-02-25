@@ -1,11 +1,11 @@
 ---
-published: true
 title: AWS for Application And Solution Architects And BackEnd Developers
+date: 2020-08-01 00:00:00 Z
+categories:
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/buildonaws.jpg
-categories:
-  - Programming
 ---
 
 AWS and Cloud is all the rage these days and almost everyone is jumping into the bandwagon. But to get started in AWS may feel very daunting because AWS has so many different services and offerings. Depending on your current skill set, it may be very difficult to understand where to get started, especially when one wants to self-learn. 

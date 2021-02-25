@@ -1,12 +1,12 @@
 ---
-published: true
+title: What the heck is Digital Transformation anyway
+date: 2021-02-19 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/digital-transformation.jpeg
-categories:
-  - Programming
-  - Technology
-title: What the heck is Digital Transformation anyway
 ---
 
 Digital Transformation has caught the fancy of large organisations in the last 5 to 6 years. We get to hear about organisations becoming more digital. And what does this becoming Digital means? We have been in the digital world and have been using banking services and other online services for well over 15 years now and they are mostly digital as a customer. So what has changed? I tried to address this aspect of the podcast. 

@@ -1,12 +1,13 @@
 ---
-published: true
+title: DevSecOps - Security is not an afterthought
+date: 2021-01-23 00:00:00 Z
+categories:
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/DevSecOps.jpeg
-categories:
-  - Programming
-title: DevSecOps - Security is not an afterthought
 ---
+
 DevSecOps is a relatively new term coined that focus on the collaboration between Application Development, Operations and Security Teams coming together to deliver applications and software in an agile fashion in an iterative, faster and secure way.
 
 In this podcast, we discuss the reason why DevSecOps have come into focus in the last few years. And for teams to start adopting DevSecOps practices, what are different aspects, perspectives and approaches that need to be considered are also briefly touched upon. 

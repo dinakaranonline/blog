@@ -1,10 +1,11 @@
 ---
-published: true
+title: 14 Years In Tech 14 Life Lessons
+date: 2020-07-18 00:00:00 Z
+categories:
+- General
 layout: post
 author: dinakaran
 image: assets/images/keepcalm.png
-categories:
-  - General
 ---
 
 This 17th of July, I completed 14 years in the Tech Industry. It has been a whirlwind ride. What is life when one cannot take the time to reflect? I wish someone told me this when I started my career.

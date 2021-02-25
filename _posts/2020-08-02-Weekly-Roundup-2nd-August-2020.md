@@ -1,12 +1,14 @@
 ---
-published: true
+title: Weekly Roundup 2nd August 2020
+date: 2020-08-02 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-7.png
-categories:
-  - Programming
-  - Technology
 ---
+
 Interesting reads for this week.
 
 ### 1.The Big Tech's Anti-trust hearing case 

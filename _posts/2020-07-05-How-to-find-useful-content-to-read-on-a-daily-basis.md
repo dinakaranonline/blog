@@ -1,10 +1,12 @@
 ---
-published: true
+title: How To Find Useful Content To Read On A Daily Basis
+date: 2020-07-05 00:00:00 Z
+categories:
+- General
 layout: post
 author: dinakaran
 featured: true
 image: assets/images/reading.jpg
-categories: [ General ]
 ---
 
 On the internet, I always had this struggle to find and read content daily. Read meaning not reading a book, but interesting content in the form of news articles, blogs, podcast or video content etc. Over the last decade, I tried a lot of different options but nothing seemed to work, partly because I did not have a lot of motivation to read, but the 'find interesting content and form reading routine' workflow too was not ideal. I come across  interesting articles in the timeline of various social media. I bookmark or like them but then forget about it. Other times, I use Google Keep to bookmark and read later. But then, I forget about it totally.

@@ -1,12 +1,14 @@
 ---
-published: true
+title: Weekly Roundup Series January 2021
+date: 2021-01-23 00:00:00 Z
+categories:
+- General
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-jan-2021.jpg
-categories:
-  - General
-  - Technology
 ---
+
 Happy New Year 2021. Wishing the readers of this blog a warm and joyful 2021. Continuing with the weekly round up series in 2021 as well. 
 
 ### List of interesting content that I read on the internet for the week ending 31st Jan,2021

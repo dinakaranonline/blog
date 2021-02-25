@@ -1,10 +1,15 @@
 ---
-published: true
+title: Weekly Roundup 7th June 2020
+date: 2020-06-07 00:00:00 Z
+categories:
+- General
+- Technology
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/weeklyroundup-1.png
-categories: [ General, Technology, Programming ]
 ---
+
 Interesting reads for the week of 7th June 2020
 
 ### 1. Learning via Illustrations of Web Security

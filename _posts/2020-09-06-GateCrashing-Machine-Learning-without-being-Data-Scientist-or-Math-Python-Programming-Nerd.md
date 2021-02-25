@@ -1,15 +1,14 @@
 ---
-published: true
+title: GateCrashing Machine Learning without being Data Scientist or Math/Python Programming
+  Nerd
+date: 2020-09-06 00:00:00 Z
+categories:
+- Technology
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/machine-learning.png
 featured: true
-categories:
-  - Technology
-  - Programming
-title: >-
-  GateCrashing Machine Learning without being Data Scientist or Math/Python
-  Programming Nerd
 ---
 
 Machine Learning has been the rage in the last few years. But every time I try to venture into Machine Learning, I get overwhelmed with the usage of complex terms like Machine Learning Models,  Math equations like Statistics and Regression Models and  Data Science etc. All this creates a mental barrier to explore the  World of Machine Learning assuming that Machine Learning is only for nerds who have expert knowledge of Python and have a good grasp of advanced math concepts. But over the years, Machine Learning has become accessible and there are a lot of out-of-box services that are now readily available that can readily help to address certain use-cases.

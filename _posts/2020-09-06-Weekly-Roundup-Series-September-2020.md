@@ -1,12 +1,14 @@
 ---
-published: true
+title: Weekly Roundup Series September 2020
+date: 2020-09-06 00:00:00 Z
+categories:
+- Programming
+- Technology
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-sep-2020.jpg
-categories:
-  - Programming
-  - Technology
 ---
+
 ## Weekly Round-Up for the week ending 20th Sep, 2020
 
 **1. Clean Code - 5 Key Takeaways**

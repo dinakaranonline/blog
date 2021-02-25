@@ -1,10 +1,15 @@
 ---
-published: true
+title: Weekly Round Up 28th June 2020
+date: 2020-06-28 00:00:00 Z
+categories:
+- General
+- Technology
+- Programming
 layout: post
 author: dinakaran
 image: assets/images/weekly-roundup-2.jpg
-categories: [ General, Technology, Programming ]
 ---
+
 Weekly Round-up of interesting articles that I read in the web in the last one week. 
 
 ### 1.Google squandering its 10-year lead?

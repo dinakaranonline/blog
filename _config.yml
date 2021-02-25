@@ -1,17 +1,24 @@
-# Site
-name: "D Digitally"
-title: "D Digitally"
-description: "Hot takes on All Things Digital"
-meta_description: "Blog of Dinakaran Sankaranarayanan"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /blog
-google_analytics: 'UA-135459704-1'
-disqus: 'demowebsite'
-include: ["_pages"]
-permalink: /:title/
-
-# Authors
+---
+title: D Digitally
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: D Digitally
+description: Hot takes on All Things Digital
+meta_description: Blog of Dinakaran Sankaranarayanan
+logo: assets/images/logo.png
+favicon: assets/images/logo.png
+baseurl: "/blog"
+google_analytics: UA-135459704-1
+disqus: demowebsite
+include:
+- _pages
+permalink: "/:title/"
 authors:
   sal:
     name: Sal
@@ -20,7 +27,9 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: Author of Mediumish, a Bootstrap Medium styled template available
+      for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template
+      demo.
   john:
     name: John
     display_name: John
@@ -28,7 +37,9 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: This is the author box. Write a short description of the author here.
+      You are currently previewing Mediumish demo, a Jekyll template compatible with
+      Github pages.
   dinakaran:
     name: Dinakaran
     display_name: Dinakaran
@@ -36,32 +47,21 @@ authors:
     email: dinakaranonline@gmail.com
     web: https://dinakaran.dev
     twitter: https://twitter.com/dks
-   
-
-
-# Plugins
-plugins: 
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-archives
-    
-# Archives
+plugins:
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
 jekyll-archives:
   enabled:
-    - categories
+  - categories
   layout: archive
   permalinks:
-    category: '/category/:name/'
-    
-# Pagination 
+    category: "/category/:name/"
 paginate: 6
-paginate_path: /page:num/
-    
-# Other
+paginate_path: "/page:num/"
 markdown: kramdown
-
 kramdown:
   input: GFM
   syntax_highlighter: rouge

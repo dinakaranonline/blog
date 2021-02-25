@@ -1,11 +1,11 @@
 ---
-published: true
+title: 5 Key Takeaways from the book Grit by Angela Duckworth
+date: 2020-10-11 00:00:00 Z
+categories:
+- General
 layout: post
 author: dinakaran
 image: assets/images/grit.jpg
-categories:
-  - General
-title: 5 Key Takeaways from the book Grit by Angela Duckworth
 ---
 
 I happened to read the book Grit by Angela Duckworth and here are 5 Key Takeaways from the book.
