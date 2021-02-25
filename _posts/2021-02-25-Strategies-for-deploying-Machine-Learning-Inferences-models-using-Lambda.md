@@ -155,7 +155,7 @@ If Sagemaker is already available for Model training, the inference is an additi
 
 ## 6.Lambda invoking Inference Model available in EFS
 
-This is one of the newest approaches available. EFS can be used to both train and deploy models. EFS can also be mounted on the Lambda as an extension. This ensures that Model training and deployment into production can happen with no impact on Lambda deployment. Also, the cold start issue typically associated with loading a large model from S3 or other packages restriction can be greatly avoided. 
+This is one of the newest approaches available. EFS can be used to both train and deploy models. EFS can also be mounted on the Lambda as an extension. This ensures that Model training and deployment into production can happen with no impact on Lambda deployment. Also, the cold start issue typically associated with loading a large model from S3 or other packages restriction can be avoided. 
 
 ![Lambda Machine Learning Use-Cases -  Lambda ML 5.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases -  Lambda ML 5.png)
 
@@ -180,5 +180,5 @@ This is one of the newest approaches available. EFS can be used to both train an
 
 [https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/](https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/)
 
-
-These are some of the various approaches that can be used to run Model Inference use-cases in Lambda. Please let us know if there any other approaches widely used that is missed out here?
+These are some of the various approaches that can be used to run Model Inference use cases in Lambda. Should you feel that this writeup has missed any approaches, please write to the author at 
+.
