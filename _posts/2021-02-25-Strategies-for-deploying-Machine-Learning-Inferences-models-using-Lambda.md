@@ -1,13 +1,14 @@
 ---
 title: Strategies for deploying Machine Learning Inferences models using Lambda
-date: 2021-02-25 00:00:00 Z
+date: {}
 categories:
-- Programming
-- Technology
+  - Programming
+  - Technology
 layout: post
 author: dinakaran
 image: assets/images/mi.jpeg
-Title: 
+Title: null
+published: true
 ---
 
 There is more than one way to deploy a machine learning inference model using Lambda. Lambda is serverless and the Pay as you go option helps to address burst workload with no overhead of running or managing the infrastructure. Depending on the kind of workload and the use case, one of these options can be used.
@@ -22,7 +23,7 @@ Small models that can be packaged for small inference use cases. Tensor Flow Lit
 
 **When to use**
 
-Prototyping, small models used in mobile apps or devices that has constraints with resources  
+Prototyping, small models used in mobile apps or devices that have constraints with resources  
 
 **Pros**
 
@@ -30,7 +31,7 @@ Simple and easy to use
 
 **Cons**
 
-Models are usually large and cannot be packaged as part of Lambda using this approach  
+Models are usually large and cannot be packaged as part of Lambda using this approach.
 Continuous updates to the model mean re-deployment of lambda. There is no de-coupling of Lambda and Model 
 
 **Reference**
@@ -40,7 +41,7 @@ Continuous updates to the model mean re-deployment of lambda. There is no de-cou
 
 ## 2.Inference Model packaged as Lamba layers
 
-Here the Inference model is packaged as part of  Lambda layers.  
+Here the Inference model is packaged as part of Lambda layers.
 
 ![Lambda Machine Learning Use-Cases -  Lambda ML 2.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases -  Lambda ML 2.png)
 
@@ -52,15 +53,15 @@ Model re-usability across different use cases.
 **Pros**
 
 1. Simple and easy to use
-1. Lambda and Model are separately packaged even though the change in the model means re-deployment of lambda layers and in turn Lambda itself
-1. Changes to the model can be updated in the layers alone and all Lambdas that are referencing the layers are automatically updated with the new updated model
+2. Lambda and Model are separately packaged even though the change in the model means redeployment of lambda layers and in turn Lambda itself
+3. Changes to the model can be updated in the layers alone and all Lambdas that are referencing the layers are automatically updated with the new updated model
 
 
 **Cons**
 
 1. Models are usually large and cannot be packaged as part of Lambda
-1. Continous updates to the model mean re-deployment of lambda. There is no de-coupling of Lambda and Model 
-1. Lambda has a limitation of only 5 layers. This could be challenging.
+2. Continuous updates to the model mean redeployment of lambda. There is no decoupling of Lambda and Model 
+3. Lambda has a limitation of only 5 layers. This could be challenging.
  
 
 **Reference:**
@@ -71,7 +72,7 @@ Model re-usability across different use cases.
 ## 3.Lambda and Inference Model packages as Lambda Containers
 
 
-This is the most recently available option. Lambda and Model Inference can be packaged as a single container, pushed to ECR and then Lambda can use a container repository URI to load the packages 
+This is the model that is recently available. Lambda and Model Inference can be packaged as a single container, pushed to ECR and then Lambda can use a container repository URI to load the packages 
 
 ![Lambda Machine Learning Use-Cases - Lambda ML 4.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases - Lambda ML 4.png)
 
@@ -86,8 +87,8 @@ This is the most recently available option. Lambda and Model Inference can be pa
 **Cons**
 
     
-1. Setup is slightly complex with the setting up of EFS and endpoints. Need to use Docker files. 
-1. Packaging allowed is up to a size of 10 GB only. Inference Models that are larger than this size cannot use this approach.
+1. Setup is slightly complex with the setting up of EFS and endpoints. There's a need to use Docker files. 
+2. Packaging allowed is up to a size of 10 GB. Inference Models that are larger than this size cannot use this approach.
 
 
 **Reference**: 
@@ -99,7 +100,7 @@ This is the most recently available option. Lambda and Model Inference can be pa
 
 ## 4.Inference Model loaded from S3 to Lambda
 
-Here the Inference model is available in S3 and Lambda downloads the model for execution 
+Here the Inference model is available in S3, and Lambda downloads the model for execution 
 
 ![Lambda Machine Learning Use-Cases -  Lambda ML 3.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases -  Lambda ML 3.png)
 
@@ -109,12 +110,12 @@ Here the Inference model is available in S3 and Lambda downloads the model for e
 **Pros**
 
 1. Simple and easy to use
-1. Lambda and Model are decoupled. Inference Models can be continuously updated with no need for a separate lambda deployment.
+2. Lambda and Model are decoupled. Inference Models can be continuously updated with no need for a separate lambda deployment.
 
 **Cons**
 
 1. Models are usually large and loading the complete model into Lambda for processing may take a really long time. 
-1. Larger models cannot be loaded into Lambda
+2. Larger models cannot be loaded into Lambda
 
 
 **Reference** 
@@ -124,7 +125,7 @@ Here the Inference model is available in S3 and Lambda downloads the model for e
 
 ## 5.Lambda invoking Inference Model Endpoint available  Sage Maker
 
-Sagemaker is used for Machine Learning. It provides both training and inference model endpoints. Lambda can call the inference model endpoint available in Sage Maker. Calling an Inference model in SageMaker is just another API invocation and SageMaker by itself has no connection to Lambda whatsoever. But this is yet another pattern followed in case there are pre-processing or post-processing logic required based on the inference model response  
+Sagemaker is used for Machine Learning. It provides both training and inference model endpoints. Lambda can call the inference model endpoint available in Sage Maker. Calling an Inference model in SageMaker is just another API invocation and SageMaker by itself has no connection to Lambda whatsoever. This is yet another pattern followed in case pre-processing or post-processing logics are required based on the inference model response  
 
 ![Lambda Machine Learning Use-Cases - Lambda ML 6.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases - Lambda ML 6.png)
 
