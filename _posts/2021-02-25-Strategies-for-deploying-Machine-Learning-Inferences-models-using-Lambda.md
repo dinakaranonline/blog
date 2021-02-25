@@ -108,13 +108,14 @@ Here the Inference model is available in S3 and Lambda downloads the model for e
 
 **Pros**
 
-     1.Simple and easy to use
-     2. Lambda and Model are decoupled. Inference Models can be continuously updated with no need for a separate lambda deployment. 
+1. Simple and easy to use
+1. Lambda and Model are decoupled. Inference Models can be continuously updated with no need for a separate lambda deployment.
 
 **Cons**
 
-      1. Models are usually large and loading the complete model into Lambda for processing may take a really long time. 
-      2. Larger models cannot be loaded into Lambda 
+1. Models are usually large and loading the complete model into Lambda for processing may take a really long time. 
+1. Larger models cannot be loaded into Lambda
+
 
 **Reference** 
 
