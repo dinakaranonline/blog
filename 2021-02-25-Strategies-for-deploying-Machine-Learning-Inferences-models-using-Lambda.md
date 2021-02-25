@@ -2,7 +2,7 @@
 
 There is more than one way to deploy a machine learning inference model using Lambda. Lambda is serverless and the Pay as you go option helps to address burst workload with no overhead of running or managing the infrastructure. Depending on the kind of workload and the use case, one of these options can be used.
 
-## Inference Model packaged along with Lambda
+## 1.Inference Model packaged along with Lambda
 
 Small models that can be packaged for small inference use cases. Tensor Flow Lite and few other models can be used here. 
 ![Lambda Machine Learning Use-Cases-2.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases-2.png)
@@ -26,7 +26,7 @@ Continuous updates to the model mean re-deployment of lambda. There is no de-cou
 https://segments.ai/blog/pytorch-on-lambda
 
 
-## Inference Model packaged as Lamba layers
+## 2.Inference Model packaged as Lamba layers
 
 Here the Inference model is packaged as part of  Lambda layers.  
 
@@ -56,7 +56,7 @@ Model re-usability across different use cases.
 https://towardsdatascience.com/aws-lambda-amazon-api-gateway-not-as-daunting-as-they-sound-part-1-d77b92f53626
 
 
-**3.Lambda and Inference Model packages as Lambda Containers **
+## 3.Lambda and Inference Model packages as Lambda Containers
 
 
 This is the most recently available option. Lambda and Model Inference can be packaged as a single container, pushed to ECR and then Lambda can use a container repository URI to load the packages 
@@ -65,7 +65,7 @@ This is the most recently available option. Lambda and Model Inference can be pa
 
 
 
-**When to use **
+**When to use**
 
 **Pros**
      
@@ -85,14 +85,14 @@ https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pyto
 
 
 
-**3.Inference Model loaded from S3 to  Lambda **
+## 4.Inference Model loaded from S3 to Lambda
 
 Here the Inference model is available in S3 and Lambda downloads the model for execution 
 
 ![Lambda Machine Learning Use-Cases -  Lambda ML 3.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases -  Lambda ML 3.png)
 
 
-**When to use **
+**When to use**
 
 **Pros**
 
@@ -107,7 +107,7 @@ Here the Inference model is available in S3 and Lambda downloads the model for e
 Reference https://towardsdatascience.com/deploying-sklearn-machine-learning-on-aws-lambda-with-sam-8cc69ee04f47
 
 
-**4.Lambda invoking Inference Model Endpoint available  Sage Maker**
+## 5.Lambda invoking Inference Model Endpoint available  Sage Maker
 
 Sagemaker is used for Machine Learning. It provides both training and inference model endpoints. Lambda can call the inference model endpoint available in Sage Maker. Calling an Inference model in SageMaker is just another API invocation and SageMaker by itself has no connection to Lambda whatsoever. But this is yet another pattern followed in case there are pre-processing or post-processing logic required based on the inference model response  
 
@@ -135,13 +135,13 @@ If Sagemaker is already available for Model training, the inference is an additi
 Reference https://levelup.gitconnected.com/deploy-your-machine-learning-model-as-a-rest-api-on-aws-english-dcb1a0db3110
  
 
-**5.Lambda invoking Inference Model available in EFS **
+## 6.Lambda invoking Inference Model available in EFS
 
 This is one of the newest approaches available. EFS can be used to both train and deploy models. EFS can also be mounted on the Lambda as an extension. This ensures that Model training and deployment into production can happen with no impact on Lambda deployment. Also, the cold start issue typically associated with loading a large model from S3 or other packages restriction can be greatly avoided. 
 
 ![Lambda Machine Learning Use-Cases -  Lambda ML 5.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases -  Lambda ML 5.png)
 
-**When to use **
+**When to use**
 
 **Pros**
 
