@@ -19,7 +19,7 @@ Small models that can be packaged for small inference use cases. Tensor Flow Lit
 
 ![Lambda Machine Learning Use-Cases-2.png]({{site.baseurl}}/_posts/Lambda Machine Learning Use-Cases-2.png)
 
-
+123
 
 
 **When to use**
