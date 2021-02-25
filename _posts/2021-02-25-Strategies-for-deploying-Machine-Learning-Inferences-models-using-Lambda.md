@@ -1,3 +1,14 @@
+---
+published: true
+layout: post
+author: dinakaran
+image: assets/images/digital-transformation.jpeg
+Title: null
+categories:
+  - Programming
+  - Technology
+title: Strategies for deploying Machine Learning Inferences models using Lambda
+---
 ## Strategies for deploying Machine Learning Inferences models using Lambda
 
 
