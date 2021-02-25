@@ -2,7 +2,7 @@
 
 There is more than one way to deploy a machine learning inference model using Lambda. Lambda is serverless and the Pay as you go option helps to address burst workload with no overhead of running or managing the infrastructure. Depending on the kind of workload and the use case, one of these options can be used.
 
-### 1.Inference Model packaged along with Lambda
+### Inference Model packaged along with Lambda
 
 Small models that can be packaged for small inference use cases. Tensor Flow Lite and few other models can be used here. 
 ![Lambda Machine Learning Use-Cases-2.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases-2.png)
