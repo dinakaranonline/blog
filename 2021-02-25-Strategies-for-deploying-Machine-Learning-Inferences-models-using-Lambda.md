@@ -56,6 +56,35 @@ Model re-usability across different use cases.
 https://towardsdatascience.com/aws-lambda-amazon-api-gateway-not-as-daunting-as-they-sound-part-1-d77b92f53626
 
 
+**3.Lambda and Inference Model packages as Lambda Containers **
+
+
+This is the most recently available option. Lambda and Model Inference can be packaged as a single container, pushed to ECR and then Lambda can use a container repository URI to load the packages 
+
+![Lambda Machine Learning Use-Cases - Lambda ML 4.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases - Lambda ML 4.png)
+
+
+
+**When to use **
+
+**Pros**
+     
+1.Fits the usual Lambda and serverless pattern 
+
+**Cons**
+
+    
+1. Setup is slightly complex with the setting up of EFS and endpoints. Need to use Docker files. 
+1. Packaging allowed is up to a size of 10 GB only. Inference Models that are larger than this size cannot use this approach.
+
+
+**Reference**: 
+
+https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/
+
+
+
+
 **3.Inference Model loaded from S3 to  Lambda **
 
 Here the Inference model is available in S3 and Lambda downloads the model for execution 
@@ -130,28 +159,6 @@ https://medium.com/faun/setup-serverless-ml-inference-with-aws-lambda-efs-738546
 https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/
 
 
-**6.Lambda and Inference Model packages as Lambda Containers **
-
-
-This is the most recently available option. Lambda and Model Inference can be packaged as a single container, pushed to ECR and then Lambda can use a container repository URI to load the packages 
-
-
-**When to use **
-
-**Pros**
-     
-1.Fits the usual Lambda and serverless pattern 
-
-**Cons**
-
-    
-1. Setup is slightly complex with the setting up of EFS and endpoints. Need to use Docker files. 
-1. Packaging allowed is up to a size of 10 GB only. Inference Models that are larger than this size cannot use this approach.
-
-
-**Reference**: 
-
-https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/
 
 
 These are some of the various approaches that can be used to run Model Inference use-cases in Lambda. Please let us know if there any other approaches widely used that is missed out here? 
