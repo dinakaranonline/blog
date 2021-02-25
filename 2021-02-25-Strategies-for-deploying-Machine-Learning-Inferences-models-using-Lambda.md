@@ -170,10 +170,4 @@ This is one of the newest approaches available. EFS can be used to both train an
 [https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/](https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/)
 
 
-These are some of the various approaches that can be used to run Model Inference use-cases in Lambda. Please let us know if there any other approaches widely used that is missed out here? 
-
-
-
-
-
-
+These are some of the various approaches that can be used to run Model Inference use-cases in Lambda. Please let us know if there any other approaches widely used that is missed out here?
