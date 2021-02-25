@@ -1,13 +1,14 @@
 ---
 title: Strategies for deploying Machine Learning Inferences models using Lambda
-date: 2021-02-25 00:00:00 Z
+date: {}
 categories:
-- Programming
-- Technology
+  - Programming
+  - Technology
 layout: post
 author: dinakaran
 image: assets/images/mi.jpeg
-Title: 
+Title: null
+published: true
 ---
 
 There is more than one way to deploy a machine learning inference model using Lambda. Lambda is serverless and the Pay as you go option helps to address burst workload with no overhead of running or managing the infrastructure. Depending on the kind of workload and the use case, one of these options can be used.
@@ -185,5 +186,4 @@ Summarizing all the major approaches in the form of matrix
 
 
 
-These are some of the various approaches that can be used to run Model Inference use cases in Lambda. Should you feel that this writeup has missed any approaches, please write to the author at 
-.
+These are some of the various approaches that can be used to run Model Inference use cases in Lambda. Should you feel this writeup has missed any approaches please write to the author.
