@@ -26,7 +26,7 @@ Continuous updates to the model mean re-deployment of lambda. There is no de-cou
 https://segments.ai/blog/pytorch-on-lambda
 
 
-**2.Inference Model packaged as Lamba layers **
+## Inference Model packaged as Lamba layers
 
 Here the Inference model is packaged as part of  Lambda layers.  
 
