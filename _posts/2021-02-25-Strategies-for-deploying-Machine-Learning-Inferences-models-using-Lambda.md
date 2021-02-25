@@ -1,6 +1,6 @@
 ---
 title: Strategies for deploying Machine Learning Inferences models using Lambda
-date: {}
+date: 2021-02-25T00:00:00.000Z
 categories:
   - Programming
   - Technology
