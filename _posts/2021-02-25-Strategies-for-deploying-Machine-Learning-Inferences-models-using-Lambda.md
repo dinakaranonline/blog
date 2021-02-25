@@ -17,7 +17,7 @@ There is more than one way to deploy a machine learning inference model using La
 Small models that can be packaged for small inference use cases. Tensor Flow Lite and few other models can be used here. 
 
 
-![Lambda Machine Learning Use-Cases-2.png =100X100]({{site.baseurl}}/_posts/Lambda Machine Learning Use-Cases-2.png)
+![Lambda Machine Learning Use-Cases-2.png]({{site.baseurl}}/_posts/Lambda Machine Learning Use-Cases-2.png)
 
 123
 
