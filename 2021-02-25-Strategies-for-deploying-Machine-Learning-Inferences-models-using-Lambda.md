@@ -31,7 +31,8 @@ https://segments.ai/blog/pytorch-on-lambda
 
 Here the Inference model is packaged as part of  Lambda layers.  
 
-![]({{site.baseurl}}//Lambda%20Machine%20Learning%20Use-Cases-2.png)
+![Lambda Machine Learning Use-Cases -  Lambda ML 2.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases -  Lambda ML 2.png)
+
 
 **When to use **
 
