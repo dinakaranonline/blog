@@ -23,7 +23,7 @@ Continuous updates to the model mean re-deployment of lambda. There is no de-cou
 
 **Reference**
 
-https://segments.ai/blog/pytorch-on-lambda
+[https://segments.ai/blog/pytorch-on-lambda](https://segments.ai/blog/pytorch-on-lambda)
 
 
 ## 2.Inference Model packaged as Lamba layers
@@ -53,7 +53,7 @@ Model re-usability across different use cases.
 
 **Reference:**
 
-https://towardsdatascience.com/aws-lambda-amazon-api-gateway-not-as-daunting-as-they-sound-part-1-d77b92f53626
+[https://towardsdatascience.com/aws-lambda-amazon-api-gateway-not-as-daunting-as-they-sound-part-1-d77b92f53626](https://towardsdatascience.com/aws-lambda-amazon-api-gateway-not-as-daunting-as-they-sound-part-1-d77b92f53626)
 
 
 ## 3.Lambda and Inference Model packages as Lambda Containers
@@ -80,7 +80,7 @@ This is the most recently available option. Lambda and Model Inference can be pa
 
 **Reference**: 
 
-https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/
+[https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/](https://aws.amazon.com/blogs/machine-learning/using-container-images-to-run-pytorch-models-in-aws-lambda/)
 
 
 
@@ -104,7 +104,9 @@ Here the Inference model is available in S3 and Lambda downloads the model for e
       1. Models are usually large and loading the complete model into Lambda for processing may take a really long time. 
       2. Larger models cannot be loaded into Lambda 
 
-Reference https://towardsdatascience.com/deploying-sklearn-machine-learning-on-aws-lambda-with-sam-8cc69ee04f47
+**Reference** 
+
+[https://towardsdatascience.com/deploying-sklearn-machine-learning-on-aws-lambda-with-sam-8cc69ee04f47](https://towardsdatascience.com/deploying-sklearn-machine-learning-on-aws-lambda-with-sam-8cc69ee04f47)
 
 
 ## 5.Lambda invoking Inference Model Endpoint available  Sage Maker
@@ -132,7 +134,9 @@ If Sagemaker is already available for Model training, the inference is an additi
 1.  SageMaker inference endpoints may not be serverless.
 
 
-Reference https://levelup.gitconnected.com/deploy-your-machine-learning-model-as-a-rest-api-on-aws-english-dcb1a0db3110
+**Reference** 
+
+[https://levelup.gitconnected.com/deploy-your-machine-learning-model-as-a-rest-api-on-aws-english-dcb1a0db3110](https://levelup.gitconnected.com/deploy-your-machine-learning-model-as-a-rest-api-on-aws-english-dcb1a0db3110)
  
 
 ## 6.Lambda invoking Inference Model available in EFS
@@ -158,9 +162,9 @@ This is one of the newest approaches available. EFS can be used to both train an
 
 **Reference**
 
-https://medium.com/faun/setup-serverless-ml-inference-with-aws-lambda-efs-738546fa2e03
+[https://medium.com/faun/setup-serverless-ml-inference-with-aws-lambda-efs-738546fa2e03](https://medium.com/faun/setup-serverless-ml-inference-with-aws-lambda-efs-738546fa2e03)
 
-https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/
+[https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/](https://thenewstack.io/tutorial-host-a-serverless-ml-inference-api-with-aws-lambda-and-amazon-efs/)
 
 
 These are some of the various approaches that can be used to run Model Inference use-cases in Lambda. Please let us know if there any other approaches widely used that is missed out here? 
