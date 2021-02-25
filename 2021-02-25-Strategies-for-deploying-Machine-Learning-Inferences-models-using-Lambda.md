@@ -2,14 +2,13 @@
 
 There is more than one way to deploy a machine learning inference model using Lambda. Lambda is serverless and the Pay as you go option helps to address burst workload with no overhead of running or managing the infrastructure. Depending on the kind of workload and the use case, one of these options can be used.
 
-**1.Inference Model packaged along with Lambda** 
+### 1.Inference Model packaged along with Lambda
 
 Small models that can be packaged for small inference use cases. Tensor Flow Lite and few other models can be used here. 
 ![Lambda Machine Learning Use-Cases-2.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases-2.png)
 
 
-
-**When to use **
+**When to use**
 
 Prototyping, small models used in mobile apps or devices that has constraints with resources  
 
@@ -34,7 +33,7 @@ Here the Inference model is packaged as part of  Lambda layers.
 ![Lambda Machine Learning Use-Cases -  Lambda ML 2.png]({{site.baseurl}}/Lambda Machine Learning Use-Cases -  Lambda ML 2.png)
 
 
-**When to use **
+**When to use**
 
 Model re-usability across different use cases. 
 
@@ -52,7 +51,7 @@ Model re-usability across different use cases.
 1. Lambda has a limitation of only 5 layers. This could be challenging.
  
 
-**Reference: **
+**Reference:**
 
 https://towardsdatascience.com/aws-lambda-amazon-api-gateway-not-as-daunting-as-they-sound-part-1-d77b92f53626
 
