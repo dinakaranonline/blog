@@ -39,7 +39,7 @@ Continuous updates to the model mean re-deployment of lambda. There is no de-cou
 [https://segments.ai/blog/pytorch-on-lambda](https://segments.ai/blog/pytorch-on-lambda)
 
 
-## 2.Inference Model packaged as Lamba layers
+## 2.Inference Model packaged as Lambda layers
 
 Here the Inference model is packaged as part of Lambda layers.
 
@@ -87,8 +87,7 @@ This is the model that is recently available. Lambda and Model Inference can be 
 **Cons**
 
     
-1. Setup is slightly complex with the setting up of EFS and endpoints. There's a need to use Docker files. 
-2. Packaging allowed is up to a size of 10 GB. Inference Models that are larger than this size cannot use this approach.
+1. Packaging allowed is up to a size of 10 GB. Inference Models that are larger than this size cannot use this approach.
 
 
 **Reference**: 
@@ -171,7 +170,7 @@ This is one of the newest approaches available. EFS can be used to both train an
 **Cons**
     
 1. Setup is slightly complex with the setting up of EFS and endpoints. 
-1. EFS is not serverless? Need to pay for the services of EFS  irrespective of its usage
+1. EFS is not serverless. Need to pay for the services of EFS  irrespective of its usage
  
 
 **Reference**
